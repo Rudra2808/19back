@@ -1,0 +1,1001 @@
+property_id,location,city,state,latitude,longitude,area_sqft,bedrooms,bathrooms,floor_number,total_floors,furnishing_status,property_type,balcony_sqft,parking_spaces,amenities_score,nearby_workplace_km,nearby_school_km,nearby_hospital_km,nearby_metro_km,crime_rate,air_quality_index,monthly_rent
+P0001,Gandhinagar - central,Gandhinagar,Gujarat,23.198826,72.642256,855,2,2,1,1,Furnished,Independent House,33,0,4,2.78,4.09,0.46,4.97,41.6,72,10932
+P0002,Morbi - central,Morbi,Gujarat,22.835864,70.856511,1112,3,3,2,8,Furnished,Apartment,32,1,1,9.72,5.86,5.46,39.06,44.3,128,5930
+P0003,Valsad - central,Valsad,Gujarat,20.573884,72.942699,865,2,3,1,1,Unfurnished,Villa,61,1,1,10.04,1.38,3.68,28.46,47.5,67,5865
+P0004,Jamnagar - central,Jamnagar,Gujarat,22.480026,70.051438,591,1,1,1,1,Unfurnished,Independent House,15,0,2,3.92,2.22,2.27,38.0,56.7,85,3661
+P0005,Bharuch - central,Bharuch,Gujarat,21.698186,73.001653,871,3,4,7,12,Semi-Furnished,Apartment,104,1,3,9.12,6.9,1.7,10.6,46.3,73,6672
+P0006,Bhavnagar - central,Bhavnagar,Gujarat,21.764961,72.128285,250,1,1,1,1,Unfurnished,Independent House,15,1,1,2.07,0.13,7.28,30.19,67.2,93,2000
+P0007,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.229514,72.655861,633,2,3,1,11,Semi-Furnished,Apartment,43,1,3,11.83,6.47,2.55,6.02,45.3,93,7569
+P0008,Veraval - central,Veraval,Gujarat,20.884874,70.333842,1313,4,4,7,12,Unfurnished,Apartment,148,1,2,8.61,3.25,6.78,18.07,62.4,90,5973
+P0009,Ahmedabad - central,Ahmedabad,Gujarat,23.04095,72.552825,859,2,2,1,1,Unfurnished,Independent House,12,1,7,2.73,1.15,9.37,14.28,22.7,87,14518
+P0010,Ahmedabad - central,Ahmedabad,Gujarat,23.047896,72.567988,502,1,1,1,1,Furnished,Villa,19,2,8,3.13,1.6,4.6,10.55,38.6,98,8411
+P0011,Valsad - central,Valsad,Gujarat,20.596901,72.92998,2345,3,4,1,1,Unfurnished,Independent House,50,1,3,4.93,0.56,3.91,39.49,50.3,147,17709
+P0012,Kheda - outskirts,Kheda,Gujarat,22.734149,72.694202,301,1,1,1,1,Semi-Furnished,Villa,14,1,1,7.09,4.07,8.56,10.51,57.5,104,2000
+P0013,Anand - central,Anand,Gujarat,22.590341,72.955044,1513,2,2,4,4,Unfurnished,Apartment,115,1,4,8.1,2.58,2.8,9.58,45.3,82,12276
+P0014,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.010463,72.581203,730,2,2,2,8,Unfurnished,Apartment,41,2,7,8.5,4.93,9.87,16.35,58.4,82,10905
+P0015,Bharuch - central,Bharuch,Gujarat,21.682949,73.024688,1042,2,2,4,8,Unfurnished,Apartment,109,1,2,10.92,0.5,6.42,34.03,60.7,110,7156
+P0016,Surat - central,Surat,Gujarat,21.194135,72.813705,758,2,2,1,1,Unfurnished,Independent House,36,1,4,1.95,1.11,3.22,22.47,47.2,35,9503
+P0017,Surat - central,Surat,Gujarat,21.180394,72.845203,1056,3,4,1,1,Unfurnished,Independent House,28,1,3,2.29,3.36,1.96,23.11,43.6,57,12702
+P0018,Surat - central,Surat,Gujarat,21.164181,72.859969,781,2,3,6,10,Semi-Furnished,Apartment,77,1,5,2.48,2.69,8.67,24.17,38.9,118,10610
+P0019,Jamnagar - outskirts,Jamnagar,Gujarat,22.466863,70.058895,1694,2,2,1,1,Furnished,Villa,87,1,5,5.35,7.88,1.33,36.48,51.6,108,12576
+P0020,Gandhidham - outskirts,Gandhidham,Gujarat,23.070349,70.145988,1508,2,2,6,8,Unfurnished,Apartment,48,1,1,8.07,2.68,7.03,24.4,58.8,141,7634
+P0021,Surat - central,Surat,Gujarat,21.180031,72.838256,270,1,1,1,1,Unfurnished,Independent House,8,1,8,6.23,6.37,9.61,18.4,37.1,65,4244
+P0022,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.037558,72.587603,932,2,2,10,10,Unfurnished,Apartment,25,1,8,2.49,5.6,5.04,6.1,39.4,77,15573
+P0023,Ahmedabad - central,Ahmedabad,Gujarat,23.046911,72.568155,1352,4,4,4,4,Furnished,Apartment,89,1,10,3.94,6.07,4.54,20.38,48.2,63,23812
+P0024,Surat - outskirts,Surat,Gujarat,21.149368,72.813937,264,1,1,1,1,Semi-Furnished,Independent House,7,1,7,2.97,2.75,8.95,2.01,47.2,102,3833
+P0025,Rajkot - central,Rajkot,Gujarat,22.306193,70.816278,759,3,3,1,1,Unfurnished,Independent House,8,1,4,5.83,7.55,3.13,9.75,60.8,62,7117
+P0026,Gandhidham - outskirts,Gandhidham,Gujarat,23.058504,70.116709,581,2,2,3,9,Unfurnished,Apartment,65,1,1,10.9,4.78,6.7,7.94,35.4,128,3195
+P0027,Vadodara - central,Vadodara,Gujarat,22.322454,73.208177,469,2,3,1,1,Semi-Furnished,Independent House,7,0,7,6.57,8.0,3.63,16.25,48.8,56,5803
+P0028,Surat - central,Surat,Gujarat,21.194682,72.823618,1019,2,2,7,7,Semi-Furnished,Apartment,82,1,7,9.38,1.39,3.25,14.47,53.3,68,14474
+P0029,Ankleshwar - central,Ankleshwar,Gujarat,21.604412,73.007111,268,1,1,2,12,Unfurnished,Apartment,20,0,1,6.49,5.33,0.88,27.66,63.9,109,2000
+P0030,Vadodara - outskirts,Vadodara,Gujarat,22.330098,73.165832,676,1,1,1,1,Semi-Furnished,Villa,45,1,4,5.34,5.88,2.83,21.29,48.1,82,7241
+P0031,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.763066,72.164611,830,3,3,3,7,Semi-Furnished,Apartment,66,1,2,6.3,1.61,2.57,19.22,43.5,94,5390
+P0032,Rajkot - central,Rajkot,Gujarat,22.306052,70.817931,788,2,2,9,10,Semi-Furnished,Apartment,49,1,6,8.49,2.24,2.66,3.02,47.8,103,8561
+P0033,Surat - central,Surat,Gujarat,21.185368,72.807255,260,1,1,2,4,Semi-Furnished,Apartment,14,1,7,1.69,0.46,0.73,7.3,54.9,70,3672
+P0034,Ahmedabad - central,Ahmedabad,Gujarat,23.025984,72.56637,538,1,1,1,1,Furnished,Independent House,7,1,7,8.3,1.3,8.15,23.73,46.5,89,8389
+P0035,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.194992,72.631411,962,3,3,5,9,Semi-Furnished,Apartment,25,1,1,9.2,5.04,2.79,2.03,49.8,129,10063
+P0036,Mehsana - central,Mehsana,Gujarat,23.572755,72.358057,1222,3,4,3,6,Unfurnished,Apartment,100,2,2,5.22,4.4,6.55,36.79,53.8,95,7650
+P0037,Navsari - central,Navsari,Gujarat,20.966858,72.957312,850,3,4,1,1,Semi-Furnished,Independent House,37,0,2,0.67,3.51,3.36,13.76,73.5,138,5560
+P0038,Ankleshwar - outskirts,Ankleshwar,Gujarat,21.584649,73.005799,751,2,3,11,11,Semi-Furnished,Apartment,35,1,1,9.81,7.76,4.81,19.29,51.5,117,4462
+P0039,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.761022,72.124997,351,0,1,4,4,Unfurnished,Apartment,35,0,4,10.46,3.75,0.73,23.15,42.1,80,2560
+P0040,Surat - central,Surat,Gujarat,21.190129,72.831003,704,3,3,1,1,Unfurnished,Villa,18,1,9,6.72,0.84,9.92,22.82,36.6,85,11567
+P0041,Nadiad - central,Nadiad,Gujarat,22.67917,72.849513,788,3,3,4,9,Unfurnished,Apartment,55,2,4,3.46,6.34,4.27,37.7,33.5,101,5919
+P0042,Junagadh - outskirts,Junagadh,Gujarat,21.541185,70.451065,673,2,2,7,11,Semi-Furnished,Apartment,35,1,2,6.95,1.95,7.8,6.53,50.0,61,4271
+P0043,Anand - outskirts,Anand,Gujarat,22.581492,72.914801,1364,2,2,1,1,Semi-Furnished,Villa,23,1,1,10.94,0.22,1.61,35.48,55.9,102,8973
+P0044,Gandhinagar - central,Gandhinagar,Gujarat,23.223625,72.659255,1212,4,4,8,8,Unfurnished,Apartment,28,0,3,7.65,7.38,9.97,18.67,44.8,102,14518
+P0045,Rajkot - outskirts,Rajkot,Gujarat,22.301569,70.787439,1000,2,2,2,5,Semi-Furnished,Apartment,76,1,4,1.13,6.98,6.27,6.02,50.7,84,9729
+P0046,Surat - central,Surat,Gujarat,21.161738,72.818852,1189,2,2,1,1,Unfurnished,Independent House,36,1,3,5.59,2.49,9.99,21.33,49.2,98,14023
+P0047,Mehsana - central,Mehsana,Gujarat,23.608848,72.380451,1093,2,2,3,3,Unfurnished,Apartment,112,1,1,2.92,6.44,2.35,11.65,51.9,145,6485
+P0048,Ahmedabad - central,Ahmedabad,Gujarat,23.047343,72.598051,821,3,2,1,5,Unfurnished,Apartment,43,1,7,9.48,7.02,3.79,12.54,39.2,94,13131
+P0049,Kheda - central,Kheda,Gujarat,22.76334,72.693574,1395,3,4,6,6,Unfurnished,Apartment,164,2,1,4.52,6.35,0.34,23.78,39.2,117,6491
+P0050,Morbi - outskirts,Morbi,Gujarat,22.845856,70.826367,1126,2,2,1,1,Semi-Furnished,Independent House,59,1,1,5.68,5.64,6.56,9.08,56.1,108,5757
+P0051,Surat - central,Surat,Gujarat,21.161961,72.859956,605,2,2,1,1,Unfurnished,Independent House,33,1,7,11.28,2.31,6.96,5.43,34.6,89,9174
+P0052,Vadodara - outskirts,Vadodara,Gujarat,22.289629,73.164157,813,3,3,2,10,Unfurnished,Apartment,68,1,4,9.48,2.02,1.43,14.11,61.5,109,8295
+P0053,Vapi - central,Vapi,Gujarat,20.376222,72.881606,1415,2,2,1,1,Unfurnished,Villa,67,1,4,10.42,1.14,3.71,32.6,50.5,101,12524
+P0054,Rajkot - central,Rajkot,Gujarat,22.315066,70.801616,1301,3,3,4,11,Unfurnished,Apartment,31,2,5,6.35,3.72,9.65,1.52,36.0,95,14025
+P0055,Palanpur - central,Palanpur,Gujarat,24.17408,72.45783,1378,2,2,9,12,Unfurnished,Apartment,80,1,2,6.17,3.5,7.97,9.0,41.9,64,6749
+P0056,Rajkot - outskirts,Rajkot,Gujarat,22.309088,70.805895,257,1,1,5,8,Semi-Furnished,Apartment,9,1,6,10.01,0.84,1.15,18.47,50.8,62,2763
+P0057,Vadodara - central,Vadodara,Gujarat,22.322956,73.185646,541,2,3,1,1,Unfurnished,Independent House,28,1,6,2.71,5.29,2.4,2.71,51.4,72,6330
+P0058,Gandhidham - outskirts,Gandhidham,Gujarat,23.056112,70.13909,1629,4,4,11,12,Unfurnished,Apartment,76,1,1,3.85,2.78,0.26,35.45,44.2,96,8691
+P0059,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.023241,72.56211,990,3,3,2,8,Unfurnished,Apartment,35,1,9,1.16,3.6,4.36,15.18,34.0,88,17582
+P0060,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.03472,72.571416,492,2,2,1,12,Furnished,Apartment,24,1,6,3.22,2.69,0.28,18.68,44.4,101,7377
+P0061,Surendranagar - outskirts,Surendranagar,Gujarat,22.751286,71.622888,1615,2,2,3,4,Semi-Furnished,Apartment,124,1,2,1.56,0.26,3.38,33.05,39.6,75,7973
+P0062,Valsad - central,Valsad,Gujarat,20.608327,72.913461,486,2,3,1,1,Furnished,Independent House,31,0,1,7.67,4.29,2.1,32.17,37.0,154,3418
+P0063,Ahmedabad - central,Ahmedabad,Gujarat,23.001557,72.545497,1006,2,2,1,1,Semi-Furnished,Independent House,63,1,8,11.11,4.56,6.43,15.61,49.2,53,16243
+P0064,Rajkot - central,Rajkot,Gujarat,22.300884,70.820789,878,2,2,2,3,Unfurnished,Apartment,24,2,5,7.46,4.11,4.73,13.86,51.5,40,8966
+P0065,Anand - central,Anand,Gujarat,22.556434,72.953976,673,1,1,1,1,Unfurnished,Independent House,53,0,2,7.82,0.41,7.13,39.68,38.4,98,5004
+P0066,Rajkot - outskirts,Rajkot,Gujarat,22.313628,70.779937,843,3,3,5,9,Semi-Furnished,Apartment,88,1,4,1.97,0.74,6.7,22.92,40.6,125,8498
+P0067,Nadiad - central,Nadiad,Gujarat,22.708169,72.84312,364,1,1,1,1,Unfurnished,Independent House,29,1,1,8.11,4.12,0.38,15.81,60.7,97,2091
+P0068,Diu - central,Diu,Gujarat,20.727175,71.012175,700,2,2,1,1,Unfurnished,Independent House,36,1,3,8.38,5.04,9.05,30.24,62.7,113,5613
+P0069,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.234613,72.654976,961,2,2,1,1,Semi-Furnished,Independent House,65,2,2,11.82,3.75,2.96,9.55,23.4,86,11687
+P0070,Ahmedabad - central,Ahmedabad,Gujarat,23.013475,72.543,385,1,1,1,1,Unfurnished,Independent House,11,1,5,10.88,1.26,4.49,23.66,41.9,106,5546
+P0071,Ahmedabad - central,Ahmedabad,Gujarat,23.007855,72.591498,1015,3,3,3,4,Unfurnished,Apartment,34,2,10,8.41,1.2,7.11,11.22,44.1,80,18137
+P0072,Junagadh - outskirts,Junagadh,Gujarat,21.509976,70.427994,708,3,3,4,6,Unfurnished,Apartment,58,0,2,10.07,4.05,5.45,27.12,36.3,82,4713
+P0073,Vadodara - central,Vadodara,Gujarat,22.314895,73.19749,1128,3,3,9,11,Semi-Furnished,Apartment,66,1,6,11.78,2.1,0.36,19.71,36.9,125,13886
+P0074,Nadiad - central,Nadiad,Gujarat,22.664714,72.887602,1383,4,4,1,1,Semi-Furnished,Independent House,81,2,2,0.94,6.23,4.69,15.27,58.4,108,8514
+P0075,Jamnagar - outskirts,Jamnagar,Gujarat,22.482224,70.049741,605,1,1,1,1,Furnished,Independent House,33,1,2,5.36,3.26,4.51,38.48,47.1,114,3880
+P0076,Gandhidham - central,Gandhidham,Gujarat,23.050141,70.153302,1265,3,3,1,1,Semi-Furnished,Independent House,41,0,1,8.0,2.52,6.11,19.91,50.1,85,6609
+P0077,Vadodara - outskirts,Vadodara,Gujarat,22.313506,73.191944,728,2,2,3,8,Unfurnished,Apartment,24,1,8,0.61,0.63,7.83,9.16,36.4,113,9832
+P0078,Ankleshwar - central,Ankleshwar,Gujarat,21.634918,72.993111,942,3,3,1,6,Furnished,Apartment,36,2,1,1.59,6.22,7.1,12.51,41.8,82,5792
+P0079,Ahmedabad - central,Ahmedabad,Gujarat,23.01419,72.554854,1195,2,3,1,1,Unfurnished,Villa,67,1,9,3.63,2.47,1.74,17.74,38.1,65,20929
+P0080,Veraval - outskirts,Veraval,Gujarat,20.90854,70.356998,938,3,3,3,11,Unfurnished,Apartment,26,2,2,8.68,4.25,7.74,33.82,77.5,136,4026
+P0081,Mehsana - central,Mehsana,Gujarat,23.593934,72.356643,1401,4,4,1,1,Furnished,Independent House,63,2,1,6.31,2.5,1.79,37.72,55.7,163,8198
+P0082,Ahmedabad - central,Ahmedabad,Gujarat,22.995228,72.579887,1208,4,4,11,11,Furnished,Apartment,137,1,7,8.7,4.88,8.46,14.09,41.1,74,19195
+P0083,Junagadh - outskirts,Junagadh,Gujarat,21.5289,70.446655,944,2,2,6,7,Unfurnished,Apartment,64,1,1,3.71,0.68,0.79,20.39,43.8,102,5764
+P0084,Nadiad - outskirts,Nadiad,Gujarat,22.711009,72.887625,1598,2,3,3,4,Furnished,Apartment,51,1,1,0.8,7.57,8.67,19.63,73.0,91,8761
+P0085,Nadiad - central,Nadiad,Gujarat,22.694401,72.88243,1616,3,3,1,3,Unfurnished,Apartment,113,1,6,4.36,0.5,5.05,35.88,45.6,80,12869
+P0086,Rajkot - outskirts,Rajkot,Gujarat,22.296292,70.831407,804,3,2,4,11,Semi-Furnished,Apartment,39,1,2,6.69,6.62,6.31,15.28,49.1,100,7039
+P0087,Junagadh - central,Junagadh,Gujarat,21.528123,70.458339,1234,3,3,3,5,Unfurnished,Apartment,88,2,4,1.85,7.46,3.32,18.75,36.2,68,9185
+P0088,Jamnagar - central,Jamnagar,Gujarat,22.475711,70.037931,481,1,1,5,9,Unfurnished,Apartment,44,1,1,5.8,7.74,7.87,32.17,36.4,82,3013
+P0089,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.189337,72.615185,1022,2,2,1,1,Furnished,Independent House,11,1,2,8.35,3.34,7.79,23.01,60.4,68,10929
+P0090,Surat - central,Surat,Gujarat,21.196689,72.860036,644,2,3,6,11,Semi-Furnished,Apartment,56,1,5,9.68,2.19,4.94,23.93,40.0,103,8715
+P0091,Porbandar - outskirts,Porbandar,Gujarat,21.628958,69.617048,730,3,3,1,1,Unfurnished,Independent House,21,1,1,4.68,7.84,8.22,38.41,56.3,87,3730
+P0092,Vadodara - central,Vadodara,Gujarat,22.283233,73.197446,881,2,3,5,11,Furnished,Apartment,71,1,6,8.1,4.3,6.45,1.31,32.4,112,11012
+P0093,Ahmedabad - central,Ahmedabad,Gujarat,23.042756,72.597435,1268,3,3,3,7,Semi-Furnished,Apartment,32,1,6,2.94,5.94,8.53,0.93,49.2,67,18693
+P0094,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.999259,72.55115,960,3,4,10,12,Furnished,Apartment,113,2,6,6.61,4.0,9.4,21.28,33.6,83,14939
+P0095,Bhavnagar - central,Bhavnagar,Gujarat,21.749383,72.137547,1154,3,3,1,1,Furnished,Independent House,80,2,4,6.28,0.79,6.76,11.47,56.1,118,8007
+P0096,Surat - outskirts,Surat,Gujarat,21.157902,72.837978,1225,4,4,4,8,Furnished,Apartment,38,1,6,6.13,7.17,7.09,7.77,58.0,120,16327
+P0097,Surat - central,Surat,Gujarat,21.161907,72.856135,1279,4,4,1,1,Unfurnished,Independent House,80,2,8,9.19,5.47,6.04,19.68,29.4,78,20633
+P0098,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.026028,72.581766,1120,2,2,1,1,Semi-Furnished,Independent House,64,1,6,10.81,3.62,0.75,3.3,28.9,96,17705
+P0099,Vadodara - central,Vadodara,Gujarat,22.335027,73.173668,899,2,2,2,8,Semi-Furnished,Apartment,23,2,4,5.77,2.37,1.96,3.39,35.8,60,10050
+P0100,Vapi - central,Vapi,Gujarat,20.40071,72.906667,1237,2,2,3,11,Unfurnished,Apartment,67,1,1,6.44,5.85,2.38,5.12,60.3,106,8897
+P0101,Jamnagar - outskirts,Jamnagar,Gujarat,22.481021,70.080033,905,3,3,1,1,Unfurnished,Independent House,11,1,3,11.25,7.12,2.56,7.36,41.5,85,6266
+P0102,Surat - central,Surat,Gujarat,21.165014,72.817609,437,1,1,1,1,Furnished,Villa,32,1,7,9.32,6.57,2.52,21.91,53.6,80,6200
+P0103,Junagadh - central,Junagadh,Gujarat,21.540847,70.482784,876,3,3,7,8,Unfurnished,Apartment,45,1,1,4.64,6.06,4.84,34.73,45.6,138,5315
+P0104,Junagadh - outskirts,Junagadh,Gujarat,21.535958,70.461431,699,1,1,4,4,Unfurnished,Apartment,20,1,2,3.37,5.42,6.11,35.58,56.9,140,4327
+P0105,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.756079,72.174869,400,1,1,4,4,Unfurnished,Apartment,35,1,5,3.02,2.64,2.97,21.32,45.4,83,3036
+P0106,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.784502,72.151858,783,3,4,1,9,Semi-Furnished,Apartment,32,1,1,11.23,4.68,4.29,10.33,45.8,122,4747
+P0107,Anand - outskirts,Anand,Gujarat,22.58368,72.901811,865,3,3,1,1,Semi-Furnished,Independent House,17,1,4,10.69,7.92,9.58,23.34,54.1,95,6802
+P0108,Ahmedabad - central,Ahmedabad,Gujarat,23.051149,72.542429,797,2,2,1,8,Unfurnished,Apartment,69,1,7,5.96,0.15,5.61,0.3,32.1,76,13058
+P0109,Morbi - outskirts,Morbi,Gujarat,22.835784,70.824237,1203,2,3,2,6,Unfurnished,Apartment,54,1,1,1.13,7.68,4.7,13.51,50.8,87,6270
+P0110,Diu - outskirts,Diu,Gujarat,20.736087,71.007253,1299,3,3,3,3,Furnished,Apartment,90,1,1,6.88,6.88,1.13,23.49,60.1,111,9349
+P0111,Bhavnagar - central,Bhavnagar,Gujarat,21.788292,72.141804,1714,4,4,1,8,Unfurnished,Apartment,134,1,4,4.9,0.71,1.79,13.42,55.5,79,11919
+P0112,Navsari - central,Navsari,Gujarat,20.930388,72.955982,1540,4,4,4,4,Furnished,Apartment,42,1,1,7.23,7.75,3.4,27.19,54.3,77,10190
+P0113,Rajkot - central,Rajkot,Gujarat,22.290086,70.78015,564,2,3,1,1,Furnished,Independent House,11,1,3,8.93,2.6,1.24,0.13,42.6,114,5349
+P0114,Surat - central,Surat,Gujarat,21.171466,72.842219,514,1,1,10,12,Unfurnished,Apartment,54,0,6,5.08,6.26,7.3,13.99,48.9,82,7080
+P0115,Surat - central,Surat,Gujarat,21.162993,72.852832,874,2,2,2,10,Semi-Furnished,Apartment,100,1,7,7.48,3.72,1.53,0.17,26.3,112,13626
+P0116,Rajkot - central,Rajkot,Gujarat,22.297476,70.779033,1158,2,2,4,6,Semi-Furnished,Apartment,134,1,2,8.4,3.98,5.84,6.06,32.9,124,10723
+P0117,Junagadh - central,Junagadh,Gujarat,21.501749,70.453288,319,1,1,4,6,Unfurnished,Apartment,32,0,1,10.2,6.38,6.8,9.87,48.0,119,2000
+P0118,Rajkot - central,Rajkot,Gujarat,22.332916,70.812848,468,2,2,1,1,Semi-Furnished,Independent House,34,1,3,1.2,6.17,6.64,8.88,44.2,85,4414
+P0119,Rajkot - outskirts,Rajkot,Gujarat,22.298859,70.829904,1314,2,2,9,11,Semi-Furnished,Apartment,101,1,4,9.31,4.75,5.1,8.62,50.6,93,12788
+P0120,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.048295,72.585829,1117,3,4,8,8,Furnished,Apartment,102,1,8,0.73,5.72,0.42,8.58,53.9,108,17733
+P0121,Jamnagar - central,Jamnagar,Gujarat,22.48584,70.076224,694,2,2,2,5,Unfurnished,Apartment,43,0,3,7.45,1.66,6.0,18.61,48.6,84,4687
+P0122,Ahmedabad - central,Ahmedabad,Gujarat,23.047621,72.57681,1078,3,3,9,10,Unfurnished,Apartment,55,1,6,1.55,2.88,4.69,4.31,31.7,40,16882
+P0123,Anand - central,Anand,Gujarat,22.585119,72.936065,914,3,4,3,9,Semi-Furnished,Apartment,56,1,2,11.05,7.45,1.9,10.84,50.4,119,6517
+P0124,Valsad - outskirts,Valsad,Gujarat,20.579693,72.932039,637,2,3,7,10,Unfurnished,Apartment,39,1,1,1.18,0.34,7.66,15.22,50.1,134,4279
+P0125,Navsari - outskirts,Navsari,Gujarat,20.968432,72.928019,713,2,2,1,8,Unfurnished,Apartment,45,1,1,8.88,5.26,2.63,35.62,59.6,107,4627
+P0126,Valsad - central,Valsad,Gujarat,20.603964,72.961744,1004,3,4,3,9,Unfurnished,Apartment,98,2,1,6.93,4.31,6.05,10.89,60.2,101,6501
+P0127,Jamnagar - outskirts,Jamnagar,Gujarat,22.456823,70.052554,985,3,4,1,1,Unfurnished,Villa,18,1,1,8.59,6.65,7.66,28.67,37.4,103,6149
+P0128,Rajkot - outskirts,Rajkot,Gujarat,22.321641,70.796063,1029,3,4,1,1,Semi-Furnished,Independent House,45,2,4,10.2,0.84,9.73,15.87,39.7,45,10405
+P0129,Kheda - outskirts,Kheda,Gujarat,22.78251,72.684168,546,2,2,8,12,Unfurnished,Apartment,59,1,1,7.59,6.71,0.36,37.53,59.5,130,2363
+P0130,Diu - outskirts,Diu,Gujarat,20.696805,70.958676,1150,3,3,3,4,Unfurnished,Apartment,97,0,1,7.58,5.84,7.6,20.02,57.3,113,8363
+P0131,Gandhinagar - central,Gandhinagar,Gujarat,23.232008,72.652089,852,3,4,1,1,Semi-Furnished,Villa,16,0,3,4.72,5.87,1.2,7.83,53.0,88,9912
+P0132,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.050295,72.56027,1206,2,2,4,8,Unfurnished,Apartment,42,1,8,10.35,0.78,1.18,18.81,31.7,66,20686
+P0133,Ahmedabad - central,Ahmedabad,Gujarat,23.006965,72.579685,1338,4,4,3,3,Unfurnished,Apartment,54,1,8,4.82,5.2,7.88,19.84,40.7,104,22257
+P0134,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.996128,72.588757,1277,3,3,1,1,Semi-Furnished,Independent House,45,1,7,11.46,6.19,0.36,1.69,39.8,87,20382
+P0135,Jamnagar - outskirts,Jamnagar,Gujarat,22.444667,70.069621,485,2,2,3,12,Semi-Furnished,Apartment,24,1,2,9.74,4.34,4.03,27.2,58.2,68,2988
+P0136,Nadiad - outskirts,Nadiad,Gujarat,22.677755,72.853912,1058,3,3,2,3,Unfurnished,Apartment,90,1,2,1.82,0.19,5.06,17.13,33.5,98,7110
+P0137,Navsari - outskirts,Navsari,Gujarat,20.970356,72.963247,878,2,2,2,11,Semi-Furnished,Apartment,103,1,1,6.23,0.54,8.62,10.84,61.5,139,5658
+P0138,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.011696,72.59096,1691,2,2,3,9,Furnished,Apartment,196,0,7,9.68,5.74,6.63,5.61,40.2,135,26953
+P0139,Junagadh - central,Junagadh,Gujarat,21.510735,70.465263,839,2,3,1,1,Unfurnished,Villa,12,1,2,10.17,2.69,5.62,5.28,54.4,131,5241
+P0140,Bhavnagar - central,Bhavnagar,Gujarat,21.78544,72.165533,250,1,1,1,1,Furnished,Independent House,2,1,2,4.29,6.73,8.8,38.28,65.1,101,2000
+P0141,Ahmedabad - central,Ahmedabad,Gujarat,23.016161,72.576914,934,2,3,1,7,Furnished,Apartment,40,1,9,10.77,3.72,7.53,14.52,25.8,78,17047
+P0142,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.013997,72.58762,1126,3,4,6,8,Semi-Furnished,Apartment,48,1,8,9.29,0.96,1.24,11.24,38.0,91,18906
+P0143,Rajkot - central,Rajkot,Gujarat,22.275765,70.796464,1004,3,4,1,3,Unfurnished,Apartment,52,0,4,3.13,2.91,5.23,16.93,44.0,168,10002
+P0144,Rajkot - outskirts,Rajkot,Gujarat,22.312659,70.820758,900,2,2,2,6,Furnished,Apartment,54,2,6,1.19,4.73,9.19,1.87,52.6,91,9612
+P0145,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.029346,72.578419,973,3,2,1,1,Semi-Furnished,Independent House,59,1,6,5.23,2.9,9.1,6.87,34.7,84,15085
+P0146,Anand - central,Anand,Gujarat,22.589361,72.929044,1238,2,2,6,6,Unfurnished,Apartment,89,2,1,9.58,7.92,7.86,17.57,40.9,96,8590
+P0147,Rajkot - central,Rajkot,Gujarat,22.333684,70.785365,782,3,3,1,1,Semi-Furnished,Villa,49,2,5,1.38,5.29,2.81,20.41,48.9,87,8060
+P0148,Valsad - outskirts,Valsad,Gujarat,20.571878,72.90797,432,1,1,1,8,Unfurnished,Apartment,23,1,4,11.39,6.71,8.14,38.96,46.0,99,3497
+P0149,Gandhinagar - central,Gandhinagar,Gujarat,23.220761,72.627094,544,1,1,3,5,Furnished,Apartment,18,1,3,1.51,4.26,3.78,1.81,44.8,62,6516
+P0150,Vadodara - outskirts,Vadodara,Gujarat,22.300696,73.210857,852,3,4,10,11,Unfurnished,Apartment,36,1,3,3.82,5.54,1.45,18.22,69.1,72,8002
+P0151,Kheda - central,Kheda,Gujarat,22.723684,72.671081,250,1,1,3,10,Semi-Furnished,Apartment,6,1,1,7.71,7.71,8.25,28.45,52.3,84,2000
+P0152,Mehsana - central,Mehsana,Gujarat,23.572559,72.344023,1047,2,2,1,1,Unfurnished,Independent House,75,1,1,6.64,0.9,4.9,35.24,43.1,73,6408
+P0153,Valsad - central,Valsad,Gujarat,20.606039,72.930652,487,1,1,1,1,Furnished,Independent House,7,2,5,4.19,7.88,8.95,29.66,38.8,119,4254
+P0154,Ahmedabad - central,Ahmedabad,Gujarat,23.032221,72.577413,1305,4,4,1,1,Semi-Furnished,Independent House,38,1,7,6.95,6.73,1.71,9.02,32.5,89,21353
+P0155,Surat - central,Surat,Gujarat,21.168103,72.814675,1058,2,2,8,9,Semi-Furnished,Apartment,91,0,7,6.62,1.56,8.88,9.24,34.1,89,16071
+P0156,Surat - central,Surat,Gujarat,21.154339,72.819031,908,2,2,1,1,Semi-Furnished,Independent House,57,1,4,4.77,4.23,9.66,17.18,53.5,70,11130
+P0157,Rajkot - outskirts,Rajkot,Gujarat,22.333736,70.809834,1408,4,4,3,12,Furnished,Apartment,134,2,5,11.67,6.49,1.44,10.58,56.7,90,14110
+P0158,Surendranagar - central,Surendranagar,Gujarat,22.731061,71.67549,1650,2,2,6,11,Unfurnished,Apartment,118,1,1,8.46,4.74,7.86,8.94,61.1,133,7099
+P0159,Ahmedabad - central,Ahmedabad,Gujarat,23.037245,72.59665,1029,3,4,10,10,Unfurnished,Apartment,24,1,4,7.38,5.58,0.58,22.24,36.4,96,14350
+P0160,Vapi - central,Vapi,Gujarat,20.386803,72.928806,1039,3,4,1,1,Unfurnished,Independent House,81,1,1,8.98,6.21,3.34,30.51,48.6,97,7797
+P0161,Rajkot - central,Rajkot,Gujarat,22.328982,70.814478,514,1,1,6,7,Semi-Furnished,Apartment,17,2,4,0.54,1.62,8.36,20.92,46.0,119,5085
+P0162,Surat - outskirts,Surat,Gujarat,21.149974,72.835435,332,1,1,8,12,Furnished,Apartment,35,1,6,2.13,7.17,7.54,17.22,39.3,107,4729
+P0163,Kheda - outskirts,Kheda,Gujarat,22.745589,72.679423,538,2,2,2,3,Unfurnished,Apartment,45,1,1,3.18,6.46,3.19,38.85,46.9,86,2437
+P0164,Surat - central,Surat,Gujarat,21.158127,72.810096,570,2,2,5,8,Semi-Furnished,Apartment,17,0,4,11.86,5.16,8.64,6.53,36.4,31,7419
+P0165,Porbandar - outskirts,Porbandar,Gujarat,21.652879,69.612499,1145,3,4,3,3,Semi-Furnished,Apartment,56,1,1,8.89,4.71,9.95,33.56,44.8,139,6096
+P0166,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.755817,72.166553,687,1,1,1,1,Furnished,Independent House,11,1,3,9.74,6.13,1.99,28.79,48.3,110,4645
+P0167,Vadodara - outskirts,Vadodara,Gujarat,22.328454,73.159442,748,3,3,3,3,Semi-Furnished,Apartment,85,0,5,10.7,4.05,8.7,9.54,45.0,99,8527
+P0168,Surat - central,Surat,Gujarat,21.169575,72.846914,250,1,1,1,1,Unfurnished,Independent House,11,1,5,7.69,0.14,2.88,19.03,49.8,120,3269
+P0169,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.000236,72.564413,628,2,2,6,6,Semi-Furnished,Apartment,13,2,6,2.45,5.45,6.34,6.22,36.8,58,9667
+P0170,Gandhinagar - central,Gandhinagar,Gujarat,23.199059,72.665993,1050,3,3,6,11,Semi-Furnished,Apartment,93,2,2,5.98,6.03,1.82,22.67,49.7,93,11674
+P0171,Surat - central,Surat,Gujarat,21.149388,72.842812,695,1,1,10,11,Furnished,Apartment,83,1,6,0.43,5.55,4.28,9.51,30.7,74,10193
+P0172,Gandhinagar - central,Gandhinagar,Gujarat,23.243987,72.628375,589,2,2,1,1,Semi-Furnished,Independent House,42,1,1,3.54,6.3,5.08,15.23,52.3,51,6106
+P0173,Rajkot - central,Rajkot,Gujarat,22.301305,70.830837,250,1,1,3,3,Furnished,Apartment,7,1,3,11.4,6.26,0.94,18.09,57.9,71,2245
+P0174,Surat - central,Surat,Gujarat,21.192909,72.806677,1214,3,3,2,9,Furnished,Apartment,116,0,3,10.25,5.34,1.87,8.94,28.6,96,15368
+P0175,Morbi - central,Morbi,Gujarat,22.834236,70.860104,250,1,1,1,1,Unfurnished,Independent House,13,1,3,8.41,0.56,9.44,10.58,42.0,123,2000
+P0176,Surat - central,Surat,Gujarat,21.160498,72.832486,839,2,2,8,9,Furnished,Apartment,38,1,7,8.2,6.16,5.85,14.13,56.2,77,11792
+P0177,Mehsana - central,Mehsana,Gujarat,23.582038,72.359454,740,3,4,5,5,Unfurnished,Apartment,60,0,1,11.23,4.09,4.8,22.35,60.5,139,4255
+P0178,Surat - central,Surat,Gujarat,21.187707,72.85889,529,1,1,8,12,Furnished,Apartment,36,2,6,8.99,0.24,4.15,0.9,23.7,68,7940
+P0179,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.185732,72.628208,360,1,1,1,1,Unfurnished,Independent House,24,1,2,7.28,5.76,3.76,11.31,61.0,119,3841
+P0180,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.241198,72.657148,530,1,1,4,5,Furnished,Apartment,42,2,2,4.84,3.71,7.86,17.92,57.1,114,5737
+P0181,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.225051,72.64327,341,1,1,1,11,Semi-Furnished,Apartment,21,2,3,9.42,7.29,6.98,4.34,50.9,87,3997
+P0182,Vadodara - outskirts,Vadodara,Gujarat,22.333331,73.189155,421,1,1,1,1,Unfurnished,Villa,17,1,5,8.46,6.01,3.13,17.54,56.1,61,4612
+P0183,Surat - outskirts,Surat,Gujarat,21.172234,72.853749,807,2,3,5,5,Semi-Furnished,Apartment,67,1,8,6.83,4.7,9.44,17.75,31.8,35,12915
+P0184,Rajkot - central,Rajkot,Gujarat,22.314432,70.805913,1207,2,2,3,5,Unfurnished,Apartment,41,0,5,9.46,1.71,5.5,8.97,32.8,102,13153
+P0185,Surat - outskirts,Surat,Gujarat,21.153733,72.839127,533,2,2,7,9,Semi-Furnished,Apartment,52,2,7,0.83,5.97,2.19,21.72,48.4,62,7705
+P0186,Nadiad - central,Nadiad,Gujarat,22.662539,72.85958,343,1,1,3,10,Unfurnished,Apartment,9,1,1,1.61,0.42,2.94,14.25,62.3,144,2000
+P0187,Bharuch - central,Bharuch,Gujarat,21.696064,73.018904,1385,4,4,10,10,Semi-Furnished,Apartment,37,1,1,11.49,4.21,7.91,10.58,42.2,97,9566
+P0188,Anand - central,Anand,Gujarat,22.589556,72.955599,635,2,3,1,1,Unfurnished,Independent House,6,1,5,10.87,4.95,6.29,38.56,48.4,83,5364
+P0189,Rajkot - central,Rajkot,Gujarat,22.311671,70.784991,719,3,3,1,10,Semi-Furnished,Apartment,61,1,7,1.33,7.78,7.78,13.33,41.2,79,8375
+P0190,Mehsana - outskirts,Mehsana,Gujarat,23.578319,72.362882,1107,3,4,1,1,Unfurnished,Independent House,22,1,4,1.23,0.53,7.98,24.53,45.6,95,7976
+P0191,Gandhinagar - central,Gandhinagar,Gujarat,23.202491,72.662501,1494,4,3,1,1,Furnished,Independent House,92,0,3,10.21,2.93,5.13,7.25,43.6,66,17971
+P0192,Rajkot - outskirts,Rajkot,Gujarat,22.281294,70.772502,1128,2,2,5,11,Unfurnished,Apartment,38,2,4,9.58,5.86,3.86,23.74,34.0,81,11630
+P0193,Gandhinagar - central,Gandhinagar,Gujarat,23.188863,72.651963,1222,4,4,1,1,Furnished,Independent House,89,1,2,2.37,4.97,2.68,2.87,42.8,69,13921
+P0194,Diu - central,Diu,Gujarat,20.725607,70.963144,804,2,2,8,12,Unfurnished,Apartment,44,1,1,3.56,0.65,2.1,22.01,46.6,139,6076
+P0195,Junagadh - outskirts,Junagadh,Gujarat,21.543008,70.479423,1134,3,3,5,9,Unfurnished,Apartment,37,2,2,5.66,2.93,3.19,24.31,56.6,131,7027
+P0196,Ahmedabad - central,Ahmedabad,Gujarat,23.031734,72.550318,830,2,2,1,1,Unfurnished,Independent House,44,1,10,9.28,1.78,0.56,6.52,49.8,60,14535
+P0197,Rajkot - outskirts,Rajkot,Gujarat,22.331964,70.816355,250,1,1,1,8,Unfurnished,Apartment,26,1,3,2.16,4.16,4.57,4.48,59.9,80,2228
+P0198,Bhavnagar - central,Bhavnagar,Gujarat,21.784592,72.137699,990,2,2,5,6,Unfurnished,Apartment,55,1,4,0.75,7.85,3.38,29.63,31.9,94,7476
+P0199,Junagadh - central,Junagadh,Gujarat,21.509349,70.436914,682,1,1,5,6,Semi-Furnished,Apartment,69,1,1,10.67,0.15,8.84,20.4,52.0,130,4045
+P0200,Surat - outskirts,Surat,Gujarat,21.142551,72.835436,1140,3,4,1,1,Semi-Furnished,Independent House,49,1,4,10.03,0.28,0.62,14.34,49.0,112,14202
+P0201,Ahmedabad - central,Ahmedabad,Gujarat,23.023148,72.551463,1329,4,4,1,7,Furnished,Apartment,107,1,10,2.79,3.35,1.6,14.57,41.5,45,23964
+P0202,Mehsana - outskirts,Mehsana,Gujarat,23.569851,72.368534,775,3,3,5,6,Unfurnished,Apartment,54,1,1,1.34,3.86,6.22,6.37,54.5,75,4555
+P0203,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.018029,72.556671,1299,4,4,1,8,Unfurnished,Apartment,81,1,4,9.27,2.87,8.09,22.7,46.8,52,17474
+P0204,Porbandar - outskirts,Porbandar,Gujarat,21.643866,69.60808,1367,4,4,3,3,Semi-Furnished,Apartment,98,1,2,9.69,3.33,1.24,19.91,46.8,97,7678
+P0205,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.191617,72.637401,684,2,2,5,10,Unfurnished,Apartment,53,1,3,1.83,6.92,1.37,5.74,54.0,38,7929
+P0206,Bhuj - outskirts,Bhuj,Gujarat,23.272367,69.673738,441,1,1,1,1,Furnished,Villa,7,2,1,5.34,0.61,2.37,7.8,63.1,112,2197
+P0207,Jamnagar - outskirts,Jamnagar,Gujarat,22.499239,70.032911,250,1,1,6,6,Unfurnished,Apartment,17,1,1,6.22,5.62,6.23,28.59,41.2,129,2000
+P0208,Surat - central,Surat,Gujarat,21.195983,72.835594,702,2,2,1,1,Furnished,Independent House,11,2,5,11.0,2.85,9.64,6.91,36.3,72,9622
+P0209,Surat - central,Surat,Gujarat,21.167843,72.83631,1021,3,3,5,11,Unfurnished,Apartment,103,1,7,11.6,4.55,7.75,18.94,52.3,76,14555
+P0210,Ahmedabad - central,Ahmedabad,Gujarat,23.048384,72.569993,1416,2,2,7,8,Unfurnished,Apartment,101,0,8,10.02,2.06,1.11,16.84,41.7,71,23473
+P0211,Vadodara - outskirts,Vadodara,Gujarat,22.323055,73.183688,784,2,2,3,6,Furnished,Apartment,31,1,8,2.04,0.94,9.22,16.9,38.9,62,10498
+P0212,Ahmedabad - central,Ahmedabad,Gujarat,23.03368,72.551888,561,2,2,1,1,Unfurnished,Villa,16,1,6,0.84,6.41,4.89,13.52,30.0,79,8836
+P0213,Veraval - outskirts,Veraval,Gujarat,20.892339,70.38126,307,0,1,6,8,Unfurnished,Apartment,14,1,1,5.76,4.94,3.79,22.46,57.3,144,2000
+P0214,Vadodara - central,Vadodara,Gujarat,22.330796,73.189039,1255,2,3,1,1,Unfurnished,Independent House,61,1,6,9.64,5.93,4.84,0.24,41.3,98,15217
+P0215,Jamnagar - central,Jamnagar,Gujarat,22.447974,70.079742,596,1,1,1,3,Unfurnished,Apartment,40,1,2,4.15,2.95,5.69,37.61,50.4,105,3777
+P0216,Kheda - central,Kheda,Gujarat,22.748309,72.695239,385,1,1,8,11,Unfurnished,Apartment,24,0,1,7.44,3.76,9.57,35.39,38.9,62,2000
+P0217,Rajkot - outskirts,Rajkot,Gujarat,22.317566,70.811921,1222,3,3,5,7,Unfurnished,Apartment,57,2,5,4.49,4.74,9.66,10.35,46.9,96,12685
+P0218,Bharuch - outskirts,Bharuch,Gujarat,21.688861,73.010156,1111,2,2,1,1,Semi-Furnished,Independent House,15,1,2,11.95,0.92,6.26,7.95,61.0,93,7621
+P0219,Rajkot - central,Rajkot,Gujarat,22.311763,70.810351,658,1,1,1,1,Semi-Furnished,Independent House,28,1,4,3.41,3.61,9.7,17.44,52.0,122,6372
+P0220,Junagadh - central,Junagadh,Gujarat,21.522016,70.473228,679,2,2,4,4,Semi-Furnished,Apartment,41,1,1,6.38,6.09,1.54,15.04,35.6,92,4264
+P0221,Vadodara - outskirts,Vadodara,Gujarat,22.325654,73.192278,1060,2,2,7,11,Semi-Furnished,Apartment,38,1,2,4.66,2.18,4.34,5.99,48.0,37,10163
+P0222,Vadodara - outskirts,Vadodara,Gujarat,22.303505,73.151692,1049,2,2,10,10,Semi-Furnished,Apartment,94,1,3,2.0,7.76,0.42,24.31,45.0,104,10763
+P0223,Ahmedabad - central,Ahmedabad,Gujarat,22.993257,72.599876,985,3,4,2,3,Furnished,Apartment,93,1,9,4.83,4.39,1.98,22.39,40.0,104,17139
+P0224,Nadiad - central,Nadiad,Gujarat,22.669528,72.860474,1197,2,2,1,1,Furnished,Independent House,67,1,1,11.54,7.5,1.75,30.49,51.6,72,7109
+P0225,Vadodara - central,Vadodara,Gujarat,22.292123,73.181195,1461,2,2,1,3,Unfurnished,Apartment,114,1,5,11.63,4.69,6.97,17.21,55.6,127,16036
+P0226,Mehsana - central,Mehsana,Gujarat,23.570884,72.39352,1563,2,2,2,11,Furnished,Apartment,67,1,1,9.13,6.46,4.5,11.75,48.5,82,9386
+P0227,Bhavnagar - central,Bhavnagar,Gujarat,21.772782,72.144643,728,2,2,8,8,Semi-Furnished,Apartment,75,1,4,1.01,1.32,3.1,14.22,50.2,101,5160
+P0228,Surat - central,Surat,Gujarat,21.196468,72.811818,1330,2,2,7,11,Furnished,Apartment,117,1,4,3.54,3.34,3.36,2.41,39.9,76,17105
+P0229,Ahmedabad - central,Ahmedabad,Gujarat,23.014156,72.586009,936,3,4,5,12,Furnished,Apartment,39,1,7,11.07,5.28,9.3,20.8,26.0,87,15650
+P0230,Vapi - outskirts,Vapi,Gujarat,20.41715,72.907505,938,3,3,1,1,Unfurnished,Independent House,14,1,1,1.39,1.93,3.98,11.76,44.8,76,7134
+P0231,Junagadh - outskirts,Junagadh,Gujarat,21.543191,70.452641,953,3,4,2,4,Unfurnished,Apartment,71,1,1,6.5,4.84,9.35,36.59,18.2,74,6339
+P0232,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.198913,72.658243,767,2,2,3,7,Unfurnished,Apartment,49,1,4,11.8,4.81,5.27,24.84,46.3,118,9647
+P0233,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.021452,72.570697,781,2,2,2,5,Semi-Furnished,Apartment,85,1,6,3.74,4.61,5.78,5.44,47.8,90,11571
+P0234,Palanpur - outskirts,Palanpur,Gujarat,24.191969,72.461619,975,3,2,1,1,Semi-Furnished,Independent House,62,1,1,10.58,3.53,9.32,9.22,55.6,65,4281
+P0235,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.20577,72.635451,1359,3,3,4,11,Furnished,Apartment,118,2,3,9.08,4.64,1.08,10.8,50.3,84,15965
+P0236,Navsari - central,Navsari,Gujarat,20.972148,72.928176,868,3,4,4,5,Semi-Furnished,Apartment,59,1,3,7.47,5.91,2.61,7.51,53.5,82,6480
+P0237,Anand - central,Anand,Gujarat,22.57186,72.907761,696,1,1,8,8,Unfurnished,Apartment,44,1,2,8.29,1.33,7.34,8.0,51.5,85,4943
+P0238,Surendranagar - central,Surendranagar,Gujarat,22.735912,71.620209,500,2,2,6,6,Semi-Furnished,Apartment,20,1,3,5.9,5.87,1.59,29.46,66.6,110,2371
+P0239,Surat - central,Surat,Gujarat,21.170712,72.843681,1035,2,2,1,1,Furnished,Independent House,58,2,4,4.45,0.95,3.07,22.09,20.4,128,14206
+P0240,Palanpur - central,Palanpur,Gujarat,24.171075,72.454614,759,2,2,1,3,Furnished,Apartment,55,1,1,2.05,2.84,3.65,26.88,55.9,175,3329
+P0241,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.219974,72.632488,1467,2,3,1,1,Furnished,Independent House,49,1,1,8.81,4.21,6.84,21.82,45.0,74,15609
+P0242,Vadodara - outskirts,Vadodara,Gujarat,22.31064,73.208116,698,1,1,2,6,Semi-Furnished,Apartment,63,1,4,11.95,7.81,1.62,23.33,53.6,81,7331
+P0243,Ahmedabad - central,Ahmedabad,Gujarat,23.008512,72.575423,1368,3,4,5,9,Semi-Furnished,Apartment,155,2,5,3.43,6.25,1.25,4.62,41.1,45,19761
+P0244,Surat - central,Surat,Gujarat,21.197212,72.814453,755,3,3,1,1,Semi-Furnished,Independent House,41,1,5,5.79,1.39,2.42,10.21,63.9,71,9376
+P0245,Anand - central,Anand,Gujarat,22.573084,72.941147,970,3,4,8,8,Unfurnished,Apartment,60,1,2,9.93,5.79,4.06,37.87,40.8,90,7153
+P0246,Ahmedabad - central,Ahmedabad,Gujarat,23.047642,72.582797,250,1,1,3,3,Semi-Furnished,Apartment,24,1,8,5.39,7.09,7.78,7.15,44.2,98,4108
+P0247,Palanpur - central,Palanpur,Gujarat,24.179915,72.448588,794,2,2,3,11,Semi-Furnished,Apartment,41,0,1,5.55,7.18,8.98,35.89,61.0,118,3417
+P0248,Surat - outskirts,Surat,Gujarat,21.186349,72.804179,1426,4,4,9,9,Unfurnished,Apartment,51,1,8,2.22,2.75,8.74,21.57,44.4,94,21857
+P0249,Vadodara - outskirts,Vadodara,Gujarat,22.301809,73.155964,1220,2,2,1,6,Unfurnished,Apartment,55,2,4,6.61,0.15,8.85,5.95,36.4,76,13611
+P0250,Gandhinagar - central,Gandhinagar,Gujarat,23.225925,72.643565,368,1,1,1,5,Unfurnished,Apartment,8,1,2,10.09,2.46,9.22,1.23,43.6,105,4181
+P0251,Mehsana - central,Mehsana,Gujarat,23.582553,72.364425,958,3,4,1,3,Unfurnished,Apartment,50,2,1,9.15,6.76,0.84,21.48,66.3,138,5389
+P0252,Surat - central,Surat,Gujarat,21.16975,72.811894,1386,4,4,12,12,Semi-Furnished,Apartment,112,1,7,11.94,2.9,1.47,14.07,27.5,78,21522
+P0253,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.200865,72.61097,922,2,2,1,1,Unfurnished,Independent House,22,1,3,0.74,2.86,8.1,5.31,39.3,68,11257
+P0254,Vadodara - central,Vadodara,Gujarat,22.314832,73.204723,921,3,3,1,1,Unfurnished,Independent House,11,1,3,4.19,5.41,9.18,19.93,39.0,69,9648
+P0255,Jamnagar - central,Jamnagar,Gujarat,22.491244,70.061959,987,2,3,1,8,Furnished,Apartment,87,2,1,4.37,7.76,2.95,6.09,64.5,97,5590
+P0256,Rajkot - central,Rajkot,Gujarat,22.286026,70.777756,1340,4,4,1,1,Semi-Furnished,Independent House,21,1,2,9.99,2.49,5.35,4.38,44.1,96,11940
+P0257,Jamnagar - outskirts,Jamnagar,Gujarat,22.483521,70.059041,1091,3,4,1,1,Semi-Furnished,Independent House,70,2,2,9.9,7.51,6.83,9.65,48.7,73,6956
+P0258,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.038867,72.581667,692,1,1,1,1,Furnished,Independent House,44,1,5,9.15,5.15,2.26,5.01,37.2,110,10131
+P0259,Surat - central,Surat,Gujarat,21.194398,72.804127,1658,4,4,6,8,Semi-Furnished,Apartment,189,1,9,2.22,2.56,8.94,13.51,43.8,84,26573
+P0260,Rajkot - central,Rajkot,Gujarat,22.279736,70.790824,413,2,2,6,6,Unfurnished,Apartment,41,0,6,11.09,6.14,5.76,2.32,51.0,55,4436
+P0261,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.202535,72.627817,250,1,1,7,8,Furnished,Apartment,27,2,3,4.03,3.95,0.84,2.82,29.8,104,3152
+P0262,Junagadh - central,Junagadh,Gujarat,21.551312,70.461933,374,1,1,5,7,Semi-Furnished,Apartment,29,1,3,2.08,3.91,0.85,12.29,46.8,76,2542
+P0263,Vadodara - outskirts,Vadodara,Gujarat,22.282632,73.200222,1176,3,3,2,8,Unfurnished,Apartment,44,1,6,1.48,6.53,7.76,9.47,31.3,93,14753
+P0264,Vapi - outskirts,Vapi,Gujarat,20.415207,72.933417,894,2,2,4,7,Unfurnished,Apartment,57,2,1,3.74,6.38,6.86,37.15,66.7,88,6277
+P0265,Junagadh - outskirts,Junagadh,Gujarat,21.535206,70.452262,250,1,1,1,1,Unfurnished,Independent House,2,2,2,1.49,2.33,0.51,20.11,38.7,82,2000
+P0266,Rajkot - central,Rajkot,Gujarat,22.282133,70.820556,1001,3,4,3,9,Semi-Furnished,Apartment,107,1,5,7.85,1.24,8.87,16.45,51.3,89,10229
+P0267,Valsad - outskirts,Valsad,Gujarat,20.628294,72.938689,589,1,1,7,10,Semi-Furnished,Apartment,22,1,1,10.19,1.97,5.12,19.38,42.8,97,4060
+P0268,Mehsana - central,Mehsana,Gujarat,23.600821,72.387486,291,1,1,1,1,Unfurnished,Villa,18,1,2,10.7,0.8,4.83,30.96,55.9,101,2000
+P0269,Vadodara - central,Vadodara,Gujarat,22.292827,73.188958,514,2,2,1,1,Semi-Furnished,Independent House,17,2,6,3.68,1.42,7.01,14.94,40.2,133,6256
+P0270,Junagadh - central,Junagadh,Gujarat,21.519299,70.47637,715,2,2,2,11,Unfurnished,Apartment,34,1,1,10.32,0.21,1.29,11.11,45.7,93,4337
+P0271,Surat - outskirts,Surat,Gujarat,21.160905,72.839636,250,1,1,5,5,Unfurnished,Apartment,8,2,7,9.29,1.98,4.51,15.94,45.5,122,3651
+P0272,Navsari - central,Navsari,Gujarat,20.935641,72.954615,1099,3,3,1,1,Unfurnished,Independent House,28,1,3,3.3,4.29,4.46,15.11,54.9,80,8163
+P0273,Ankleshwar - central,Ankleshwar,Gujarat,21.615663,73.040693,533,2,2,3,7,Semi-Furnished,Apartment,53,1,1,5.64,5.43,2.57,28.52,55.1,76,3126
+P0274,Vadodara - central,Vadodara,Gujarat,22.319685,73.158399,1049,3,3,6,10,Furnished,Apartment,50,1,4,1.28,7.51,6.63,20.89,59.6,81,10779
+P0275,Valsad - central,Valsad,Gujarat,20.57404,72.951226,423,1,1,3,7,Semi-Furnished,Apartment,48,2,1,3.46,3.47,9.05,31.95,49.4,117,2849
+P0276,Rajkot - central,Rajkot,Gujarat,22.278125,70.815853,1828,3,3,5,6,Semi-Furnished,Apartment,154,1,6,5.29,4.95,1.24,11.04,45.8,98,20001
+P0277,Porbandar - central,Porbandar,Gujarat,21.611898,69.631449,318,0,1,3,5,Unfurnished,Apartment,24,2,1,5.99,3.54,8.47,32.33,56.2,76,2000
+P0278,Morbi - central,Morbi,Gujarat,22.79756,70.861153,250,1,1,3,4,Semi-Furnished,Apartment,29,0,1,5.62,6.16,6.55,11.18,63.0,113,2000
+P0279,Vapi - outskirts,Vapi,Gujarat,20.362523,72.877363,793,3,4,1,6,Unfurnished,Apartment,62,1,2,6.58,2.53,5.43,34.2,20.6,129,6952
+P0280,Bhuj - central,Bhuj,Gujarat,23.227861,69.675827,1434,4,4,1,1,Unfurnished,Independent House,68,1,3,1.05,5.91,4.99,5.67,65.1,87,7977
+P0281,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.011954,72.599951,1512,2,2,2,12,Unfurnished,Apartment,46,1,5,2.8,6.46,4.38,20.29,55.0,75,20790
+P0282,Junagadh - central,Junagadh,Gujarat,21.53916,70.428838,1266,2,2,3,4,Furnished,Apartment,77,1,1,5.38,7.41,0.6,8.5,58.4,72,7335
+P0283,Bhavnagar - central,Bhavnagar,Gujarat,21.764493,72.178918,974,3,3,1,1,Unfurnished,Independent House,56,1,3,6.37,3.36,9.39,26.37,56.6,104,6391
+P0284,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.194553,72.657527,877,2,2,1,1,Unfurnished,Villa,46,2,3,6.19,3.77,6.34,5.2,53.6,102,10181
+P0285,Palanpur - central,Palanpur,Gujarat,24.194705,72.449184,1386,2,2,5,9,Semi-Furnished,Apartment,139,1,4,8.94,7.41,1.92,32.49,48.6,108,7410
+P0286,Gandhinagar - central,Gandhinagar,Gujarat,23.196284,72.629309,1090,3,3,1,6,Furnished,Apartment,66,2,5,1.07,4.72,0.73,10.9,51.9,131,14146
+P0287,Bhavnagar - central,Bhavnagar,Gujarat,21.744696,72.180108,700,3,3,2,3,Furnished,Apartment,73,1,3,4.25,7.1,6.12,32.63,41.6,74,4845
+P0288,Valsad - central,Valsad,Gujarat,20.569905,72.963411,1188,2,2,1,1,Semi-Furnished,Independent House,72,1,1,4.06,4.68,8.94,25.71,59.7,130,7707
+P0289,Ahmedabad - central,Ahmedabad,Gujarat,22.997944,72.570187,912,3,3,1,1,Unfurnished,Independent House,38,1,7,0.35,5.88,9.51,3.32,35.9,114,14752
+P0290,Vadodara - outskirts,Vadodara,Gujarat,22.322373,73.193083,1316,2,3,4,5,Furnished,Apartment,141,1,2,0.22,5.06,3.97,17.27,37.8,87,13074
+P0291,Gandhinagar - central,Gandhinagar,Gujarat,23.199918,72.613713,1061,3,4,1,8,Furnished,Apartment,60,1,5,2.27,4.51,0.86,17.73,56.9,165,13522
+P0292,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.784023,72.175867,250,1,1,5,8,Semi-Furnished,Apartment,15,0,1,4.6,3.67,5.11,34.03,38.4,106,2000
+P0293,Rajkot - central,Rajkot,Gujarat,22.331026,70.773561,615,1,1,1,1,Furnished,Independent House,22,2,2,1.11,1.4,1.3,3.7,50.0,105,5367
+P0294,Rajkot - outskirts,Rajkot,Gujarat,22.315712,70.822714,1312,3,3,2,7,Furnished,Apartment,140,2,3,7.81,3.35,3.56,16.15,39.8,121,12564
+P0295,Rajkot - central,Rajkot,Gujarat,22.315472,70.812181,1376,2,3,5,8,Unfurnished,Apartment,34,1,6,2.16,7.4,7.18,7.13,64.9,83,14044
+P0296,Surat - central,Surat,Gujarat,21.186311,72.857967,1237,2,2,5,6,Unfurnished,Apartment,107,1,7,5.49,7.81,5.43,3.04,64.3,92,16872
+P0297,Bharuch - central,Bharuch,Gujarat,21.718998,73.01991,1393,4,4,1,1,Semi-Furnished,Independent House,42,2,1,6.97,1.26,5.74,36.74,37.7,117,9772
+P0298,Ahmedabad - central,Ahmedabad,Gujarat,23.023207,72.553067,755,2,2,3,3,Unfurnished,Apartment,59,2,8,3.48,0.28,5.48,11.14,38.0,70,12676
+P0299,Vadodara - outskirts,Vadodara,Gujarat,22.321692,73.176137,1719,3,3,1,1,Semi-Furnished,Independent House,63,0,3,4.27,2.53,4.57,14.03,50.5,143,17297
+P0300,Rajkot - central,Rajkot,Gujarat,22.298771,70.805549,782,3,3,2,4,Furnished,Apartment,52,2,1,0.98,7.68,7.61,2.21,27.3,121,6944
+P0301,Nadiad - outskirts,Nadiad,Gujarat,22.702155,72.848861,1067,3,3,7,7,Semi-Furnished,Apartment,74,1,2,9.54,1.32,3.14,27.42,48.6,94,6806
+P0302,Surat - outskirts,Surat,Gujarat,21.141253,72.816672,841,3,3,1,1,Semi-Furnished,Villa,29,1,6,3.24,5.52,9.75,20.46,30.1,112,12359
+P0303,Junagadh - central,Junagadh,Gujarat,21.542109,70.468998,303,1,1,1,8,Semi-Furnished,Apartment,22,1,3,9.24,1.55,1.13,31.34,31.0,87,2174
+P0304,Vadodara - outskirts,Vadodara,Gujarat,22.327085,73.182739,832,3,4,5,11,Semi-Furnished,Apartment,56,2,4,1.41,1.32,2.37,4.71,57.0,71,8631
+P0305,Jamnagar - central,Jamnagar,Gujarat,22.489574,70.041041,907,3,4,1,5,Semi-Furnished,Apartment,46,2,1,10.7,4.82,7.68,16.97,49.9,95,5420
+P0306,Valsad - central,Valsad,Gujarat,20.587699,72.905216,930,2,3,1,4,Furnished,Apartment,63,1,2,0.59,5.31,6.01,21.42,54.5,99,6533
+P0307,Ahmedabad - central,Ahmedabad,Gujarat,23.027188,72.542239,472,1,1,2,4,Unfurnished,Apartment,53,1,6,2.09,4.06,7.34,6.05,35.9,75,7288
+P0308,Surat - central,Surat,Gujarat,21.164655,72.846785,728,2,3,5,6,Unfurnished,Apartment,49,1,9,8.15,0.95,8.38,24.53,30.8,96,12198
+P0309,Vadodara - central,Vadodara,Gujarat,22.288527,73.155377,435,2,2,1,3,Semi-Furnished,Apartment,13,1,4,3.88,7.81,4.55,13.85,41.0,139,4777
+P0310,Valsad - central,Valsad,Gujarat,20.581616,72.955242,791,3,4,11,11,Unfurnished,Apartment,25,1,1,11.74,5.96,8.95,10.91,47.6,116,5361
+P0311,Rajkot - central,Rajkot,Gujarat,22.287749,70.828744,481,2,3,1,1,Unfurnished,Independent House,16,2,5,11.85,4.14,1.64,11.37,54.3,112,4862
+P0312,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.025046,72.589969,1127,2,3,3,8,Semi-Furnished,Apartment,92,1,5,6.34,3.99,4.77,7.34,28.1,80,17012
+P0313,Jamnagar - central,Jamnagar,Gujarat,22.447263,70.068201,1007,2,2,8,9,Semi-Furnished,Apartment,23,2,1,3.78,5.68,5.02,9.71,48.0,72,6058
+P0314,Anand - outskirts,Anand,Gujarat,22.536214,72.952381,491,1,1,10,10,Unfurnished,Apartment,40,2,1,3.98,0.32,0.64,34.29,42.4,137,3389
+P0315,Vadodara - central,Vadodara,Gujarat,22.308086,73.17647,688,2,2,6,6,Semi-Furnished,Apartment,19,2,5,1.55,1.44,5.48,0.93,40.3,70,7973
+P0316,Ahmedabad - central,Ahmedabad,Gujarat,23.050946,72.545919,1245,4,4,2,10,Unfurnished,Apartment,50,2,7,8.08,1.42,3.14,24.24,44.2,113,19570
+P0317,Valsad - central,Valsad,Gujarat,20.609407,72.923401,868,3,4,1,4,Semi-Furnished,Apartment,41,1,3,5.24,2.84,0.95,33.83,43.6,103,6712
+P0318,Rajkot - central,Rajkot,Gujarat,22.307867,70.809806,305,1,1,3,11,Semi-Furnished,Apartment,12,1,4,5.71,7.5,5.42,15.36,47.3,65,3003
+P0319,Jamnagar - central,Jamnagar,Gujarat,22.459332,70.056823,1036,3,4,2,4,Unfurnished,Apartment,48,1,3,8.3,1.97,2.54,10.25,68.1,108,6512
+P0320,Diu - central,Diu,Gujarat,20.687815,71.011305,1122,3,3,6,7,Semi-Furnished,Apartment,94,0,1,8.73,6.28,0.74,36.38,50.2,126,8372
+P0321,Vapi - outskirts,Vapi,Gujarat,20.379105,72.92394,1202,4,4,12,12,Semi-Furnished,Apartment,38,1,1,9.35,4.25,5.07,8.16,38.1,78,9356
+P0322,Navsari - outskirts,Navsari,Gujarat,20.933364,72.969856,864,2,2,4,7,Semi-Furnished,Apartment,91,0,1,6.49,5.63,1.31,24.1,44.6,106,5918
+P0323,Ahmedabad - central,Ahmedabad,Gujarat,23.019044,72.541872,668,1,1,3,3,Unfurnished,Apartment,58,1,8,7.74,5.63,9.05,17.13,32.8,76,11415
+P0324,Kheda - outskirts,Kheda,Gujarat,22.767217,72.71409,1194,2,2,1,1,Furnished,Independent House,48,2,1,7.8,6.34,2.89,7.8,55.6,78,5242
+P0325,Vadodara - central,Vadodara,Gujarat,22.30124,73.188898,1060,2,2,7,8,Unfurnished,Apartment,107,1,4,0.52,0.51,6.49,15.75,47.4,78,11383
+P0326,Vadodara - central,Vadodara,Gujarat,22.333885,73.20426,1163,2,3,8,8,Semi-Furnished,Apartment,108,1,6,9.96,6.42,2.15,10.36,54.5,138,13457
+P0327,Surat - outskirts,Surat,Gujarat,21.141047,72.83265,1411,4,4,4,10,Semi-Furnished,Apartment,148,0,5,7.49,4.84,1.66,23.95,47.7,111,18589
+P0328,Porbandar - outskirts,Porbandar,Gujarat,21.613426,69.632768,1117,2,2,3,7,Unfurnished,Apartment,65,1,1,2.74,6.61,7.32,11.63,61.0,147,5609
+P0329,Surat - central,Surat,Gujarat,21.200004,72.857459,905,3,3,7,8,Unfurnished,Apartment,82,1,8,3.22,0.85,0.78,8.32,43.6,137,13910
+P0330,Kheda - central,Kheda,Gujarat,22.765615,72.684476,898,3,3,6,9,Furnished,Apartment,98,0,1,2.32,1.44,5.03,16.87,49.3,109,4033
+P0331,Surat - central,Surat,Gujarat,21.149276,72.852282,1366,3,4,1,1,Semi-Furnished,Independent House,97,1,6,3.31,2.57,8.95,7.89,58.5,81,18173
+P0332,Anand - outskirts,Anand,Gujarat,22.542019,72.904515,1114,2,2,4,5,Semi-Furnished,Apartment,133,1,2,4.41,5.7,4.95,22.25,63.4,62,7573
+P0333,Vapi - central,Vapi,Gujarat,20.41918,72.881319,1134,3,3,5,6,Unfurnished,Apartment,23,1,3,11.06,2.04,5.08,8.3,48.1,122,9590
+P0334,Rajkot - outskirts,Rajkot,Gujarat,22.317959,70.829644,1177,2,2,1,1,Unfurnished,Independent House,49,1,5,0.27,7.76,6.63,23.77,38.6,128,12576
+P0335,Junagadh - central,Junagadh,Gujarat,21.51581,70.452044,1447,3,4,1,1,Semi-Furnished,Independent House,75,0,3,3.21,2.0,7.75,18.96,57.3,103,9470
+P0336,Anand - outskirts,Anand,Gujarat,22.540013,72.924252,1090,3,4,1,1,Unfurnished,Independent House,56,1,2,4.54,1.68,4.57,18.58,50.4,137,7771
+P0337,Rajkot - central,Rajkot,Gujarat,22.291925,70.787119,779,3,4,4,5,Semi-Furnished,Apartment,65,0,4,5.72,0.73,8.06,7.51,61.1,88,7297
+P0338,Rajkot - central,Rajkot,Gujarat,22.298875,70.814463,250,1,1,10,10,Unfurnished,Apartment,13,1,3,0.39,5.95,4.74,19.65,47.7,85,2329
+P0339,Vadodara - outskirts,Vadodara,Gujarat,22.277998,73.190548,920,3,3,1,1,Unfurnished,Independent House,22,0,3,11.79,2.15,6.8,10.84,56.0,94,9075
+P0340,Bhavnagar - central,Bhavnagar,Gujarat,21.745793,72.123509,538,2,2,1,1,Unfurnished,Independent House,31,1,1,9.69,0.79,1.52,11.68,56.7,65,3137
+P0341,Bhavnagar - central,Bhavnagar,Gujarat,21.75219,72.171667,939,2,2,1,1,Furnished,Independent House,37,2,5,8.92,3.62,4.95,5.69,43.4,106,7176
+P0342,Rajkot - central,Rajkot,Gujarat,22.303174,70.815057,1520,3,4,1,1,Unfurnished,Independent House,78,1,6,5.95,3.94,5.99,15.29,38.0,50,17088
+P0343,Jamnagar - central,Jamnagar,Gujarat,22.461049,70.063826,841,3,4,11,12,Semi-Furnished,Apartment,75,0,3,3.6,1.62,3.57,13.12,54.6,154,5559
+P0344,Valsad - outskirts,Valsad,Gujarat,20.581569,72.940945,1126,3,4,1,1,Unfurnished,Independent House,69,1,2,10.17,5.01,2.97,31.22,49.4,92,8057
+P0345,Ahmedabad - central,Ahmedabad,Gujarat,23.026219,72.570582,1240,2,2,1,1,Semi-Furnished,Villa,35,1,7,10.34,4.08,8.11,8.44,45.4,91,19410
+P0346,Diu - outskirts,Diu,Gujarat,20.720579,71.005503,983,3,4,1,1,Unfurnished,Independent House,51,1,1,11.37,6.41,9.63,31.45,70.7,100,6797
+P0347,Ahmedabad - central,Ahmedabad,Gujarat,23.018847,72.566345,658,1,1,1,1,Furnished,Independent House,20,1,7,8.84,0.88,6.54,8.37,52.6,116,10039
+P0348,Porbandar - central,Porbandar,Gujarat,21.642669,69.615132,1032,2,2,6,9,Unfurnished,Apartment,45,1,1,9.49,1.19,4.4,37.13,73.2,70,4947
+P0349,Ankleshwar - central,Ankleshwar,Gujarat,21.592743,73.00522,980,2,2,4,5,Furnished,Apartment,94,1,1,10.85,0.56,6.39,29.97,47.0,81,5917
+P0350,Mehsana - central,Mehsana,Gujarat,23.58707,72.351438,679,2,2,10,11,Unfurnished,Apartment,61,1,4,6.62,6.33,6.59,29.41,65.3,75,4553
+P0351,Vadodara - central,Vadodara,Gujarat,22.302565,73.181516,574,1,1,1,6,Semi-Furnished,Apartment,29,1,6,0.48,7.13,5.49,6.47,50.2,73,6745
+P0352,Nadiad - outskirts,Nadiad,Gujarat,22.697933,72.85262,870,2,2,4,4,Semi-Furnished,Apartment,81,2,3,9.7,7.91,5.74,36.3,43.4,81,5984
+P0353,Vadodara - outskirts,Vadodara,Gujarat,22.30397,73.173358,769,3,3,4,8,Unfurnished,Apartment,43,0,2,8.6,6.64,1.0,1.55,54.7,73,7198
+P0354,Jamnagar - central,Jamnagar,Gujarat,22.468026,70.029656,501,2,2,8,10,Unfurnished,Apartment,30,1,2,5.92,3.72,9.69,22.96,35.4,93,3345
+P0355,Surat - central,Surat,Gujarat,21.15851,72.818109,1077,3,3,1,7,Semi-Furnished,Apartment,34,1,6,3.67,0.32,1.6,19.59,20.8,110,16317
+P0356,Surat - outskirts,Surat,Gujarat,21.167144,72.853081,1403,2,3,5,12,Semi-Furnished,Apartment,154,1,6,8.7,4.89,7.67,12.62,30.9,89,20562
+P0357,Vadodara - outskirts,Vadodara,Gujarat,22.310761,73.162746,689,1,1,3,3,Unfurnished,Apartment,64,2,3,8.55,4.62,8.0,17.68,41.2,87,7163
+P0358,Gandhinagar - central,Gandhinagar,Gujarat,23.204826,72.642234,1391,2,3,1,3,Unfurnished,Apartment,101,1,3,2.63,6.65,8.42,14.49,59.6,113,15797
+P0359,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.754017,72.12353,764,2,3,1,7,Furnished,Apartment,22,1,3,3.22,0.81,3.21,19.25,57.2,131,5002
+P0360,Ahmedabad - central,Ahmedabad,Gujarat,23.025687,72.545327,724,3,3,1,1,Unfurnished,Independent House,9,1,8,2.99,4.12,5.14,23.73,38.9,101,12118
+P0361,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.050181,72.574709,966,2,2,3,5,Semi-Furnished,Apartment,62,1,7,9.44,1.22,5.5,4.2,40.8,141,15365
+P0362,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.010538,72.565118,1440,4,4,5,10,Semi-Furnished,Apartment,149,1,6,7.66,4.72,5.2,1.14,39.1,47,21992
+P0363,Ahmedabad - central,Ahmedabad,Gujarat,23.000524,72.596735,596,2,2,6,8,Unfurnished,Apartment,70,1,7,8.01,2.64,2.26,23.97,29.5,128,9850
+P0364,Gandhinagar - central,Gandhinagar,Gujarat,23.244628,72.614386,1146,3,4,1,4,Unfurnished,Apartment,116,1,3,11.67,3.07,6.09,9.67,58.7,59,13058
+P0365,Rajkot - central,Rajkot,Gujarat,22.310262,70.772628,1558,3,4,1,1,Furnished,Independent House,104,2,4,2.81,7.84,9.68,0.92,30.4,93,16259
+P0366,Veraval - outskirts,Veraval,Gujarat,20.916935,70.341511,1147,3,3,11,12,Unfurnished,Apartment,87,0,1,1.71,0.61,2.74,24.95,55.2,137,5043
+P0367,Mehsana - outskirts,Mehsana,Gujarat,23.592534,72.370635,726,3,4,1,1,Furnished,Independent House,28,1,1,10.28,2.65,8.47,19.24,60.7,124,4171
+P0368,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.011148,72.57896,1756,4,4,3,6,Furnished,Apartment,135,0,8,8.9,7.83,4.35,1.86,40.0,94,29281
+P0369,Ahmedabad - central,Ahmedabad,Gujarat,22.99999,72.599872,1091,3,4,4,10,Unfurnished,Apartment,112,1,5,2.99,0.68,6.08,10.96,49.0,95,15329
+P0370,Bharuch - central,Bharuch,Gujarat,21.726975,73.013148,1374,2,2,1,1,Furnished,Independent House,72,1,1,0.86,0.51,8.53,19.06,44.4,86,9418
+P0371,Gandhinagar - central,Gandhinagar,Gujarat,23.223842,72.622277,487,1,1,1,1,Unfurnished,Independent House,20,1,3,1.41,4.8,0.86,19.74,53.5,128,5656
+P0372,Rajkot - outskirts,Rajkot,Gujarat,22.309086,70.812898,619,1,1,9,9,Unfurnished,Apartment,59,2,5,9.35,1.26,3.23,8.57,45.1,94,6466
+P0373,Ahmedabad - central,Ahmedabad,Gujarat,23.026466,72.56154,1303,3,3,1,1,Unfurnished,Villa,31,0,4,2.43,3.86,6.98,11.69,33.1,34,18376
+P0374,Vadodara - central,Vadodara,Gujarat,22.326765,73.151604,1546,2,2,1,1,Unfurnished,Independent House,90,1,6,5.87,6.17,8.18,20.18,38.8,109,18908
+P0375,Ahmedabad - central,Ahmedabad,Gujarat,23.008207,72.547471,691,2,2,1,8,Unfurnished,Apartment,27,1,7,3.29,1.48,8.51,6.15,42.1,94,10942
+P0376,Surendranagar - central,Surendranagar,Gujarat,22.743794,71.629101,431,2,3,3,6,Unfurnished,Apartment,37,2,1,11.97,7.07,8.81,7.29,67.5,151,2000
+P0377,Rajkot - central,Rajkot,Gujarat,22.32098,70.81966,250,1,1,5,6,Semi-Furnished,Apartment,8,1,2,3.5,1.1,5.18,14.6,29.9,94,2338
+P0378,Gandhinagar - central,Gandhinagar,Gujarat,23.239293,72.634025,268,1,1,3,5,Unfurnished,Apartment,19,2,5,5.79,4.69,6.45,19.77,45.0,84,3564
+P0379,Surat - central,Surat,Gujarat,21.18847,72.820121,553,1,1,2,11,Furnished,Apartment,15,1,7,7.09,3.78,6.29,10.65,31.5,88,8474
+P0380,Rajkot - central,Rajkot,Gujarat,22.318613,70.818309,958,3,4,9,11,Semi-Furnished,Apartment,26,1,6,1.6,2.95,5.55,8.34,42.6,75,10600
+P0381,Valsad - central,Valsad,Gujarat,20.582193,72.918623,727,3,2,7,8,Unfurnished,Apartment,74,1,1,7.92,7.92,9.52,35.29,54.3,143,4810
+P0382,Junagadh - central,Junagadh,Gujarat,21.522488,70.467431,250,1,1,1,1,Semi-Furnished,Independent House,18,1,3,10.26,0.34,1.56,35.58,44.9,139,2000
+P0383,Vadodara - central,Vadodara,Gujarat,22.300079,73.208122,302,1,1,1,12,Semi-Furnished,Apartment,7,2,5,11.93,4.59,8.03,22.84,37.1,80,3538
+P0384,Ahmedabad - central,Ahmedabad,Gujarat,23.023964,72.56868,547,2,2,1,5,Unfurnished,Apartment,20,1,7,0.52,1.67,9.13,9.65,42.3,99,8655
+P0385,Rajkot - central,Rajkot,Gujarat,22.330249,70.80745,492,2,2,7,11,Semi-Furnished,Apartment,13,2,7,1.73,1.72,4.44,17.74,32.6,97,5902
+P0386,Jamnagar - outskirts,Jamnagar,Gujarat,22.461507,70.078258,892,2,2,1,1,Unfurnished,Independent House,24,1,2,5.99,3.76,0.58,8.19,36.9,56,5926
+P0387,Bhuj - central,Bhuj,Gujarat,23.250985,69.654413,1246,3,3,1,1,Unfurnished,Independent House,52,1,1,6.91,3.21,9.47,13.39,59.0,92,6303
+P0388,Bharuch - outskirts,Bharuch,Gujarat,21.713432,73.006437,851,3,3,1,1,Furnished,Independent House,30,1,1,9.4,3.34,1.82,12.26,54.2,105,5633
+P0389,Bhavnagar - central,Bhavnagar,Gujarat,21.78481,72.158319,687,1,1,3,5,Unfurnished,Apartment,45,1,3,7.95,5.74,4.49,21.48,49.4,115,4627
+P0390,Surat - central,Surat,Gujarat,21.163637,72.819599,886,2,2,3,8,Furnished,Apartment,20,1,5,8.42,6.71,8.15,16.03,37.0,30,12115
+P0391,Ahmedabad - central,Ahmedabad,Gujarat,23.002523,72.566341,995,2,2,1,4,Semi-Furnished,Apartment,118,1,4,8.09,1.84,8.85,19.92,42.9,66,13569
+P0392,Ahmedabad - central,Ahmedabad,Gujarat,23.029935,72.544036,660,1,1,2,9,Furnished,Apartment,20,1,7,7.92,0.19,2.29,5.5,35.6,63,10687
+P0393,Vapi - central,Vapi,Gujarat,20.37082,72.919703,951,2,2,1,1,Unfurnished,Independent House,47,1,1,4.03,5.08,4.01,37.36,52.7,90,7032
+P0394,Mehsana - outskirts,Mehsana,Gujarat,23.599986,72.343195,824,2,2,9,9,Unfurnished,Apartment,35,2,1,2.94,4.97,8.99,15.81,50.7,62,4910
+P0395,Rajkot - central,Rajkot,Gujarat,22.318933,70.785941,1056,2,2,1,1,Unfurnished,Independent House,43,1,5,3.95,6.32,0.59,19.79,30.3,115,11604
+P0396,Nadiad - central,Nadiad,Gujarat,22.669734,72.842021,936,2,3,5,6,Unfurnished,Apartment,67,1,2,0.96,3.98,9.55,6.82,75.6,101,5397
+P0397,Junagadh - outskirts,Junagadh,Gujarat,21.515163,70.456143,1034,3,4,2,6,Semi-Furnished,Apartment,83,1,4,11.62,1.69,8.65,21.84,59.5,93,7086
+P0398,Rajkot - outskirts,Rajkot,Gujarat,22.302056,70.781483,687,2,2,3,4,Semi-Furnished,Apartment,24,1,5,5.67,3.68,3.88,15.15,50.9,97,7031
+P0399,Surat - central,Surat,Gujarat,21.151854,72.827278,256,1,1,1,1,Unfurnished,Independent House,9,1,6,7.14,3.33,0.58,23.04,31.8,104,3741
+P0400,Surat - outskirts,Surat,Gujarat,21.176526,72.857756,817,3,4,3,3,Semi-Furnished,Apartment,50,1,5,11.07,2.96,7.12,0.71,38.6,70,11110
+P0401,Surat - central,Surat,Gujarat,21.172192,72.854299,380,1,1,7,9,Unfurnished,Apartment,44,0,5,10.94,7.02,1.83,10.67,37.3,55,5191
+P0402,Junagadh - outskirts,Junagadh,Gujarat,21.517511,70.4452,914,2,2,3,8,Semi-Furnished,Apartment,37,1,1,0.28,1.43,5.02,8.39,52.0,75,5421
+P0403,Rajkot - central,Rajkot,Gujarat,22.311365,70.824302,983,3,3,1,1,Semi-Furnished,Independent House,65,1,5,2.36,6.1,2.74,22.56,34.2,111,10662
+P0404,Surat - central,Surat,Gujarat,21.197923,72.81705,668,2,2,2,10,Furnished,Apartment,31,1,7,9.51,0.43,2.27,19.79,32.9,104,10188
+P0405,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.787778,72.130232,612,2,3,1,1,Unfurnished,Independent House,34,1,1,4.4,2.71,1.18,20.99,45.4,62,3716
+P0406,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.212258,72.643306,785,2,2,9,10,Semi-Furnished,Apartment,30,2,5,9.79,0.23,3.73,1.14,52.1,77,10180
+P0407,Rajkot - outskirts,Rajkot,Gujarat,22.321709,70.790281,1268,3,4,1,1,Unfurnished,Independent House,77,1,5,1.89,4.21,5.8,21.42,40.8,91,13446
+P0408,Anand - central,Anand,Gujarat,22.551421,72.94205,1071,3,4,4,11,Furnished,Apartment,39,1,1,1.44,7.95,0.49,37.52,47.5,125,7261
+P0409,Anand - outskirts,Anand,Gujarat,22.583107,72.912313,616,2,2,5,6,Unfurnished,Apartment,49,1,1,8.67,5.91,3.94,27.47,33.8,85,4379
+P0410,Ahmedabad - central,Ahmedabad,Gujarat,23.033258,72.589194,1456,2,2,3,8,Unfurnished,Apartment,168,1,8,0.93,4.33,8.5,24.5,36.0,101,24614
+P0411,Jamnagar - outskirts,Jamnagar,Gujarat,22.470843,70.069016,969,3,3,1,1,Semi-Furnished,Independent House,24,1,4,3.54,6.0,8.52,33.97,59.1,105,6650
+P0412,Surat - outskirts,Surat,Gujarat,21.191607,72.844744,395,1,1,1,1,Furnished,Villa,26,1,5,10.21,7.48,2.41,18.39,56.8,62,5036
+P0413,Vadodara - outskirts,Vadodara,Gujarat,22.312023,73.199504,1100,2,2,6,10,Unfurnished,Apartment,65,1,4,8.42,1.64,8.59,9.84,57.4,122,11395
+P0414,Valsad - outskirts,Valsad,Gujarat,20.595227,72.9551,669,1,1,2,5,Furnished,Apartment,63,1,2,8.77,4.65,6.85,39.6,66.7,153,4492
+P0415,Bharuch - central,Bharuch,Gujarat,21.716608,73.01362,1148,2,2,7,8,Unfurnished,Apartment,94,1,1,3.04,3.96,6.94,38.41,46.4,84,7814
+P0416,Anand - outskirts,Anand,Gujarat,22.570173,72.921938,1283,3,4,1,3,Furnished,Apartment,41,2,1,2.85,4.74,9.88,21.78,50.5,93,8606
+P0417,Diu - outskirts,Diu,Gujarat,20.726825,71.001404,838,3,3,1,1,Unfurnished,Independent House,19,1,1,6.76,4.34,8.16,22.1,40.3,103,6474
+P0418,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.999983,72.559315,1734,2,3,3,3,Semi-Furnished,Apartment,89,0,6,6.99,5.26,1.06,6.42,40.1,69,26391
+P0419,Kheda - central,Kheda,Gujarat,22.73559,72.664441,1480,2,2,1,1,Semi-Furnished,Independent House,95,1,1,7.01,5.59,5.32,39.51,46.1,131,6723
+P0420,Morbi - central,Morbi,Gujarat,22.811621,70.861071,1028,2,3,5,6,Semi-Furnished,Apartment,33,1,2,3.21,3.12,9.06,19.0,60.1,116,5503
+P0421,Jamnagar - central,Jamnagar,Gujarat,22.465107,70.047461,757,2,2,10,11,Furnished,Apartment,77,1,1,4.67,7.72,2.63,14.45,35.6,93,4754
+P0422,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.00942,72.557663,939,2,2,4,6,Unfurnished,Apartment,92,1,6,10.53,4.75,8.11,2.39,32.4,106,14671
+P0423,Ahmedabad - central,Ahmedabad,Gujarat,23.015228,72.585525,623,1,1,1,1,Unfurnished,Independent House,29,2,9,5.83,1.11,0.29,12.84,42.9,90,10732
+P0424,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.997717,72.55974,1519,2,2,3,10,Semi-Furnished,Apartment,84,1,7,11.44,4.21,7.24,23.1,41.9,115,24069
+P0425,Porbandar - outskirts,Porbandar,Gujarat,21.671577,69.627485,794,2,3,1,3,Unfurnished,Apartment,59,2,1,11.55,3.45,5.19,30.58,41.6,110,4274
+P0426,Mehsana - central,Mehsana,Gujarat,23.603271,72.392516,250,1,1,1,1,Unfurnished,Independent House,6,2,1,9.92,7.05,5.38,26.32,31.8,63,2000
+P0427,Jamnagar - central,Jamnagar,Gujarat,22.440834,70.065571,1581,4,4,7,10,Furnished,Apartment,184,1,3,10.01,6.82,8.61,15.15,42.7,103,10901
+P0428,Rajkot - outskirts,Rajkot,Gujarat,22.274432,70.798048,1812,4,4,10,10,Unfurnished,Apartment,46,0,3,5.63,2.46,1.25,8.74,44.3,67,17084
+P0429,Surat - central,Surat,Gujarat,21.148592,72.845925,1230,3,2,1,1,Semi-Furnished,Independent House,52,1,5,10.73,4.34,2.84,24.73,35.5,60,16904
+P0430,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.038364,72.594306,850,3,2,1,8,Furnished,Apartment,33,1,6,3.34,3.43,5.59,20.0,38.0,58,13030
+P0431,Jamnagar - outskirts,Jamnagar,Gujarat,22.469512,70.044633,1119,2,3,1,1,Furnished,Independent House,38,0,1,8.28,0.51,8.33,20.04,49.5,99,6696
+P0432,Ahmedabad - central,Ahmedabad,Gujarat,23.052053,72.576872,422,1,1,1,1,Unfurnished,Independent House,33,2,5,2.54,5.68,8.14,17.53,33.7,79,6252
+P0433,Gandhinagar - central,Gandhinagar,Gujarat,23.203857,72.623055,975,2,3,4,12,Furnished,Apartment,24,1,3,7.67,1.93,3.49,11.98,34.7,95,12093
+P0434,Vadodara - central,Vadodara,Gujarat,22.323428,73.159018,594,1,1,4,8,Semi-Furnished,Apartment,28,1,5,3.18,3.98,3.48,2.79,38.6,58,6924
+P0435,Vadodara - outskirts,Vadodara,Gujarat,22.283118,73.207709,876,3,3,7,12,Furnished,Apartment,26,1,2,0.68,7.75,8.86,20.44,49.8,117,8345
+P0436,Gandhinagar - central,Gandhinagar,Gujarat,23.214569,72.638326,250,1,1,9,9,Unfurnished,Apartment,27,2,3,6.81,2.84,3.79,15.75,56.9,116,2868
+P0437,Ankleshwar - outskirts,Ankleshwar,Gujarat,21.60875,73.004515,1059,2,2,1,1,Furnished,Villa,82,2,2,6.04,4.31,5.23,7.62,42.5,118,6901
+P0438,Gandhinagar - central,Gandhinagar,Gujarat,23.199893,72.609245,1420,4,4,1,1,Unfurnished,Independent House,59,1,3,3.78,1.84,7.14,13.8,50.5,104,16669
+P0439,Surat - outskirts,Surat,Gujarat,21.157894,72.860216,1185,2,2,5,6,Furnished,Apartment,100,2,6,4.03,7.58,8.86,6.6,55.8,122,15921
+P0440,Gandhinagar - central,Gandhinagar,Gujarat,23.218653,72.655911,501,2,2,1,1,Semi-Furnished,Villa,39,1,5,1.46,5.99,3.94,16.35,58.7,72,6343
+P0441,Surat - central,Surat,Gujarat,21.15881,72.854215,267,1,1,6,9,Furnished,Apartment,18,1,5,9.82,1.49,5.78,23.58,44.9,101,3552
+P0442,Morbi - outskirts,Morbi,Gujarat,22.824769,70.822024,984,3,3,1,1,Unfurnished,Independent House,16,1,1,9.73,4.87,3.9,5.73,61.4,69,4934
+P0443,Surat - central,Surat,Gujarat,21.156247,72.833717,1251,2,3,3,4,Unfurnished,Apartment,35,1,8,10.73,6.54,3.21,11.97,42.0,114,19335
+P0444,Ahmedabad - central,Ahmedabad,Gujarat,23.002674,72.548008,721,3,3,1,1,Furnished,Independent House,28,1,7,2.87,7.04,3.97,22.11,42.2,69,11413
+P0445,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.00972,72.593924,554,1,1,1,1,Furnished,Independent House,7,1,9,4.15,1.53,4.37,22.33,34.6,47,9819
+P0446,Surat - central,Surat,Gujarat,21.183802,72.80978,686,1,1,1,1,Unfurnished,Independent House,44,1,7,5.47,6.4,9.77,20.37,49.5,100,9878
+P0447,Vadodara - central,Vadodara,Gujarat,22.320095,73.182817,941,3,3,6,9,Furnished,Apartment,107,1,3,6.68,4.36,5.03,13.41,46.5,102,9604
+P0448,Porbandar - outskirts,Porbandar,Gujarat,21.620348,69.625399,932,3,2,1,1,Furnished,Villa,45,2,1,0.9,2.86,8.52,35.34,57.0,88,4749
+P0449,Veraval - outskirts,Veraval,Gujarat,20.878477,70.344703,935,2,2,4,5,Unfurnished,Apartment,83,1,4,1.45,4.69,4.87,25.79,56.6,118,4857
+P0450,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.993152,72.591361,310,1,1,4,7,Semi-Furnished,Apartment,16,1,8,3.58,1.33,8.84,0.8,40.1,50,5167
+P0451,Mehsana - outskirts,Mehsana,Gujarat,23.60756,72.373158,250,1,1,1,1,Semi-Furnished,Independent House,5,1,1,11.74,1.09,2.28,26.67,53.2,119,2000
+P0452,Valsad - outskirts,Valsad,Gujarat,20.605427,72.949991,560,2,3,7,8,Furnished,Apartment,17,0,2,7.32,6.79,0.47,14.88,48.4,101,4021
+P0453,Vadodara - central,Vadodara,Gujarat,22.296068,73.174638,833,3,3,3,3,Unfurnished,Apartment,56,0,4,1.3,2.54,9.81,18.79,57.4,84,8629
+P0454,Vadodara - central,Vadodara,Gujarat,22.291094,73.164139,736,2,2,1,1,Furnished,Independent House,48,2,3,0.64,1.37,6.89,1.97,28.6,48,7986
+P0455,Mehsana - central,Mehsana,Gujarat,23.596814,72.399264,651,2,2,3,7,Unfurnished,Apartment,74,0,1,8.61,5.49,2.54,39.9,32.3,64,4134
+P0456,Ahmedabad - central,Ahmedabad,Gujarat,23.031518,72.549827,935,2,2,3,5,Furnished,Apartment,44,1,6,2.31,6.2,2.73,11.83,39.2,131,14275
+P0457,Ahmedabad - central,Ahmedabad,Gujarat,23.031132,72.585863,1667,3,3,4,5,Semi-Furnished,Apartment,174,1,8,8.25,4.1,2.78,21.89,34.3,48,28344
+P0458,Surat - outskirts,Surat,Gujarat,21.195248,72.856449,1682,3,3,2,4,Semi-Furnished,Apartment,111,0,6,5.7,5.18,9.02,11.62,55.4,103,22632
+P0459,Porbandar - central,Porbandar,Gujarat,21.660212,69.621574,734,3,3,1,1,Furnished,Independent House,30,2,2,1.92,1.79,5.77,39.57,54.0,98,4018
+P0460,Veraval - central,Veraval,Gujarat,20.924099,70.350521,920,3,3,2,4,Furnished,Apartment,55,1,1,10.48,4.25,6.76,14.08,55.6,97,4039
+P0461,Navsari - central,Navsari,Gujarat,20.925377,72.962644,656,2,2,1,1,Unfurnished,Independent House,26,1,3,9.91,4.53,8.96,11.95,49.8,71,4963
+P0462,Morbi - outskirts,Morbi,Gujarat,22.844267,70.825247,1196,2,2,4,5,Unfurnished,Apartment,37,1,1,6.34,0.13,4.62,34.14,61.2,126,6001
+P0463,Surat - outskirts,Surat,Gujarat,21.179135,72.82846,459,1,1,2,6,Unfurnished,Apartment,35,0,7,9.8,0.23,8.99,12.55,52.0,54,6550
+P0464,Rajkot - central,Rajkot,Gujarat,22.32532,70.831922,430,2,2,6,9,Furnished,Apartment,34,1,4,10.17,5.54,4.49,7.08,29.4,52,4502
+P0465,Gandhidham - central,Gandhidham,Gujarat,23.05447,70.152481,573,2,2,1,1,Unfurnished,Independent House,27,1,1,9.71,5.37,8.55,12.42,55.6,75,2935
+P0466,Ankleshwar - central,Ankleshwar,Gujarat,21.584203,73.003564,1021,3,2,5,6,Semi-Furnished,Apartment,110,2,1,9.58,3.38,2.57,36.51,52.0,109,6055
+P0467,Morbi - outskirts,Morbi,Gujarat,22.817137,70.845644,607,2,2,1,1,Furnished,Villa,33,2,1,7.02,1.12,6.44,39.21,63.5,155,3020
+P0468,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.997226,72.564344,335,1,1,7,7,Semi-Furnished,Apartment,38,1,7,5.36,5.07,6.01,0.7,34.1,25,5452
+P0469,Navsari - central,Navsari,Gujarat,20.955003,72.957561,358,1,1,1,1,Semi-Furnished,Independent House,16,1,2,9.48,6.19,6.66,14.62,64.9,90,2420
+P0470,Ahmedabad - central,Ahmedabad,Gujarat,23.045883,72.579413,743,3,3,4,4,Unfurnished,Apartment,82,1,7,9.59,3.37,4.97,15.64,42.6,105,11745
+P0471,Rajkot - central,Rajkot,Gujarat,22.319558,70.785178,639,1,1,8,8,Unfurnished,Apartment,51,0,7,6.36,2.11,1.39,15.15,34.2,85,7624
+P0472,Vadodara - outskirts,Vadodara,Gujarat,22.288783,73.161578,1114,2,2,1,1,Semi-Furnished,Independent House,48,1,4,6.71,2.43,7.5,12.4,35.9,89,12450
+P0473,Mehsana - outskirts,Mehsana,Gujarat,23.566656,72.349635,822,3,3,7,10,Unfurnished,Apartment,51,2,3,7.55,4.9,4.41,24.85,42.1,129,5680
+P0474,Ahmedabad - central,Ahmedabad,Gujarat,23.012232,72.569323,615,2,2,7,8,Unfurnished,Apartment,34,0,6,7.95,3.04,7.84,3.06,39.4,83,9383
+P0475,Gandhidham - outskirts,Gandhidham,Gujarat,23.095764,70.131019,534,1,1,6,7,Unfurnished,Apartment,57,1,1,10.73,3.43,7.61,16.12,50.7,121,2784
+P0476,Diu - central,Diu,Gujarat,20.704243,70.954976,1074,3,3,2,3,Furnished,Apartment,105,1,1,5.65,1.14,9.68,6.3,41.5,100,8263
+P0477,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.747941,72.171427,608,2,3,6,11,Semi-Furnished,Apartment,15,2,3,6.02,5.16,9.12,34.51,54.8,96,4016
+P0478,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.008695,72.55162,1313,2,2,1,8,Unfurnished,Apartment,140,1,5,1.51,7.58,0.94,8.23,26.1,50,19951
+P0479,Ahmedabad - central,Ahmedabad,Gujarat,23.008329,72.559174,1458,4,4,1,1,Semi-Furnished,Villa,60,1,9,7.02,5.32,9.77,8.05,39.1,62,25448
+P0480,Ahmedabad - central,Ahmedabad,Gujarat,23.038129,72.56011,1309,4,4,4,4,Furnished,Apartment,27,2,5,2.42,0.93,2.24,14.76,20.5,71,20257
+P0481,Rajkot - central,Rajkot,Gujarat,22.326472,70.816902,250,1,1,1,1,Unfurnished,Villa,11,1,4,3.48,1.4,3.21,21.75,42.6,80,2503
+P0482,Surat - outskirts,Surat,Gujarat,21.151836,72.812467,937,3,3,2,11,Semi-Furnished,Apartment,38,1,7,4.14,3.59,3.82,1.23,24.5,121,14694
+P0483,Surat - central,Surat,Gujarat,21.153393,72.850544,522,1,1,2,4,Furnished,Apartment,57,1,5,6.48,2.28,8.85,17.49,33.3,97,7228
+P0484,Mehsana - central,Mehsana,Gujarat,23.590113,72.397335,1028,3,4,1,3,Furnished,Apartment,113,1,2,10.26,5.53,1.87,28.85,56.5,123,6373
+P0485,Anand - central,Anand,Gujarat,22.548297,72.929089,1973,2,2,1,1,Furnished,Independent House,68,1,2,10.5,3.83,0.64,5.61,48.5,85,14163
+P0486,Navsari - outskirts,Navsari,Gujarat,20.97083,72.958545,1484,3,3,1,1,Unfurnished,Independent House,41,1,3,0.36,2.89,7.16,36.2,55.0,55,11019
+P0487,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.045129,72.582128,888,3,4,3,5,Semi-Furnished,Apartment,39,2,7,4.44,5.98,2.1,23.87,23.3,30,14979
+P0488,Palanpur - central,Palanpur,Gujarat,24.188552,72.42672,1372,3,4,7,8,Semi-Furnished,Apartment,157,1,1,7.04,5.64,8.37,9.3,57.1,75,5991
+P0489,Ahmedabad - central,Ahmedabad,Gujarat,22.992805,72.562535,1102,2,2,11,11,Furnished,Apartment,75,0,7,3.68,3.69,2.33,20.64,48.3,100,17074
+P0490,Surendranagar - central,Surendranagar,Gujarat,22.744803,71.655823,1432,4,4,1,1,Furnished,Independent House,22,2,3,2.52,4.72,0.99,12.66,44.3,110,7364
+P0491,Rajkot - outskirts,Rajkot,Gujarat,22.284902,70.819144,1153,3,3,6,9,Unfurnished,Apartment,39,1,5,5.11,1.68,3.19,7.43,56.0,79,11584
+P0492,Surendranagar - central,Surendranagar,Gujarat,22.730919,71.639987,292,1,1,7,8,Semi-Furnished,Apartment,33,2,1,0.51,6.16,1.07,9.92,68.2,82,2000
+P0493,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.205478,72.610552,995,3,3,9,10,Semi-Furnished,Apartment,25,0,2,9.99,5.23,3.47,2.43,46.1,125,11205
+P0494,Navsari - outskirts,Navsari,Gujarat,20.916702,72.959027,891,2,2,3,10,Furnished,Apartment,78,1,1,3.87,7.91,0.26,21.97,50.1,92,5985
+P0495,Ahmedabad - central,Ahmedabad,Gujarat,23.001275,72.542699,1028,3,3,1,1,Semi-Furnished,Independent House,45,1,9,10.2,2.16,6.21,10.98,37.2,69,18060
+P0496,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.027332,72.543445,928,2,2,4,4,Semi-Furnished,Apartment,44,1,9,5.67,6.53,1.65,7.09,47.2,97,15746
+P0497,Anand - outskirts,Anand,Gujarat,22.543684,72.938256,250,1,1,1,1,Semi-Furnished,Independent House,2,1,3,10.36,1.77,9.04,23.38,45.8,102,2000
+P0498,Junagadh - central,Junagadh,Gujarat,21.52757,70.477693,1038,3,4,7,10,Unfurnished,Apartment,83,1,1,6.18,5.31,2.74,29.42,39.3,83,6437
+P0499,Ahmedabad - central,Ahmedabad,Gujarat,23.029214,72.548268,868,2,2,4,8,Unfurnished,Apartment,87,1,6,10.82,1.47,8.95,18.9,36.8,84,13361
+P0500,Valsad - central,Valsad,Gujarat,20.617,72.909761,945,2,3,7,10,Furnished,Apartment,79,1,1,6.0,5.46,2.41,30.98,40.8,116,6559
+P0501,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.013889,72.595385,985,2,3,9,9,Unfurnished,Apartment,53,2,7,8.79,4.27,2.06,5.19,45.5,53,15413
+P0502,Valsad - outskirts,Valsad,Gujarat,20.591074,72.956947,380,1,1,5,11,Furnished,Apartment,26,0,2,6.58,0.28,8.25,15.15,56.7,82,2648
+P0503,Surat - central,Surat,Gujarat,21.159977,72.846541,609,2,2,4,4,Unfurnished,Apartment,72,1,6,5.17,1.68,8.9,1.48,46.7,127,8454
+P0504,Bharuch - central,Bharuch,Gujarat,21.7185,72.972144,250,1,1,1,1,Unfurnished,Independent House,8,0,2,5.11,5.94,9.31,36.06,46.8,105,2000
+P0505,Bhavnagar - central,Bhavnagar,Gujarat,21.741435,72.12898,631,1,1,5,6,Unfurnished,Apartment,36,1,3,5.89,3.16,3.9,9.38,46.7,70,4290
+P0506,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.211913,72.623856,681,1,1,1,3,Semi-Furnished,Apartment,64,1,4,0.74,6.43,8.76,6.25,52.2,100,8387
+P0507,Vadodara - outskirts,Vadodara,Gujarat,22.310284,73.203338,1992,2,2,1,4,Furnished,Apartment,226,1,1,9.8,7.19,8.62,11.09,42.9,114,18301
+P0508,Surat - outskirts,Surat,Gujarat,21.189183,72.809618,690,1,1,1,1,Unfurnished,Independent House,36,1,8,1.82,7.81,2.46,18.55,43.9,106,10594
+P0509,Veraval - outskirts,Veraval,Gujarat,20.883467,70.35276,641,1,1,1,1,Semi-Furnished,Independent House,32,2,1,0.9,6.85,3.96,5.66,45.5,125,2918
+P0510,Anand - central,Anand,Gujarat,22.581557,72.954614,846,3,4,1,1,Unfurnished,Independent House,28,1,1,9.09,1.81,0.47,30.4,37.5,69,5939
+P0511,Navsari - outskirts,Navsari,Gujarat,20.933542,72.963756,250,1,1,1,1,Semi-Furnished,Villa,9,1,1,3.27,7.69,4.78,39.74,53.6,158,2000
+P0512,Surat - outskirts,Surat,Gujarat,21.140732,72.80332,944,3,2,6,7,Semi-Furnished,Apartment,80,1,5,3.82,5.32,8.39,21.19,39.7,84,12789
+P0513,Vadodara - outskirts,Vadodara,Gujarat,22.316476,73.162255,515,1,1,2,8,Semi-Furnished,Apartment,23,1,4,6.04,1.9,1.91,21.78,41.9,76,5638
+P0514,Jamnagar - central,Jamnagar,Gujarat,22.471362,70.041919,691,1,1,1,1,Semi-Furnished,Independent House,19,2,4,4.37,5.77,6.09,17.24,60.1,113,4725
+P0515,Vadodara - central,Vadodara,Gujarat,22.278732,73.187742,1082,3,4,6,8,Semi-Furnished,Apartment,65,1,3,11.69,5.01,1.77,1.12,66.0,68,10283
+P0516,Gandhidham - central,Gandhidham,Gujarat,23.091637,70.133438,991,3,4,1,12,Unfurnished,Apartment,34,1,1,11.47,7.67,9.92,24.79,67.6,106,4854
+P0517,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.017096,72.546181,1063,3,3,5,12,Unfurnished,Apartment,56,2,5,2.92,2.59,9.73,17.33,16.3,101,16673
+P0518,Junagadh - central,Junagadh,Gujarat,21.522802,70.436804,601,1,1,3,12,Unfurnished,Apartment,26,1,3,8.06,4.88,8.0,16.96,58.1,118,3922
+P0519,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.789617,72.176156,980,3,2,7,7,Semi-Furnished,Apartment,110,1,3,0.6,3.51,6.96,39.65,64.0,138,6256
+P0520,Vadodara - central,Vadodara,Gujarat,22.294557,73.179826,308,1,1,1,1,Semi-Furnished,Independent House,16,1,3,8.92,2.9,4.6,10.22,28.0,106,3349
+P0521,Ahmedabad - central,Ahmedabad,Gujarat,23.023561,72.572912,989,2,2,6,12,Unfurnished,Apartment,64,1,4,8.73,2.31,7.78,5.81,36.9,80,13769
+P0522,Jamnagar - outskirts,Jamnagar,Gujarat,22.495762,70.087028,813,2,3,4,6,Semi-Furnished,Apartment,63,1,4,3.56,1.04,2.88,20.36,56.7,87,5629
+P0523,Navsari - outskirts,Navsari,Gujarat,20.94229,72.949489,789,2,2,1,5,Semi-Furnished,Apartment,18,1,1,2.5,3.96,8.26,17.93,47.2,163,5355
+P0524,Ahmedabad - central,Ahmedabad,Gujarat,23.009066,72.579237,1452,2,2,1,7,Unfurnished,Apartment,173,1,6,4.37,0.72,7.97,18.18,34.5,106,22526
+P0525,Jamnagar - outskirts,Jamnagar,Gujarat,22.49729,70.068101,806,2,2,1,1,Unfurnished,Independent House,25,1,1,10.56,0.38,6.42,5.28,56.8,119,4698
+P0526,Surat - central,Surat,Gujarat,21.169254,72.840516,1154,3,3,2,4,Furnished,Apartment,30,1,4,2.3,3.4,2.78,9.51,29.2,65,15389
+P0527,Surat - central,Surat,Gujarat,21.150772,72.858479,937,3,3,6,12,Semi-Furnished,Apartment,46,2,8,10.78,6.14,4.31,11.18,41.7,109,14497
+P0528,Anand - central,Anand,Gujarat,22.575099,72.923574,732,3,4,1,1,Unfurnished,Independent House,42,0,2,3.36,1.8,8.54,19.32,43.8,95,5342
+P0529,Morbi - central,Morbi,Gujarat,22.843117,70.820667,890,3,4,2,3,Semi-Furnished,Apartment,37,1,1,9.4,0.97,9.69,26.38,62.1,129,4451
+P0530,Rajkot - outskirts,Rajkot,Gujarat,22.274718,70.822929,713,2,2,4,8,Unfurnished,Apartment,74,1,5,3.62,1.38,3.86,10.33,38.9,85,7610
+P0531,Navsari - central,Navsari,Gujarat,20.962443,72.947723,250,0,1,1,6,Semi-Furnished,Apartment,8,1,1,1.75,5.95,2.85,7.97,66.3,121,2000
+P0532,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.998084,72.599413,718,3,3,7,7,Semi-Furnished,Apartment,51,0,6,3.43,1.7,2.79,16.4,31.8,83,11241
+P0533,Junagadh - central,Junagadh,Gujarat,21.499037,70.446537,1312,2,2,1,1,Unfurnished,Villa,100,1,1,5.54,4.67,0.44,31.99,39.7,110,8125
+P0534,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.001537,72.560687,1343,2,3,1,6,Furnished,Apartment,109,1,8,6.89,1.94,7.72,6.3,36.6,101,22657
+P0535,Junagadh - central,Junagadh,Gujarat,21.502226,70.472789,1512,4,4,4,8,Semi-Furnished,Apartment,137,2,2,11.91,0.74,1.23,29.47,38.6,130,9987
+P0536,Surat - central,Surat,Gujarat,21.193573,72.834929,1011,3,3,8,11,Furnished,Apartment,108,1,6,1.59,7.97,7.26,22.01,40.3,104,14351
+P0537,Surat - central,Surat,Gujarat,21.144223,72.859719,613,2,2,4,10,Unfurnished,Apartment,69,2,4,1.8,4.24,8.33,0.25,36.6,90,7974
+P0538,Vadodara - central,Vadodara,Gujarat,22.299236,73.197219,728,3,3,3,12,Furnished,Apartment,60,1,2,0.37,1.62,2.99,22.79,31.5,110,7388
+P0539,Bharuch - central,Bharuch,Gujarat,21.712053,73.020454,730,2,2,3,5,Semi-Furnished,Apartment,23,1,1,4.72,4.65,8.56,26.17,68.0,95,4590
+P0540,Surat - central,Surat,Gujarat,21.186635,72.843475,931,2,2,2,3,Furnished,Apartment,108,2,7,5.22,3.83,3.17,19.0,42.1,107,13759
+P0541,Vadodara - outskirts,Vadodara,Gujarat,22.278718,73.173141,834,2,3,1,1,Unfurnished,Independent House,49,1,5,5.98,6.33,6.92,13.95,37.5,101,9758
+P0542,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.736512,72.138397,862,2,2,1,3,Semi-Furnished,Apartment,62,0,1,3.86,0.84,3.81,13.88,62.5,84,4919
+P0543,Bhavnagar - central,Bhavnagar,Gujarat,21.73623,72.175556,797,2,3,1,1,Unfurnished,Independent House,59,1,1,5.99,3.84,8.77,31.27,51.5,94,4735
+P0544,Surat - outskirts,Surat,Gujarat,21.150353,72.860276,1046,3,4,1,10,Semi-Furnished,Apartment,110,2,6,7.93,5.93,3.46,16.8,58.8,51,13900
+P0545,Nadiad - central,Nadiad,Gujarat,22.712472,72.831793,1488,3,4,2,4,Unfurnished,Apartment,104,1,2,5.43,2.28,2.15,22.69,59.7,140,9117
+P0546,Surat - central,Surat,Gujarat,21.196794,72.819567,618,1,1,1,4,Furnished,Apartment,17,1,8,0.44,1.44,0.3,15.95,21.7,95,10225
+P0547,Mehsana - outskirts,Mehsana,Gujarat,23.584109,72.361417,1337,4,4,2,7,Semi-Furnished,Apartment,102,2,1,3.42,1.67,9.8,14.08,47.9,108,8046
+P0548,Porbandar - central,Porbandar,Gujarat,21.661491,69.621858,1192,2,2,1,1,Semi-Furnished,Independent House,56,1,1,4.29,6.51,8.0,12.26,49.8,78,6235
+P0549,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.017784,72.561483,876,2,3,4,5,Furnished,Apartment,68,1,9,7.14,0.37,7.07,15.74,40.9,77,15195
+P0550,Anand - central,Anand,Gujarat,22.558669,72.901308,1192,3,3,1,1,Semi-Furnished,Independent House,63,1,1,8.83,3.84,2.59,30.32,42.8,86,8216
+P0551,Bharuch - central,Bharuch,Gujarat,21.733446,73.011011,1739,2,2,1,1,Unfurnished,Independent House,66,0,1,6.24,7.39,8.89,38.78,58.2,98,11344
+P0552,Ahmedabad - central,Ahmedabad,Gujarat,23.001748,72.574721,1927,3,4,8,8,Semi-Furnished,Apartment,127,1,6,2.23,2.53,2.01,21.44,25.2,95,30836
+P0553,Porbandar - central,Porbandar,Gujarat,21.660887,69.618022,998,3,4,1,1,Unfurnished,Independent House,68,1,1,1.33,1.12,7.68,9.67,56.6,54,5093
+P0554,Rajkot - central,Rajkot,Gujarat,22.286574,70.798324,1316,4,4,3,12,Unfurnished,Apartment,74,2,5,7.4,6.04,9.16,16.14,50.2,104,13501
+P0555,Vadodara - outskirts,Vadodara,Gujarat,22.286853,73.158924,607,2,2,4,7,Furnished,Apartment,36,1,5,9.71,2.84,7.38,16.4,31.0,117,7260
+P0556,Jamnagar - outskirts,Jamnagar,Gujarat,22.462592,70.07483,1481,4,4,1,1,Semi-Furnished,Independent House,41,1,2,9.67,3.66,3.85,21.57,44.2,127,9594
+P0557,Veraval - central,Veraval,Gujarat,20.873004,70.36596,454,1,1,1,1,Unfurnished,Independent House,12,1,2,10.49,3.54,4.75,6.39,61.0,86,2076
+P0558,Rajkot - central,Rajkot,Gujarat,22.317507,70.810175,590,1,1,7,8,Furnished,Apartment,30,1,2,4.42,0.39,7.44,6.22,49.9,97,5151
+P0559,Rajkot - central,Rajkot,Gujarat,22.304658,70.815724,1501,2,3,1,1,Unfurnished,Independent House,101,1,4,4.05,0.4,6.17,18.1,47.8,81,14755
+P0560,Vadodara - outskirts,Vadodara,Gujarat,22.290113,73.207329,770,2,3,4,4,Unfurnished,Apartment,76,2,6,7.46,4.36,7.98,17.36,58.4,101,8784
+P0561,Surat - outskirts,Surat,Gujarat,21.153479,72.802184,1085,2,2,1,1,Unfurnished,Independent House,31,1,8,5.09,1.13,2.82,14.98,50.2,79,16292
+P0562,Vadodara - central,Vadodara,Gujarat,22.300604,73.175376,751,3,3,7,8,Semi-Furnished,Apartment,56,1,7,9.91,1.3,8.57,12.47,40.0,88,9583
+P0563,Anand - central,Anand,Gujarat,22.580496,72.943983,1306,3,3,1,1,Semi-Furnished,Independent House,40,1,2,5.72,1.33,5.93,26.85,42.5,93,9575
+P0564,Vadodara - outskirts,Vadodara,Gujarat,22.290265,73.205228,1287,4,4,1,4,Semi-Furnished,Apartment,52,1,4,10.41,6.16,9.85,24.47,37.1,84,14325
+P0565,Surat - outskirts,Surat,Gujarat,21.150536,72.855537,496,2,2,4,6,Semi-Furnished,Apartment,32,1,5,11.1,1.5,3.03,13.32,35.9,107,6807
+P0566,Rajkot - outskirts,Rajkot,Gujarat,22.275263,70.808281,1305,4,3,10,12,Semi-Furnished,Apartment,36,1,4,0.47,4.92,1.83,15.64,36.1,35,13360
+P0567,Bhuj - central,Bhuj,Gujarat,23.239919,69.651413,638,1,1,1,1,Furnished,Independent House,27,1,1,1.77,0.61,0.5,25.22,38.8,116,3468
+P0568,Surat - central,Surat,Gujarat,21.187183,72.858554,444,2,3,1,1,Furnished,Independent House,26,0,4,9.03,5.49,4.18,12.99,31.8,87,5870
+P0569,Vapi - central,Vapi,Gujarat,20.366517,72.924824,783,2,2,1,1,Furnished,Independent House,52,1,1,0.67,3.26,9.29,27.02,35.6,120,6147
+P0570,Navsari - central,Navsari,Gujarat,20.963942,72.964774,1065,3,3,4,6,Furnished,Apartment,31,1,1,10.81,3.98,2.6,14.1,49.0,130,7182
+P0571,Junagadh - central,Junagadh,Gujarat,21.500213,70.464347,916,3,2,1,1,Semi-Furnished,Independent House,54,1,1,6.9,2.51,7.19,28.56,60.7,138,5262
+P0572,Valsad - central,Valsad,Gujarat,20.621847,72.933523,1007,3,3,7,8,Semi-Furnished,Apartment,110,1,4,7.13,4.06,5.33,18.23,64.9,87,7608
+P0573,Bhavnagar - central,Bhavnagar,Gujarat,21.765947,72.135602,828,2,2,5,7,Unfurnished,Apartment,81,1,2,5.62,7.31,9.08,34.4,60.4,64,5060
+P0574,Surat - outskirts,Surat,Gujarat,21.154905,72.842478,753,3,3,9,11,Unfurnished,Apartment,88,0,7,6.89,2.06,2.71,18.49,36.1,49,11360
+P0575,Bhavnagar - central,Bhavnagar,Gujarat,21.737565,72.169301,507,1,1,1,1,Unfurnished,Independent House,37,1,1,2.65,2.03,7.66,21.7,67.3,130,2841
+P0576,Ahmedabad - central,Ahmedabad,Gujarat,22.99253,72.586674,475,1,1,5,10,Semi-Furnished,Apartment,37,1,8,10.66,6.24,2.11,20.14,31.7,61,8147
+P0577,Gandhinagar - central,Gandhinagar,Gujarat,23.215347,72.617628,1111,3,4,4,11,Semi-Furnished,Apartment,97,1,4,1.52,6.08,1.99,0.16,58.4,79,13377
+P0578,Navsari - outskirts,Navsari,Gujarat,20.925976,72.932183,1559,3,4,2,5,Unfurnished,Apartment,150,1,3,3.98,4.29,1.21,15.5,42.0,83,12123
+P0579,Porbandar - outskirts,Porbandar,Gujarat,21.656413,69.601182,1229,2,2,10,10,Unfurnished,Apartment,120,2,1,5.77,6.86,3.18,10.07,48.8,127,6451
+P0580,Rajkot - central,Rajkot,Gujarat,22.307498,70.784167,311,1,1,4,5,Unfurnished,Apartment,6,1,5,8.66,2.43,3.86,8.05,48.3,70,3212
+P0581,Surat - central,Surat,Gujarat,21.175367,72.804659,1017,2,2,1,1,Unfurnished,Independent House,52,2,6,9.42,3.18,9.61,17.66,41.5,156,14377
+P0582,Ahmedabad - central,Ahmedabad,Gujarat,23.032141,72.5748,482,2,2,3,4,Unfurnished,Apartment,44,2,7,7.16,4.64,5.71,10.96,34.1,107,7844
+P0583,Morbi - outskirts,Morbi,Gujarat,22.794516,70.857934,1335,4,4,8,8,Unfurnished,Apartment,55,1,3,4.47,1.67,9.72,14.07,35.0,71,8270
+P0584,Rajkot - outskirts,Rajkot,Gujarat,22.332354,70.819035,1124,2,3,3,3,Semi-Furnished,Apartment,26,1,1,9.52,3.99,5.83,15.86,44.7,59,9407
+P0585,Jamnagar - outskirts,Jamnagar,Gujarat,22.461089,70.059363,997,3,3,1,1,Unfurnished,Villa,63,1,2,5.53,7.06,7.44,27.77,63.5,116,6023
+P0586,Mehsana - outskirts,Mehsana,Gujarat,23.597266,72.360879,824,3,2,1,1,Furnished,Independent House,21,1,2,2.83,5.43,3.4,21.02,43.3,67,5355
+P0587,Vapi - outskirts,Vapi,Gujarat,20.41976,72.887979,1295,2,2,10,11,Unfurnished,Apartment,31,1,4,1.02,6.98,9.3,28.04,53.8,118,11327
+P0588,Bharuch - outskirts,Bharuch,Gujarat,21.733255,72.996302,1707,3,3,1,1,Furnished,Independent House,120,1,2,0.78,3.56,2.15,31.98,47.6,97,12292
+P0589,Junagadh - central,Junagadh,Gujarat,21.54395,70.449181,1042,3,4,7,8,Furnished,Apartment,123,1,3,3.21,0.98,4.68,5.25,53.8,77,6907
+P0590,Ankleshwar - outskirts,Ankleshwar,Gujarat,21.603189,72.983439,250,1,1,8,9,Furnished,Apartment,29,2,2,0.74,6.79,1.94,5.32,48.0,105,2000
+P0591,Gandhinagar - central,Gandhinagar,Gujarat,23.240139,72.622811,878,3,4,5,5,Unfurnished,Apartment,82,1,2,10.57,0.96,1.79,12.44,44.2,130,9954
+P0592,Vadodara - outskirts,Vadodara,Gujarat,22.305066,73.176105,488,1,1,1,9,Semi-Furnished,Apartment,46,1,7,1.38,2.85,2.38,10.5,70.1,118,5581
+P0593,Palanpur - central,Palanpur,Gujarat,24.189327,72.414456,1353,2,2,2,7,Semi-Furnished,Apartment,100,1,1,1.34,3.99,8.34,24.99,62.0,128,5802
+P0594,Anand - outskirts,Anand,Gujarat,22.578785,72.949945,833,2,2,3,7,Unfurnished,Apartment,55,1,1,11.85,2.21,9.02,16.48,48.0,113,5638
+P0595,Navsari - outskirts,Navsari,Gujarat,20.932468,72.949192,419,1,1,2,6,Semi-Furnished,Apartment,8,2,1,2.42,6.97,9.71,19.2,63.0,102,2685
+P0596,Navsari - outskirts,Navsari,Gujarat,20.924274,72.936428,538,1,1,1,1,Semi-Furnished,Independent House,26,1,1,4.24,4.2,0.82,17.79,35.8,53,3799
+P0597,Bhavnagar - central,Bhavnagar,Gujarat,21.743606,72.173496,581,2,2,2,4,Semi-Furnished,Apartment,66,1,2,10.11,1.85,0.36,30.67,42.3,127,3789
+P0598,Jamnagar - outskirts,Jamnagar,Gujarat,22.464086,70.059005,711,2,2,5,5,Furnished,Apartment,80,1,3,11.47,3.45,2.18,6.71,60.4,96,4600
+P0599,Rajkot - central,Rajkot,Gujarat,22.330955,70.786748,620,2,2,11,11,Semi-Furnished,Apartment,69,2,6,0.9,3.34,1.61,20.56,47.7,46,6739
+P0600,Bhuj - outskirts,Bhuj,Gujarat,23.220338,69.65557,696,2,2,1,1,Semi-Furnished,Villa,50,1,1,11.34,1.3,4.55,28.53,53.6,103,3591
+P0601,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.020492,72.576499,321,1,1,1,1,Semi-Furnished,Independent House,4,2,7,4.23,2.25,9.88,9.54,43.8,72,5053
+P0602,Vapi - outskirts,Vapi,Gujarat,20.404247,72.928284,1085,2,2,10,12,Unfurnished,Apartment,47,1,1,8.48,3.52,0.76,8.68,54.4,56,7974
+P0603,Gandhinagar - central,Gandhinagar,Gujarat,23.237824,72.646953,748,3,3,4,10,Semi-Furnished,Apartment,31,1,2,11.97,6.63,4.98,15.17,36.5,84,8708
+P0604,Ahmedabad - central,Ahmedabad,Gujarat,22.994737,72.565322,1202,2,2,3,6,Semi-Furnished,Apartment,109,2,5,8.68,0.41,6.54,11.01,20.7,92,18589
+P0605,Gandhidham - outskirts,Gandhidham,Gujarat,23.064198,70.148123,250,1,1,2,8,Semi-Furnished,Apartment,15,0,2,5.59,7.14,3.71,28.91,37.9,158,2000
+P0606,Vadodara - outskirts,Vadodara,Gujarat,22.327374,73.164854,446,1,1,1,1,Semi-Furnished,Independent House,14,1,2,9.82,6.77,8.6,8.34,33.8,64,4492
+P0607,Surendranagar - central,Surendranagar,Gujarat,22.75063,71.659614,799,3,4,4,9,Semi-Furnished,Apartment,72,2,1,10.77,6.06,9.6,16.3,63.6,128,3406
+P0608,Junagadh - outskirts,Junagadh,Gujarat,21.510135,70.462106,508,1,1,11,12,Semi-Furnished,Apartment,23,1,2,4.88,7.38,1.22,38.46,58.7,52,3124
+P0609,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.042776,72.566272,792,2,2,4,10,Unfurnished,Apartment,93,1,7,7.85,1.81,0.32,6.09,53.6,84,12040
+P0610,Junagadh - central,Junagadh,Gujarat,21.513924,70.485385,250,1,1,1,1,Unfurnished,Independent House,15,2,4,9.68,2.18,3.83,36.5,58.6,92,2000
+P0611,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.042697,72.569014,1200,4,4,8,11,Semi-Furnished,Apartment,36,1,7,4.31,5.65,9.77,20.53,41.3,99,19054
+P0612,Rajkot - central,Rajkot,Gujarat,22.309764,70.79805,2115,3,3,2,3,Semi-Furnished,Apartment,191,0,6,4.38,7.64,2.91,6.3,47.9,88,22971
+P0613,Navsari - central,Navsari,Gujarat,20.938201,72.929981,431,2,2,4,8,Semi-Furnished,Apartment,46,1,3,6.57,5.48,3.28,5.24,39.8,78,3377
+P0614,Veraval - outskirts,Veraval,Gujarat,20.898464,70.380836,263,1,1,2,5,Furnished,Apartment,29,1,1,1.31,3.29,7.07,28.99,56.8,83,2000
+P0615,Surat - central,Surat,Gujarat,21.162589,72.811211,1086,3,3,4,9,Furnished,Apartment,128,1,8,9.07,4.24,0.4,15.15,45.0,82,16610
+P0616,Kheda - central,Kheda,Gujarat,22.776486,72.700882,1294,2,3,2,8,Unfurnished,Apartment,50,1,1,2.78,2.83,8.75,36.94,42.9,87,5944
+P0617,Vapi - central,Vapi,Gujarat,20.37189,72.883315,1339,2,2,1,1,Unfurnished,Independent House,87,2,4,11.23,0.95,6.89,25.65,54.3,113,11690
+P0618,Gandhinagar - central,Gandhinagar,Gujarat,23.214425,72.657516,337,1,1,1,1,Unfurnished,Independent House,4,1,3,11.53,3.98,7.98,1.04,75.5,123,3602
+P0619,Anand - outskirts,Anand,Gujarat,22.558854,72.921524,250,0,1,1,1,Semi-Furnished,Independent House,14,1,1,7.79,2.33,1.53,31.72,48.3,137,2000
+P0620,Bhavnagar - central,Bhavnagar,Gujarat,21.772956,72.166255,700,3,3,1,1,Unfurnished,Villa,44,1,4,0.69,7.58,3.21,25.56,60.6,82,4777
+P0621,Jamnagar - central,Jamnagar,Gujarat,22.452916,70.040104,815,2,3,9,9,Semi-Furnished,Apartment,30,1,3,10.95,0.88,9.51,36.23,49.6,91,5485
+P0622,Gandhinagar - central,Gandhinagar,Gujarat,23.225712,72.659817,1139,2,3,6,6,Unfurnished,Apartment,117,2,2,9.95,3.04,8.41,1.12,53.7,112,12483
+P0623,Rajkot - central,Rajkot,Gujarat,22.31566,70.799148,1267,2,3,4,7,Unfurnished,Apartment,78,1,3,10.83,6.55,4.98,15.0,39.0,74,12167
+P0624,Anand - central,Anand,Gujarat,22.546728,72.90409,771,3,3,3,5,Unfurnished,Apartment,70,1,1,3.58,6.86,2.76,31.63,35.6,135,5448
+P0625,Valsad - central,Valsad,Gujarat,20.599817,72.96307,792,3,3,3,9,Furnished,Apartment,70,0,1,5.34,3.03,7.44,20.47,53.8,67,5250
+P0626,Porbandar - outskirts,Porbandar,Gujarat,21.651181,69.600532,965,2,2,1,1,Unfurnished,Villa,33,1,1,4.82,1.31,3.06,7.23,56.2,122,4932
+P0627,Vapi - central,Vapi,Gujarat,20.37432,72.896873,913,2,2,1,1,Furnished,Villa,52,1,3,7.5,1.44,9.34,17.96,54.9,113,7535
+P0628,Junagadh - outskirts,Junagadh,Gujarat,21.507503,70.486708,923,2,3,2,11,Furnished,Apartment,94,1,1,4.76,5.52,3.99,36.86,51.4,129,5486
+P0629,Gandhinagar - central,Gandhinagar,Gujarat,23.209734,72.657308,1253,3,3,4,5,Unfurnished,Apartment,135,1,2,9.7,1.24,4.71,17.77,42.1,93,14309
+P0630,Vadodara - outskirts,Vadodara,Gujarat,22.331221,73.184092,534,2,2,6,8,Semi-Furnished,Apartment,31,1,5,2.76,1.61,2.11,21.84,38.5,62,6226
+P0631,Navsari - central,Navsari,Gujarat,20.973292,72.92423,728,2,2,5,10,Unfurnished,Apartment,84,1,1,2.55,2.77,8.92,28.09,61.8,93,4686
+P0632,Surat - central,Surat,Gujarat,21.142318,72.806924,1437,4,4,4,9,Furnished,Apartment,74,1,10,9.2,3.94,6.18,19.08,27.7,76,25340
+P0633,Ahmedabad - central,Ahmedabad,Gujarat,23.010694,72.58954,1607,3,4,4,8,Unfurnished,Apartment,186,1,6,7.55,2.59,9.06,11.17,36.7,93,24745
+P0634,Surat - outskirts,Surat,Gujarat,21.150427,72.802297,1004,3,3,5,10,Unfurnished,Apartment,110,1,7,1.93,3.61,7.61,3.39,34.3,99,15240
+P0635,Mehsana - outskirts,Mehsana,Gujarat,23.618902,72.397225,1381,2,2,10,10,Semi-Furnished,Apartment,74,0,1,4.57,1.5,6.32,28.71,56.2,97,8067
+P0636,Surat - outskirts,Surat,Gujarat,21.159314,72.811113,713,2,2,1,1,Semi-Furnished,Villa,38,2,9,4.51,2.1,5.23,24.55,43.3,79,11447
+P0637,Anand - outskirts,Anand,Gujarat,22.55744,72.953172,790,3,2,1,1,Unfurnished,Independent House,33,0,6,6.71,1.13,9.79,26.85,51.8,99,6923
+P0638,Rajkot - central,Rajkot,Gujarat,22.328701,70.823889,608,2,2,7,9,Unfurnished,Apartment,20,1,2,2.48,2.32,1.02,11.25,37.5,52,5543
+P0639,Vapi - central,Vapi,Gujarat,20.412581,72.901646,1368,2,2,5,5,Unfurnished,Apartment,133,1,3,0.36,6.48,8.73,26.61,59.8,133,11089
+P0640,Vapi - outskirts,Vapi,Gujarat,20.388863,72.885838,1060,2,2,1,1,Furnished,Independent House,17,1,2,9.54,1.94,0.69,7.78,46.7,131,8508
+P0641,Diu - outskirts,Diu,Gujarat,20.697663,70.97768,1028,2,2,2,4,Unfurnished,Apartment,47,1,2,2.43,1.08,7.66,11.59,63.3,72,7768
+P0642,Surendranagar - central,Surendranagar,Gujarat,22.733291,71.666662,412,1,1,1,1,Unfurnished,Independent House,19,2,2,3.17,6.06,0.83,7.2,44.4,140,2000
+P0643,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.010515,72.570745,886,2,2,1,1,Unfurnished,Independent House,52,2,7,6.92,5.84,3.33,8.95,43.6,57,13956
+P0644,Junagadh - outskirts,Junagadh,Gujarat,21.544902,70.475196,933,3,3,1,1,Semi-Furnished,Independent House,61,1,3,10.45,3.77,1.7,30.83,32.1,141,6671
+P0645,Rajkot - outskirts,Rajkot,Gujarat,22.331212,70.80516,1125,3,4,2,5,Semi-Furnished,Apartment,43,0,5,4.82,1.28,3.51,0.54,39.4,105,11987
+P0646,Surat - central,Surat,Gujarat,21.149716,72.838928,829,2,2,2,8,Furnished,Apartment,43,1,5,2.97,7.55,8.08,10.41,50.1,84,10828
+P0647,Mehsana - central,Mehsana,Gujarat,23.600832,72.39371,1051,3,3,3,5,Semi-Furnished,Apartment,70,0,2,4.57,2.04,9.46,29.09,70.2,75,6189
+P0648,Bhavnagar - central,Bhavnagar,Gujarat,21.787344,72.144949,516,1,1,1,1,Unfurnished,Villa,25,1,4,7.39,6.53,2.64,24.72,57.2,87,3566
+P0649,Surat - central,Surat,Gujarat,21.1976,72.830182,461,2,2,3,6,Unfurnished,Apartment,25,1,6,2.84,0.12,3.69,15.52,25.3,66,6883
+P0650,Vadodara - outskirts,Vadodara,Gujarat,22.285844,73.152717,1125,2,3,3,4,Unfurnished,Apartment,105,1,7,3.53,6.35,4.35,20.46,53.8,93,13672
+P0651,Anand - outskirts,Anand,Gujarat,22.537745,72.918492,1293,2,2,5,5,Semi-Furnished,Apartment,66,1,2,2.53,4.89,2.99,25.53,51.2,108,9192
+P0652,Bhavnagar - central,Bhavnagar,Gujarat,21.742412,72.125733,1090,2,2,3,9,Semi-Furnished,Apartment,112,0,1,3.54,4.57,5.77,35.91,65.4,114,6153
+P0653,Ahmedabad - central,Ahmedabad,Gujarat,23.041362,72.56831,250,1,1,1,1,Semi-Furnished,Villa,9,1,6,6.63,4.24,6.49,9.9,50.5,118,3668
+P0654,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.993655,72.587332,880,2,2,1,1,Furnished,Independent House,11,1,8,2.0,6.98,5.11,8.07,40.6,42,14644
+P0655,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.772161,72.159268,735,2,2,5,6,Semi-Furnished,Apartment,40,0,1,10.6,4.12,8.32,18.9,51.2,103,4372
+P0656,Surat - central,Surat,Gujarat,21.188478,72.845669,319,1,1,4,7,Furnished,Apartment,15,0,8,7.32,5.25,5.22,10.14,42.7,89,4918
+P0657,Vapi - central,Vapi,Gujarat,20.373285,72.884855,300,1,1,1,1,Unfurnished,Independent House,10,0,1,7.59,4.58,8.87,13.83,43.4,102,2293
+P0658,Vadodara - central,Vadodara,Gujarat,22.277873,73.167654,780,3,4,4,5,Semi-Furnished,Apartment,62,1,2,11.27,0.71,1.25,0.01,49.1,93,7449
+P0659,Ahmedabad - central,Ahmedabad,Gujarat,23.051497,72.596274,764,2,2,4,6,Unfurnished,Apartment,43,1,3,3.71,0.38,1.38,3.55,17.6,95,10740
+P0660,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.994294,72.571245,1578,3,3,4,6,Unfurnished,Apartment,123,1,6,8.49,3.89,7.37,3.83,53.8,94,22882
+P0661,Surendranagar - central,Surendranagar,Gujarat,22.75585,71.620247,1416,2,2,1,1,Unfurnished,Villa,84,1,1,3.35,5.4,9.64,11.58,46.8,64,6416
+P0662,Junagadh - outskirts,Junagadh,Gujarat,21.530859,70.45232,319,1,1,1,1,Semi-Furnished,Independent House,5,2,1,6.63,3.05,9.04,30.42,42.0,95,2000
+P0663,Junagadh - central,Junagadh,Gujarat,21.544208,70.437757,1579,2,3,1,1,Semi-Furnished,Independent House,75,1,2,7.31,7.09,3.46,17.55,34.1,109,10590
+P0664,Ahmedabad - central,Ahmedabad,Gujarat,22.992742,72.59747,1256,4,4,5,5,Furnished,Apartment,127,1,5,1.16,3.41,1.3,12.53,44.5,83,17929
+P0665,Anand - central,Anand,Gujarat,22.588314,72.9102,991,3,3,7,8,Semi-Furnished,Apartment,101,1,4,5.01,6.04,1.24,27.42,33.8,117,8366
+P0666,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.033329,72.545421,709,2,3,2,7,Unfurnished,Apartment,35,1,7,11.43,1.61,0.36,7.39,45.0,125,11114
+P0667,Rajkot - central,Rajkot,Gujarat,22.315938,70.82387,1453,2,2,6,9,Furnished,Apartment,91,1,3,7.45,0.43,5.02,0.79,44.9,97,13670
+P0668,Rajkot - central,Rajkot,Gujarat,22.311778,70.77784,1398,4,4,1,1,Unfurnished,Independent House,111,2,6,9.16,0.79,2.67,2.3,46.5,139,15259
+P0669,Rajkot - central,Rajkot,Gujarat,22.301691,70.814028,541,2,2,1,1,Unfurnished,Independent House,13,1,3,1.71,6.92,7.85,23.39,34.9,102,5268
+P0670,Rajkot - outskirts,Rajkot,Gujarat,22.318572,70.811432,828,2,2,5,10,Unfurnished,Apartment,19,1,4,8.3,7.75,0.95,12.05,46.1,116,8188
+P0671,Surat - central,Surat,Gujarat,21.162297,72.833709,808,3,3,1,4,Furnished,Apartment,26,1,7,0.48,4.02,7.98,10.75,36.0,31,12194
+P0672,Rajkot - central,Rajkot,Gujarat,22.313492,70.804955,326,0,1,1,1,Unfurnished,Independent House,14,1,5,11.15,1.19,0.44,2.16,48.6,107,3364
+P0673,Junagadh - central,Junagadh,Gujarat,21.545323,70.436124,1474,4,4,2,6,Furnished,Apartment,49,1,2,0.91,6.33,1.3,28.31,49.4,99,9375
+P0674,Bharuch - outskirts,Bharuch,Gujarat,21.679455,72.975784,981,3,3,4,5,Semi-Furnished,Apartment,81,1,1,8.07,6.88,1.62,31.62,22.0,114,7252
+P0675,Gandhinagar - central,Gandhinagar,Gujarat,23.214362,72.663863,250,1,1,1,1,Furnished,Independent House,8,1,1,8.77,3.05,4.61,20.91,52.5,151,2590
+P0676,Jamnagar - central,Jamnagar,Gujarat,22.499901,70.048189,1293,2,2,4,4,Semi-Furnished,Apartment,79,1,1,9.37,6.21,0.59,14.71,47.7,136,7787
+P0677,Surendranagar - outskirts,Surendranagar,Gujarat,22.699876,71.655347,1587,3,3,12,12,Semi-Furnished,Apartment,140,1,1,1.82,2.76,6.98,39.13,39.9,99,7366
+P0678,Bharuch - outskirts,Bharuch,Gujarat,21.7164,72.977298,661,2,3,5,8,Furnished,Apartment,35,1,1,7.25,5.39,2.05,26.46,56.1,60,4345
+P0679,Mehsana - outskirts,Mehsana,Gujarat,23.590345,72.360084,644,2,2,6,7,Furnished,Apartment,51,1,1,10.67,6.5,3.87,18.71,47.2,47,3885
+P0680,Surat - central,Surat,Gujarat,21.168782,72.824313,1175,3,2,4,7,Semi-Furnished,Apartment,139,1,7,6.9,1.67,0.7,10.69,54.9,79,16593
+P0681,Ahmedabad - central,Ahmedabad,Gujarat,23.009551,72.555841,436,1,1,3,4,Furnished,Apartment,12,1,9,0.67,5.32,0.79,2.79,55.8,74,7173
+P0682,Surat - outskirts,Surat,Gujarat,21.156384,72.830275,909,3,4,10,11,Semi-Furnished,Apartment,38,2,3,2.6,4.97,9.55,2.28,39.8,20,11079
+P0683,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.019148,72.550423,980,2,3,1,1,Semi-Furnished,Independent House,10,1,9,10.36,6.81,4.57,5.8,45.9,59,16705
+P0684,Vapi - outskirts,Vapi,Gujarat,20.370403,72.89824,900,3,3,9,9,Semi-Furnished,Apartment,19,1,1,5.42,1.72,1.62,7.71,59.9,71,6482
+P0685,Surat - central,Surat,Gujarat,21.166378,72.82782,804,2,2,1,1,Unfurnished,Independent House,46,1,9,0.96,5.73,0.41,14.29,40.2,86,13048
+P0686,Rajkot - central,Rajkot,Gujarat,22.307069,70.787223,716,3,3,11,12,Semi-Furnished,Apartment,52,1,5,4.7,0.48,2.44,17.68,53.5,121,7259
+P0687,Jamnagar - central,Jamnagar,Gujarat,22.451257,70.060576,1031,3,3,1,1,Furnished,Independent House,32,1,3,1.29,0.51,6.62,32.45,73.3,83,6352
+P0688,Ankleshwar - outskirts,Ankleshwar,Gujarat,21.626324,73.027081,962,2,2,3,4,Unfurnished,Apartment,36,1,3,9.18,5.81,1.7,37.63,53.5,110,6384
+P0689,Jamnagar - central,Jamnagar,Gujarat,22.444724,70.050346,763,2,2,2,5,Unfurnished,Apartment,78,1,2,3.1,1.48,1.28,13.69,39.8,68,5019
+P0690,Ahmedabad - central,Ahmedabad,Gujarat,23.002514,72.592876,1081,3,3,1,1,Unfurnished,Independent House,46,1,5,9.48,4.66,8.41,10.13,39.8,138,15685
+P0691,Ahmedabad - central,Ahmedabad,Gujarat,23.027926,72.586925,2059,4,3,1,1,Semi-Furnished,Independent House,63,0,9,5.95,6.03,2.31,19.38,40.0,52,35827
+P0692,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.013533,72.595964,723,2,3,8,9,Unfurnished,Apartment,41,1,8,11.52,2.04,1.63,16.0,47.8,94,11732
+P0693,Vapi - outskirts,Vapi,Gujarat,20.39087,72.91184,1194,3,2,1,1,Unfurnished,Villa,17,1,2,6.18,0.19,1.19,31.05,48.7,100,9516
+P0694,Rajkot - central,Rajkot,Gujarat,22.2831,70.821683,622,2,2,3,3,Semi-Furnished,Apartment,67,1,6,6.26,5.36,5.57,18.72,9.7,88,7670
+P0695,Vadodara - outskirts,Vadodara,Gujarat,22.286299,73.184023,833,2,2,1,1,Furnished,Independent House,30,1,2,3.77,7.63,2.11,14.23,29.8,115,8502
+P0696,Surat - outskirts,Surat,Gujarat,21.19754,72.816585,1048,2,2,2,4,Semi-Furnished,Apartment,123,1,6,1.14,3.73,9.01,15.42,60.8,76,13824
+P0697,Junagadh - outskirts,Junagadh,Gujarat,21.551979,70.430977,1041,3,3,9,12,Unfurnished,Apartment,104,1,1,9.82,3.53,2.87,37.9,42.1,164,6394
+P0698,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.242509,72.646673,864,2,3,4,6,Unfurnished,Apartment,97,1,6,5.07,3.26,5.75,7.48,49.7,132,11867
+P0699,Porbandar - outskirts,Porbandar,Gujarat,21.648334,69.584094,1282,3,3,2,3,Unfurnished,Apartment,40,2,1,6.0,7.67,5.97,19.19,58.3,90,6502
+P0700,Surat - central,Surat,Gujarat,21.157685,72.851715,780,2,2,1,1,Furnished,Independent House,31,2,7,9.56,5.61,1.69,1.28,39.0,84,11652
+P0701,Mehsana - outskirts,Mehsana,Gujarat,23.569252,72.375202,716,2,2,1,1,Semi-Furnished,Independent House,9,2,1,7.45,6.59,2.08,10.95,27.4,154,4622
+P0702,Gandhinagar - central,Gandhinagar,Gujarat,23.212751,72.664002,1060,2,2,1,1,Furnished,Independent House,68,1,2,2.84,2.34,4.06,8.47,54.9,122,11567
+P0703,Vadodara - outskirts,Vadodara,Gujarat,22.320566,73.168149,1064,2,3,1,1,Unfurnished,Independent House,26,1,3,0.63,0.56,8.78,3.69,51.2,91,10679
+P0704,Vadodara - central,Vadodara,Gujarat,22.300574,73.199951,930,3,3,10,11,Semi-Furnished,Apartment,84,1,6,4.5,3.19,3.58,1.22,55.8,54,10710
+P0705,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.737022,72.13032,1067,3,3,6,9,Unfurnished,Apartment,101,1,1,10.46,1.4,2.66,8.26,56.9,85,6216
+P0706,Jamnagar - central,Jamnagar,Gujarat,22.48022,70.071893,853,2,2,1,1,Unfurnished,Independent House,51,1,3,0.23,3.91,8.28,22.54,52.7,122,5677
+P0707,Jamnagar - central,Jamnagar,Gujarat,22.490473,70.052735,1877,4,4,2,3,Unfurnished,Apartment,148,2,1,5.59,2.35,0.38,25.63,54.0,99,11052
+P0708,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.739066,72.170097,250,1,1,1,3,Unfurnished,Apartment,19,1,1,2.9,1.85,8.25,13.36,53.6,101,2000
+P0709,Jamnagar - outskirts,Jamnagar,Gujarat,22.481805,70.032481,967,3,4,10,10,Furnished,Apartment,83,1,2,2.97,7.92,5.7,16.5,44.1,96,6267
+P0710,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.194934,72.614186,1109,3,3,4,7,Furnished,Apartment,69,1,3,9.23,2.38,9.98,17.29,46.4,90,13210
+P0711,Bharuch - outskirts,Bharuch,Gujarat,21.698373,72.977258,1528,3,4,6,10,Furnished,Apartment,147,1,2,1.64,5.38,2.93,7.91,54.3,81,10742
+P0712,Ankleshwar - outskirts,Ankleshwar,Gujarat,21.605745,73.029809,1371,2,3,3,8,Semi-Furnished,Apartment,121,2,1,9.14,2.88,3.53,18.62,53.7,95,8081
+P0713,Surat - central,Surat,Gujarat,21.174456,72.802127,452,1,1,1,1,Unfurnished,Independent House,34,1,4,5.6,2.65,3.81,22.5,47.8,86,5655
+P0714,Anand - central,Anand,Gujarat,22.572097,72.900849,547,1,1,1,1,Furnished,Independent House,37,1,4,1.57,1.17,5.04,39.86,50.6,81,4356
+P0715,Surendranagar - central,Surendranagar,Gujarat,22.714603,71.635589,617,2,2,6,7,Unfurnished,Apartment,20,1,3,2.01,2.79,4.24,7.6,49.6,105,3114
+P0716,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.038138,72.58669,603,1,1,3,4,Furnished,Apartment,70,1,9,1.66,4.65,5.91,1.97,48.2,86,10196
+P0717,Bharuch - central,Bharuch,Gujarat,21.68151,72.994519,683,2,3,4,4,Unfurnished,Apartment,16,1,1,7.96,2.23,0.71,7.41,64.6,93,4350
+P0718,Bhavnagar - central,Bhavnagar,Gujarat,21.793879,72.122217,597,1,1,12,12,Unfurnished,Apartment,49,0,2,2.78,5.69,1.86,38.51,58.3,78,3677
+P0719,Jamnagar - central,Jamnagar,Gujarat,22.494074,70.070114,1091,2,2,4,9,Unfurnished,Apartment,64,1,1,1.81,7.79,4.23,25.24,48.8,135,6545
+P0720,Surat - outskirts,Surat,Gujarat,21.198113,72.817693,1097,2,2,3,12,Unfurnished,Apartment,85,1,6,8.59,1.92,2.65,1.16,50.5,93,15024
+P0721,Ahmedabad - central,Ahmedabad,Gujarat,23.001255,72.564753,947,2,2,3,10,Furnished,Apartment,80,1,8,11.73,3.09,5.28,6.88,29.7,37,16352
+P0722,Surat - outskirts,Surat,Gujarat,21.150824,72.847243,1181,3,4,1,7,Semi-Furnished,Apartment,42,2,6,9.03,4.24,2.2,2.76,39.6,102,16805
+P0723,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.765082,72.177939,1303,3,4,7,7,Semi-Furnished,Apartment,76,1,3,10.88,0.24,2.5,22.01,55.2,160,8594
+P0724,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.029316,72.58934,293,1,1,1,1,Unfurnished,Independent House,3,2,7,3.05,2.33,8.14,18.94,33.8,52,4773
+P0725,Jamnagar - central,Jamnagar,Gujarat,22.48089,70.085339,409,1,1,7,11,Semi-Furnished,Apartment,8,1,2,3.81,6.14,2.66,33.16,38.4,82,2703
+P0726,Junagadh - central,Junagadh,Gujarat,21.544493,70.440198,492,1,1,1,1,Semi-Furnished,Independent House,31,1,4,5.28,4.54,6.96,8.61,56.3,89,3411
+P0727,Rajkot - outskirts,Rajkot,Gujarat,22.294349,70.786403,1442,4,4,2,6,Semi-Furnished,Apartment,34,0,5,7.13,1.05,2.95,14.72,39.5,97,15360
+P0728,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.027473,72.596889,1026,2,2,3,11,Unfurnished,Apartment,91,0,5,10.14,6.55,2.32,10.3,37.9,89,14985
+P0729,Surat - central,Surat,Gujarat,21.167168,72.838219,681,2,2,1,4,Unfurnished,Apartment,26,1,7,0.73,1.52,8.31,4.94,40.5,91,10120
+P0730,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.999006,72.555155,837,3,4,2,4,Semi-Furnished,Apartment,17,1,6,8.28,7.15,1.26,19.11,41.4,94,12682
+P0731,Morbi - central,Morbi,Gujarat,22.822757,70.867083,395,1,1,1,1,Unfurnished,Independent House,29,2,1,2.06,7.98,5.42,24.86,63.6,99,2000
+P0732,Surat - central,Surat,Gujarat,21.19476,72.83594,1045,2,2,8,11,Unfurnished,Apartment,112,1,9,10.83,1.91,7.06,23.74,50.2,101,16374
+P0733,Navsari - central,Navsari,Gujarat,20.966387,72.925441,405,1,1,3,3,Unfurnished,Apartment,30,0,1,6.56,0.76,5.35,8.27,51.1,135,2711
+P0734,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.781303,72.168418,1351,4,4,8,12,Furnished,Apartment,124,1,4,4.0,1.4,2.91,34.65,67.2,108,8994
+P0735,Mehsana - outskirts,Mehsana,Gujarat,23.599092,72.382754,871,2,3,1,1,Semi-Furnished,Independent House,13,2,1,1.36,6.29,5.48,18.0,55.9,63,5093
+P0736,Diu - central,Diu,Gujarat,20.702847,70.982132,565,2,3,2,4,Unfurnished,Apartment,43,1,1,10.94,0.71,1.92,31.71,35.9,106,4431
+P0737,Jamnagar - central,Jamnagar,Gujarat,22.480379,70.049673,1021,3,4,2,8,Semi-Furnished,Apartment,73,1,2,6.84,1.96,1.66,14.43,51.7,122,6441
+P0738,Morbi - outskirts,Morbi,Gujarat,22.797186,70.823271,817,2,2,2,6,Semi-Furnished,Apartment,86,1,1,9.48,0.23,6.32,27.27,74.6,85,3895
+P0739,Surat - central,Surat,Gujarat,21.183291,72.812361,1186,2,3,1,1,Unfurnished,Independent House,33,2,7,7.8,4.43,4.84,22.01,41.5,99,17564
+P0740,Anand - central,Anand,Gujarat,22.578114,72.930599,929,2,2,6,7,Furnished,Apartment,71,1,4,5.01,1.35,2.58,19.69,50.0,80,7413
+P0741,Surat - central,Surat,Gujarat,21.15783,72.858653,929,2,3,3,9,Semi-Furnished,Apartment,88,2,6,0.7,3.29,2.44,16.89,33.4,115,13502
+P0742,Palanpur - central,Palanpur,Gujarat,24.190825,72.422426,1235,3,4,1,1,Semi-Furnished,Independent House,95,2,1,0.47,1.88,1.27,13.45,49.6,78,5541
+P0743,Nadiad - central,Nadiad,Gujarat,22.675513,72.840085,423,2,2,2,3,Furnished,Apartment,47,1,1,4.39,6.65,2.73,16.03,49.4,79,2532
+P0744,Ahmedabad - central,Ahmedabad,Gujarat,23.049873,72.596488,504,1,1,2,6,Semi-Furnished,Apartment,41,1,6,4.98,2.65,2.41,22.06,49.8,48,7414
+P0745,Gandhinagar - central,Gandhinagar,Gujarat,23.205675,72.631801,918,3,3,1,1,Unfurnished,Villa,59,1,1,0.3,7.3,2.25,0.66,53.9,67,9462
+P0746,Junagadh - outskirts,Junagadh,Gujarat,21.513248,70.481053,835,3,3,5,10,Unfurnished,Apartment,85,2,2,10.91,7.34,8.85,28.8,39.8,122,5493
+P0747,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.028618,72.550273,1190,3,3,4,6,Semi-Furnished,Apartment,64,0,4,1.84,7.98,2.11,20.37,43.8,94,16177
+P0748,Surat - central,Surat,Gujarat,21.187644,72.803882,816,3,4,2,7,Semi-Furnished,Apartment,49,2,7,7.64,6.25,3.51,12.31,33.0,99,12441
+P0749,Mehsana - central,Mehsana,Gujarat,23.567161,72.396019,1380,2,3,1,1,Unfurnished,Independent House,19,1,3,4.89,4.9,8.22,31.7,40.5,128,9588
+P0750,Surat - outskirts,Surat,Gujarat,21.190083,72.818524,933,3,3,1,1,Semi-Furnished,Independent House,21,1,5,10.2,3.45,5.7,22.56,20.7,33,13467
+P0751,Kheda - central,Kheda,Gujarat,22.745234,72.699966,730,3,4,4,6,Unfurnished,Apartment,81,1,2,5.01,1.77,6.52,26.51,56.8,115,3390
+P0752,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.029969,72.589884,250,1,1,3,12,Unfurnished,Apartment,22,1,7,9.73,3.28,6.06,14.32,49.8,70,3853
+P0753,Vapi - outskirts,Vapi,Gujarat,20.407838,72.92541,1177,3,3,5,5,Unfurnished,Apartment,91,1,1,1.93,4.57,3.09,32.03,61.9,82,8415
+P0754,Ankleshwar - outskirts,Ankleshwar,Gujarat,21.600062,73.034596,1494,2,2,7,9,Semi-Furnished,Apartment,173,0,3,7.54,0.28,5.67,10.43,46.5,85,10165
+P0755,Gandhinagar - central,Gandhinagar,Gujarat,23.210048,72.646715,1009,2,2,6,12,Unfurnished,Apartment,110,1,5,6.82,0.24,8.22,7.12,58.2,98,12798
+P0756,Veraval - outskirts,Veraval,Gujarat,20.874368,70.379753,509,1,1,1,1,Furnished,Independent House,26,1,1,5.32,2.2,7.88,18.39,46.1,124,2312
+P0757,Ahmedabad - central,Ahmedabad,Gujarat,23.023042,72.578962,366,1,1,6,11,Semi-Furnished,Apartment,43,1,8,2.47,2.21,5.51,6.02,42.5,59,6050
+P0758,Ahmedabad - central,Ahmedabad,Gujarat,23.029213,72.590814,1341,2,2,7,11,Unfurnished,Apartment,148,2,7,1.58,7.84,3.99,5.05,45.7,88,20969
+P0759,Morbi - central,Morbi,Gujarat,22.823719,70.822418,1265,2,2,6,7,Unfurnished,Apartment,133,1,1,9.33,6.92,5.31,35.51,67.1,95,6208
+P0760,Rajkot - outskirts,Rajkot,Gujarat,22.326247,70.815699,792,3,3,1,5,Unfurnished,Apartment,51,1,7,10.38,5.4,6.04,8.61,41.9,88,9203
+P0761,Surendranagar - outskirts,Surendranagar,Gujarat,22.738995,71.627875,1903,4,4,1,7,Semi-Furnished,Apartment,137,1,1,2.5,1.7,2.47,37.8,61.8,100,8166
+P0762,Vadodara - outskirts,Vadodara,Gujarat,22.335786,73.173759,1289,2,2,1,5,Furnished,Apartment,46,1,5,5.18,6.62,9.8,7.94,33.7,98,15277
+P0763,Surat - central,Surat,Gujarat,21.155208,72.807197,1289,3,3,5,5,Semi-Furnished,Apartment,43,1,5,11.68,0.85,2.9,24.87,42.1,99,17318
+P0764,Bhavnagar - central,Bhavnagar,Gujarat,21.790335,72.147092,1180,3,4,1,5,Furnished,Apartment,42,0,3,6.0,6.58,5.46,11.38,45.1,86,8068
+P0765,Junagadh - central,Junagadh,Gujarat,21.550086,70.429275,1236,4,4,4,9,Unfurnished,Apartment,91,2,1,2.29,5.48,3.32,6.02,52.7,142,7312
+P0766,Bhuj - central,Bhuj,Gujarat,23.218361,69.687341,818,2,2,1,1,Semi-Furnished,Independent House,61,1,1,9.4,1.26,7.97,17.78,66.0,107,4031
+P0767,Surat - outskirts,Surat,Gujarat,21.148525,72.835172,789,3,4,2,3,Semi-Furnished,Apartment,51,1,7,6.92,5.89,5.32,19.25,54.5,145,11158
+P0768,Kheda - outskirts,Kheda,Gujarat,22.766778,72.698239,1390,4,4,9,9,Semi-Furnished,Apartment,103,0,1,2.07,7.15,0.57,16.58,66.8,114,5854
+P0769,Jamnagar - outskirts,Jamnagar,Gujarat,22.442848,70.06699,399,1,1,6,12,Unfurnished,Apartment,32,1,1,1.19,2.84,6.34,22.76,66.7,91,2241
+P0770,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.025019,72.592821,946,3,3,1,5,Unfurnished,Apartment,61,1,9,7.45,5.78,6.7,11.54,31.0,61,16971
+P0771,Junagadh - central,Junagadh,Gujarat,21.50866,70.429694,250,1,1,4,6,Unfurnished,Apartment,5,1,2,6.39,3.25,2.03,26.88,50.8,109,2000
+P0772,Vapi - central,Vapi,Gujarat,20.383944,72.882421,1291,4,4,1,3,Unfurnished,Apartment,47,1,1,9.01,6.83,2.83,11.39,41.0,99,9949
+P0773,Surendranagar - outskirts,Surendranagar,Gujarat,22.711744,71.658668,1018,2,2,1,1,Unfurnished,Independent House,66,1,2,11.3,4.41,9.03,25.04,61.6,122,4645
+P0774,Bharuch - central,Bharuch,Gujarat,21.726727,73.022275,946,3,3,1,1,Semi-Furnished,Independent House,73,2,1,2.82,5.59,3.56,26.28,50.2,93,6353
+P0775,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.030188,72.548599,837,3,3,1,1,Unfurnished,Villa,41,0,7,3.98,3.95,6.87,20.62,41.1,96,13300
+P0776,Anand - central,Anand,Gujarat,22.554206,72.918566,250,1,1,1,3,Semi-Furnished,Apartment,22,1,1,0.64,6.72,2.26,15.77,47.0,128,2000
+P0777,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.999046,72.598423,344,1,1,1,1,Semi-Furnished,Independent House,9,2,9,0.74,7.68,2.8,21.17,35.3,46,6083
+P0778,Bhuj - central,Bhuj,Gujarat,23.266711,69.69301,631,1,1,1,11,Unfurnished,Apartment,65,1,2,4.46,1.96,5.24,24.52,54.6,81,3447
+P0779,Junagadh - outskirts,Junagadh,Gujarat,21.536473,70.453218,967,3,4,8,9,Semi-Furnished,Apartment,46,1,1,8.53,4.13,9.83,36.26,47.9,135,5820
+P0780,Vadodara - outskirts,Vadodara,Gujarat,22.290974,73.19004,1079,3,3,2,12,Unfurnished,Apartment,109,1,1,1.81,6.82,8.85,1.07,49.1,69,9699
+P0781,Surat - outskirts,Surat,Gujarat,21.191267,72.832588,1456,2,3,1,1,Furnished,Independent House,15,1,9,2.61,5.1,5.64,4.55,48.4,95,22961
+P0782,Rajkot - central,Rajkot,Gujarat,22.283963,70.79433,1364,3,4,4,6,Semi-Furnished,Apartment,114,2,4,7.79,1.28,0.26,9.16,29.7,88,14268
+P0783,Surat - outskirts,Surat,Gujarat,21.162829,72.801587,250,1,1,1,1,Unfurnished,Independent House,5,0,6,2.56,1.23,8.44,0.18,40.0,93,3552
+P0784,Ahmedabad - central,Ahmedabad,Gujarat,23.02153,72.564135,881,3,3,7,10,Semi-Furnished,Apartment,25,1,8,10.82,3.89,3.34,18.67,30.8,106,15157
+P0785,Valsad - outskirts,Valsad,Gujarat,20.612632,72.917636,646,2,2,6,6,Furnished,Apartment,16,1,3,11.53,5.2,1.92,21.0,54.4,130,4807
+P0786,Junagadh - central,Junagadh,Gujarat,21.525688,70.436532,1197,2,2,10,12,Unfurnished,Apartment,49,1,5,1.39,3.47,3.4,34.89,58.1,110,8679
+P0787,Vapi - central,Vapi,Gujarat,20.380257,72.925926,250,1,1,5,8,Semi-Furnished,Apartment,8,1,4,8.98,4.0,1.78,18.76,52.0,108,2201
+P0788,Junagadh - outskirts,Junagadh,Gujarat,21.505354,70.470375,265,1,1,8,12,Furnished,Apartment,20,1,2,4.11,5.37,6.04,31.59,64.0,79,2000
+P0789,Morbi - central,Morbi,Gujarat,22.842484,70.87249,1820,4,4,2,4,Unfurnished,Apartment,108,2,1,6.67,1.47,8.86,14.29,40.6,95,9832
+P0790,Jamnagar - central,Jamnagar,Gujarat,22.443126,70.02874,563,1,1,1,1,Unfurnished,Independent House,31,1,2,6.51,7.4,8.03,37.29,55.1,56,3508
+P0791,Veraval - central,Veraval,Gujarat,20.909841,70.335549,773,3,3,2,5,Unfurnished,Apartment,59,1,1,9.39,5.18,1.84,37.44,69.0,92,3228
+P0792,Surat - central,Surat,Gujarat,21.152635,72.808185,1222,2,2,3,3,Semi-Furnished,Apartment,81,1,5,1.3,7.74,1.62,1.21,44.8,94,16264
+P0793,Mehsana - outskirts,Mehsana,Gujarat,23.608397,72.395544,465,1,1,1,4,Furnished,Apartment,28,1,2,1.63,5.8,4.58,30.3,40.0,55,3057
+P0794,Surat - outskirts,Surat,Gujarat,21.18759,72.842083,886,2,2,1,11,Unfurnished,Apartment,58,2,6,9.36,0.92,7.69,7.05,48.1,95,12238
+P0795,Gandhinagar - central,Gandhinagar,Gujarat,23.224909,72.655222,872,3,4,4,7,Furnished,Apartment,90,1,3,4.53,7.74,7.27,20.99,64.1,114,9738
+P0796,Surat - outskirts,Surat,Gujarat,21.190981,72.816661,727,3,4,1,1,Furnished,Independent House,30,1,6,11.23,4.44,5.49,9.68,41.9,69,10263
+P0797,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.01724,72.549199,1022,3,4,3,8,Semi-Furnished,Apartment,77,1,8,7.51,3.6,7.27,2.13,28.0,94,17747
+P0798,Valsad - central,Valsad,Gujarat,20.593932,72.934383,1079,3,3,1,1,Unfurnished,Independent House,62,1,1,8.58,2.36,2.65,9.36,35.7,67,7621
+P0799,Bharuch - outskirts,Bharuch,Gujarat,21.678664,72.973011,326,1,1,6,8,Semi-Furnished,Apartment,34,1,4,10.13,1.18,8.14,21.16,55.0,104,2555
+P0800,Bhuj - central,Bhuj,Gujarat,23.215129,69.680088,1092,3,3,5,9,Unfurnished,Apartment,31,1,3,6.62,4.18,8.16,28.46,48.1,111,6465
+P0801,Veraval - outskirts,Veraval,Gujarat,20.876852,70.341793,643,1,1,2,3,Unfurnished,Apartment,34,2,1,3.6,7.76,9.55,22.22,56.7,131,2812
+P0802,Ahmedabad - central,Ahmedabad,Gujarat,23.041092,72.597724,438,2,2,1,1,Semi-Furnished,Independent House,19,1,9,4.14,8.0,8.08,19.43,35.4,70,7742
+P0803,Bharuch - outskirts,Bharuch,Gujarat,21.720406,73.013606,1229,2,2,4,11,Unfurnished,Apartment,110,1,1,11.76,3.28,4.37,15.87,45.5,133,8392
+P0804,Ahmedabad - central,Ahmedabad,Gujarat,23.011403,72.581463,796,3,2,1,1,Semi-Furnished,Independent House,21,1,6,9.88,4.55,7.06,17.69,35.7,49,12299
+P0805,Nadiad - central,Nadiad,Gujarat,22.685133,72.864993,1044,2,3,8,12,Unfurnished,Apartment,62,2,2,7.74,5.22,2.15,25.66,44.7,61,6751
+P0806,Vadodara - central,Vadodara,Gujarat,22.294546,73.185308,764,2,2,1,1,Semi-Furnished,Villa,38,2,5,9.19,3.55,2.27,17.22,32.7,88,9085
+P0807,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.030349,72.581026,952,3,3,1,5,Furnished,Apartment,23,2,6,10.16,0.93,4.23,21.03,32.2,48,14884
+P0808,Surat - outskirts,Surat,Gujarat,21.170419,72.836359,1310,2,2,10,12,Semi-Furnished,Apartment,92,1,5,10.83,7.19,1.02,11.11,60.3,89,16488
+P0809,Vadodara - outskirts,Vadodara,Gujarat,22.303621,73.181611,1627,2,3,1,1,Unfurnished,Independent House,50,1,5,5.53,7.05,3.69,12.83,57.7,77,17721
+P0810,Rajkot - central,Rajkot,Gujarat,22.304554,70.802181,1241,3,3,8,8,Unfurnished,Apartment,127,1,7,6.85,2.47,4.15,19.12,34.5,41,14791
+P0811,Morbi - central,Morbi,Gujarat,22.807377,70.822041,1202,4,4,8,9,Unfurnished,Apartment,30,0,3,4.38,5.74,2.73,32.67,56.1,81,6914
+P0812,Palanpur - outskirts,Palanpur,Gujarat,24.177589,72.428924,1044,2,2,4,4,Semi-Furnished,Apartment,110,1,2,2.34,5.16,8.87,37.42,51.1,87,4950
+P0813,Surat - central,Surat,Gujarat,21.140221,72.85916,830,3,3,1,10,Furnished,Apartment,44,1,6,11.21,4.68,2.58,15.76,39.5,114,11815
+P0814,Kheda - outskirts,Kheda,Gujarat,22.740994,72.671367,859,2,2,1,1,Furnished,Independent House,24,2,2,9.08,3.62,5.84,19.87,50.9,100,4076
+P0815,Surendranagar - central,Surendranagar,Gujarat,22.711018,71.672701,926,3,4,1,1,Unfurnished,Villa,19,1,1,5.01,1.94,4.86,19.27,59.9,107,4002
+P0816,Vadodara - central,Vadodara,Gujarat,22.301324,73.154991,335,1,1,7,7,Semi-Furnished,Apartment,11,1,6,3.95,0.35,2.09,7.23,58.7,97,3817
+P0817,Navsari - central,Navsari,Gujarat,20.932952,72.953818,1463,4,4,10,11,Unfurnished,Apartment,121,2,1,8.81,6.94,4.72,24.29,55.3,109,9645
+P0818,Diu - outskirts,Diu,Gujarat,20.70687,70.972741,1198,3,4,1,1,Semi-Furnished,Independent House,63,2,1,3.14,7.8,4.08,26.65,32.0,128,9520
+P0819,Vapi - central,Vapi,Gujarat,20.381376,72.878223,732,3,4,2,4,Unfurnished,Apartment,64,0,2,8.31,3.87,3.74,29.39,40.7,130,6000
+P0820,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.993986,72.580764,1599,4,4,4,9,Semi-Furnished,Apartment,71,1,8,1.38,4.68,3.41,14.99,39.1,82,26746
+P0821,Junagadh - outskirts,Junagadh,Gujarat,21.541711,70.483784,578,2,2,7,9,Unfurnished,Apartment,27,2,6,7.44,3.51,4.22,16.44,45.0,106,4612
+P0822,Vadodara - outskirts,Vadodara,Gujarat,22.329753,73.198197,468,1,1,1,1,Semi-Furnished,Independent House,15,1,4,9.7,0.33,1.48,21.43,33.8,124,5268
+P0823,Valsad - central,Valsad,Gujarat,20.595291,72.957481,358,0,1,6,12,Furnished,Apartment,9,1,3,2.09,1.58,1.91,15.29,69.4,93,2519
+P0824,Mehsana - central,Mehsana,Gujarat,23.60843,72.398366,347,1,1,3,5,Unfurnished,Apartment,10,2,3,6.14,7.66,5.43,23.1,49.3,109,2338
+P0825,Ahmedabad - central,Ahmedabad,Gujarat,23.043665,72.579716,500,2,3,2,4,Semi-Furnished,Apartment,54,2,7,10.79,7.45,2.88,3.37,36.5,36,8071
+P0826,Rajkot - central,Rajkot,Gujarat,22.289784,70.803043,1083,2,2,6,10,Furnished,Apartment,59,1,5,9.08,0.48,5.63,24.34,39.7,73,11528
+P0827,Vadodara - central,Vadodara,Gujarat,22.285597,73.162813,275,1,1,1,7,Furnished,Apartment,31,1,3,3.57,3.79,7.45,21.75,48.3,83,2789
+P0828,Bharuch - outskirts,Bharuch,Gujarat,21.708405,72.98867,790,3,4,4,4,Semi-Furnished,Apartment,76,1,3,3.66,5.17,7.47,22.12,71.7,113,5510
+P0829,Surat - central,Surat,Gujarat,21.183351,72.831282,274,1,1,1,1,Unfurnished,Independent House,10,1,7,4.08,5.12,0.53,15.22,43.4,65,4031
+P0830,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.01322,72.551735,999,3,2,1,1,Unfurnished,Independent House,65,1,10,8.64,3.23,4.85,7.17,55.9,52,17114
+P0831,Surat - outskirts,Surat,Gujarat,21.15943,72.839719,1199,3,2,6,11,Unfurnished,Apartment,80,1,6,9.45,0.95,6.49,16.27,55.1,61,16151
+P0832,Ahmedabad - central,Ahmedabad,Gujarat,23.01137,72.576127,1364,3,4,1,1,Unfurnished,Independent House,67,1,7,6.27,1.32,8.89,17.26,69.3,109,19558
+P0833,Ahmedabad - central,Ahmedabad,Gujarat,23.001557,72.548164,833,2,2,4,4,Unfurnished,Apartment,31,1,9,6.77,1.89,4.61,13.04,41.3,124,14429
+P0834,Gandhinagar - central,Gandhinagar,Gujarat,23.185727,72.610682,1782,2,3,5,5,Unfurnished,Apartment,200,1,3,2.7,1.25,0.64,2.92,51.5,112,20844
+P0835,Jamnagar - central,Jamnagar,Gujarat,22.454814,70.060882,811,2,2,11,11,Semi-Furnished,Apartment,47,0,2,1.19,2.43,3.85,32.89,45.1,155,5237
+P0836,Bharuch - outskirts,Bharuch,Gujarat,21.702523,73.010996,793,2,3,11,11,Furnished,Apartment,40,2,1,3.93,5.44,1.16,5.13,48.6,23,5356
+P0837,Bharuch - central,Bharuch,Gujarat,21.698679,72.988158,1032,3,4,2,10,Semi-Furnished,Apartment,113,0,1,5.31,7.19,4.02,14.4,71.4,128,6405
+P0838,Valsad - outskirts,Valsad,Gujarat,20.581279,72.929781,659,1,1,9,10,Semi-Furnished,Apartment,39,2,1,3.37,4.99,0.61,26.53,43.4,127,4533
+P0839,Surat - central,Surat,Gujarat,21.162045,72.82336,436,2,2,3,3,Furnished,Apartment,27,2,8,6.88,3.83,9.95,16.51,27.8,86,7071
+P0840,Gandhinagar - central,Gandhinagar,Gujarat,23.196806,72.607782,746,3,4,4,12,Furnished,Apartment,85,2,3,9.22,2.93,8.52,15.78,32.3,75,9328
+P0841,Veraval - central,Veraval,Gujarat,20.881093,70.334478,1858,4,4,4,4,Semi-Furnished,Apartment,132,1,1,5.94,2.4,1.08,31.18,43.7,108,8511
+P0842,Jamnagar - outskirts,Jamnagar,Gujarat,22.48396,70.049686,762,2,2,4,5,Semi-Furnished,Apartment,27,1,1,6.24,0.69,0.72,29.75,71.2,99,4207
+P0843,Bharuch - central,Bharuch,Gujarat,21.699058,73.02142,329,1,1,9,9,Furnished,Apartment,34,2,1,4.53,6.66,7.16,5.63,51.6,94,2198
+P0844,Palanpur - central,Palanpur,Gujarat,24.172003,72.415555,1322,2,3,3,10,Semi-Furnished,Apartment,148,2,1,10.65,2.31,0.77,21.99,40.7,61,6119
+P0845,Surat - central,Surat,Gujarat,21.174662,72.859583,1974,2,2,1,1,Unfurnished,Independent House,129,1,9,0.9,2.88,5.71,17.45,45.7,79,31428
+P0846,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.226429,72.607176,1045,2,2,3,3,Semi-Furnished,Apartment,119,1,2,9.89,1.18,0.63,11.56,53.9,66,11445
+P0847,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.791893,72.167859,1180,3,3,2,7,Unfurnished,Apartment,40,1,1,7.2,4.63,8.68,19.42,55.7,115,6905
+P0848,Rajkot - outskirts,Rajkot,Gujarat,22.313739,70.796397,1586,4,4,1,1,Furnished,Villa,50,1,4,9.29,6.21,0.55,8.31,55.8,127,15148
+P0849,Mehsana - central,Mehsana,Gujarat,23.622184,72.399387,1116,3,3,3,6,Unfurnished,Apartment,39,1,1,3.42,4.41,0.58,20.02,56.4,133,6514
+P0850,Vapi - outskirts,Vapi,Gujarat,20.365104,72.931655,396,1,1,4,7,Unfurnished,Apartment,29,1,1,9.83,7.42,7.11,18.77,43.4,111,3026
+P0851,Surat - central,Surat,Gujarat,21.170651,72.824374,892,2,2,2,8,Furnished,Apartment,73,1,6,11.88,0.9,2.49,23.78,52.6,82,12125
+P0852,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.190589,72.617528,1353,4,4,3,3,Unfurnished,Apartment,49,0,5,8.66,3.03,2.49,20.44,63.1,81,16852
+P0853,Ahmedabad - central,Ahmedabad,Gujarat,23.044269,72.59723,1183,3,4,1,1,Semi-Furnished,Independent House,91,0,8,10.35,6.1,7.06,1.27,36.2,100,19985
+P0854,Palanpur - central,Palanpur,Gujarat,24.143971,72.427132,1080,3,3,1,1,Semi-Furnished,Independent House,43,0,1,10.05,0.89,4.54,11.69,62.8,131,4617
+P0855,Navsari - outskirts,Navsari,Gujarat,20.969397,72.948504,352,1,1,5,9,Unfurnished,Apartment,28,1,1,0.34,5.55,5.87,5.11,38.4,152,2463
+P0856,Jamnagar - outskirts,Jamnagar,Gujarat,22.474725,70.03649,909,3,4,1,1,Unfurnished,Independent House,72,1,2,10.72,7.68,3.72,31.6,50.9,125,5751
+P0857,Vadodara - central,Vadodara,Gujarat,22.336967,73.181257,1859,4,4,2,3,Semi-Furnished,Apartment,212,1,6,1.07,3.16,4.5,6.57,49.8,39,21877
+P0858,Mehsana - central,Mehsana,Gujarat,23.600773,72.389307,1115,2,2,12,12,Unfurnished,Apartment,64,1,1,5.99,3.08,8.51,10.5,48.7,119,6691
+P0859,Ahmedabad - central,Ahmedabad,Gujarat,23.036734,72.543317,676,2,2,5,11,Furnished,Apartment,17,2,8,8.49,1.28,7.93,7.69,42.3,72,11183
+P0860,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.048151,72.558295,370,1,1,1,1,Semi-Furnished,Independent House,27,1,8,1.99,7.23,1.07,9.81,41.0,93,6148
+P0861,Mehsana - outskirts,Mehsana,Gujarat,23.577216,72.379862,1291,4,4,1,1,Semi-Furnished,Villa,90,1,1,7.2,4.79,4.35,10.86,75.7,121,7004
+P0862,Vapi - outskirts,Vapi,Gujarat,20.360667,72.885343,1065,3,3,4,7,Unfurnished,Apartment,116,1,1,10.91,1.0,8.05,34.46,54.5,145,7824
+P0863,Mehsana - central,Mehsana,Gujarat,23.594932,72.359539,570,1,1,1,1,Semi-Furnished,Independent House,10,1,1,0.25,2.99,1.13,8.72,60.2,121,3281
+P0864,Junagadh - outskirts,Junagadh,Gujarat,21.505457,70.460749,1279,3,4,4,4,Semi-Furnished,Apartment,31,0,1,11.91,2.78,2.52,23.72,55.4,69,7493
+P0865,Rajkot - outskirts,Rajkot,Gujarat,22.311416,70.822521,372,1,1,7,7,Furnished,Apartment,11,1,4,9.1,1.38,0.73,13.78,36.7,71,3801
+P0866,Surat - outskirts,Surat,Gujarat,21.182266,72.841488,1070,3,3,1,1,Unfurnished,Villa,65,2,7,9.02,0.62,9.74,23.91,27.6,64,16610
+P0867,Navsari - outskirts,Navsari,Gujarat,20.970611,72.968358,1294,2,2,1,1,Furnished,Independent House,90,1,3,4.44,7.45,7.02,8.61,47.4,115,9873
+P0868,Jamnagar - central,Jamnagar,Gujarat,22.481727,70.066806,1209,3,3,2,3,Unfurnished,Apartment,96,1,1,5.62,3.24,5.93,26.39,53.3,143,7137
+P0869,Diu - central,Diu,Gujarat,20.688013,70.977226,599,1,1,1,12,Unfurnished,Apartment,21,1,1,1.61,6.3,2.78,34.48,52.6,60,4431
+P0870,Surat - central,Surat,Gujarat,21.16384,72.810278,985,2,2,2,3,Semi-Furnished,Apartment,106,1,5,11.64,3.21,9.55,21.93,48.6,87,12935
+P0871,Junagadh - outskirts,Junagadh,Gujarat,21.510638,70.464171,808,3,4,1,1,Semi-Furnished,Independent House,10,1,3,2.52,2.52,7.75,30.1,42.1,91,5583
+P0872,Surat - central,Surat,Gujarat,21.171081,72.831894,1124,3,4,2,7,Semi-Furnished,Apartment,110,2,5,8.92,7.53,5.64,8.01,39.4,72,15243
+P0873,Vapi - central,Vapi,Gujarat,20.374665,72.882039,807,2,2,1,1,Furnished,Independent House,21,2,1,1.2,4.85,6.89,14.23,54.8,125,5922
+P0874,Kheda - outskirts,Kheda,Gujarat,22.74734,72.680932,1922,2,3,4,8,Furnished,Apartment,88,2,1,9.75,2.0,0.97,34.21,60.6,81,8285
+P0875,Nadiad - central,Nadiad,Gujarat,22.688395,72.865459,268,1,1,8,8,Semi-Furnished,Apartment,24,2,2,8.72,7.55,9.18,16.74,60.2,166,2000
+P0876,Diu - central,Diu,Gujarat,20.714483,71.002886,411,2,3,3,6,Furnished,Apartment,15,1,2,8.43,0.16,3.45,34.36,36.0,66,3424
+P0877,Surat - central,Surat,Gujarat,21.151096,72.808452,1339,3,3,3,10,Furnished,Apartment,150,0,8,10.47,2.28,2.55,19.42,37.2,76,21041
+P0878,Morbi - central,Morbi,Gujarat,22.79966,70.877063,744,2,2,1,1,Unfurnished,Independent House,49,1,1,3.85,5.78,0.75,24.83,56.7,149,3796
+P0879,Mehsana - central,Mehsana,Gujarat,23.620968,72.356362,304,1,1,1,1,Unfurnished,Independent House,6,1,1,6.68,0.83,9.34,14.83,57.3,123,2000
+P0880,Vapi - central,Vapi,Gujarat,20.369155,72.928296,1493,3,3,1,10,Furnished,Apartment,58,2,1,11.22,5.45,6.98,19.38,43.1,138,11422
+P0881,Bhavnagar - central,Bhavnagar,Gujarat,21.773445,72.161397,352,1,1,1,7,Unfurnished,Apartment,8,1,3,9.82,6.53,9.34,7.2,59.1,90,2289
+P0882,Ahmedabad - central,Ahmedabad,Gujarat,23.01638,72.589767,1355,2,2,3,5,Semi-Furnished,Apartment,141,1,9,7.33,1.89,5.82,19.79,40.8,62,23512
+P0883,Mehsana - central,Mehsana,Gujarat,23.585212,72.376522,954,2,2,3,8,Semi-Furnished,Apartment,56,1,2,7.81,4.65,6.39,21.96,52.1,117,6009
+P0884,Surendranagar - outskirts,Surendranagar,Gujarat,22.743012,71.63113,541,1,1,4,10,Unfurnished,Apartment,21,1,1,0.22,2.97,4.84,29.27,68.4,77,2264
+P0885,Surat - central,Surat,Gujarat,21.147681,72.824886,250,1,1,1,10,Semi-Furnished,Apartment,14,2,6,9.22,6.47,8.33,5.0,43.1,84,3515
+P0886,Vadodara - outskirts,Vadodara,Gujarat,22.292959,73.159909,1126,2,2,1,1,Semi-Furnished,Villa,73,2,2,9.19,4.32,2.73,10.06,49.3,117,10746
+P0887,Veraval - outskirts,Veraval,Gujarat,20.9099,70.37112,2030,3,4,1,1,Semi-Furnished,Independent House,110,1,1,11.97,2.83,9.91,35.03,39.0,90,9452
+P0888,Valsad - central,Valsad,Gujarat,20.620905,72.911484,1293,3,3,1,1,Unfurnished,Independent House,43,1,1,4.8,6.68,6.43,30.27,56.9,89,8475
+P0889,Ahmedabad - central,Ahmedabad,Gujarat,23.039573,72.581238,985,2,2,5,6,Unfurnished,Apartment,95,1,6,0.36,5.31,2.35,9.63,37.2,84,15141
+P0890,Surat - outskirts,Surat,Gujarat,21.14485,72.847086,523,1,1,1,10,Semi-Furnished,Apartment,23,0,7,2.26,5.05,0.86,2.16,49.3,80,7536
+P0891,Anand - central,Anand,Gujarat,22.535495,72.936265,829,2,2,5,6,Semi-Furnished,Apartment,61,1,3,5.83,0.1,1.54,13.88,46.6,109,6343
+P0892,Anand - central,Anand,Gujarat,22.564033,72.927932,877,3,3,6,6,Semi-Furnished,Apartment,100,1,1,7.84,3.31,5.75,23.31,53.3,118,5824
+P0893,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.028657,72.579198,927,3,4,8,8,Unfurnished,Apartment,57,1,6,2.65,5.08,5.8,22.9,37.6,64,14230
+P0894,Rajkot - central,Rajkot,Gujarat,22.301266,70.8275,1370,4,4,2,5,Furnished,Apartment,33,1,5,10.14,6.22,4.97,9.45,58.9,90,13618
+P0895,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.760098,72.181336,1318,4,4,11,11,Unfurnished,Apartment,91,1,2,5.51,2.55,9.42,19.69,56.8,151,8162
+P0896,Surat - central,Surat,Gujarat,21.181957,72.814464,1196,3,4,3,3,Unfurnished,Apartment,140,1,6,11.56,3.59,1.28,15.87,38.3,72,17095
+P0897,Surat - outskirts,Surat,Gujarat,21.160324,72.824708,369,1,1,4,5,Semi-Furnished,Apartment,14,2,5,10.27,4.95,9.18,15.52,29.4,71,5176
+P0898,Bharuch - central,Bharuch,Gujarat,21.689775,73.002348,591,2,3,1,1,Unfurnished,Independent House,17,1,2,9.47,6.35,3.19,9.25,39.7,89,4375
+P0899,Surendranagar - outskirts,Surendranagar,Gujarat,22.732426,71.646222,872,3,3,1,1,Unfurnished,Independent House,24,1,3,7.96,4.53,1.63,6.67,48.6,130,4417
+P0900,Bharuch - outskirts,Bharuch,Gujarat,21.717685,72.990668,659,2,2,3,3,Semi-Furnished,Apartment,17,2,1,9.19,3.88,3.15,34.81,47.3,120,4471
+P0901,Vadodara - outskirts,Vadodara,Gujarat,22.285382,73.158088,1368,2,2,5,7,Semi-Furnished,Apartment,69,1,6,7.41,4.58,8.27,3.54,45.3,68,16358
+P0902,Nadiad - central,Nadiad,Gujarat,22.68383,72.849501,1403,4,4,6,8,Unfurnished,Apartment,145,1,1,5.28,6.47,9.24,26.33,59.3,97,8102
+P0903,Surat - central,Surat,Gujarat,21.164595,72.840461,771,2,3,1,3,Semi-Furnished,Apartment,29,1,7,8.11,1.17,8.61,4.87,35.4,87,11660
+P0904,Ahmedabad - central,Ahmedabad,Gujarat,23.009335,72.586596,398,1,1,1,1,Semi-Furnished,Independent House,26,1,8,9.54,7.91,6.58,17.77,50.4,60,6399
+P0905,Kheda - central,Kheda,Gujarat,22.756545,72.715159,958,3,3,5,10,Furnished,Apartment,22,1,1,2.03,4.34,7.96,17.83,59.2,111,4151
+P0906,Rajkot - central,Rajkot,Gujarat,22.285736,70.796697,556,1,1,5,5,Unfurnished,Apartment,11,0,5,4.1,4.63,1.26,5.11,48.1,92,5747
+P0907,Rajkot - outskirts,Rajkot,Gujarat,22.286537,70.776895,1516,3,3,1,1,Semi-Furnished,Independent House,60,1,6,4.3,6.53,2.64,18.71,52.6,123,16191
+P0908,Palanpur - outskirts,Palanpur,Gujarat,24.196036,72.406883,851,3,4,1,3,Semi-Furnished,Apartment,95,1,1,6.57,3.72,9.48,32.98,60.0,65,3676
+P0909,Rajkot - central,Rajkot,Gujarat,22.289527,70.778552,1269,3,2,7,10,Unfurnished,Apartment,58,1,6,9.36,0.9,9.19,16.05,42.8,71,14032
+P0910,Bhuj - outskirts,Bhuj,Gujarat,23.270647,69.683816,1491,2,2,5,6,Unfurnished,Apartment,95,1,1,1.95,4.1,9.33,11.3,52.3,113,7729
+P0911,Vadodara - central,Vadodara,Gujarat,22.308011,73.165342,282,1,1,4,6,Furnished,Apartment,10,2,4,9.57,0.89,1.03,24.48,54.1,110,2957
+P0912,Vadodara - outskirts,Vadodara,Gujarat,22.283414,73.209497,250,1,1,1,1,Unfurnished,Independent House,10,0,6,9.93,2.4,0.55,15.73,46.9,106,2973
+P0913,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.226348,72.648006,1052,2,2,4,5,Unfurnished,Apartment,99,1,4,2.35,0.27,8.6,3.74,53.7,108,12886
+P0914,Surat - outskirts,Surat,Gujarat,21.140905,72.828977,250,1,1,4,11,Furnished,Apartment,12,2,9,10.04,2.51,8.44,12.48,23.1,49,4297
+P0915,Gandhidham - central,Gandhidham,Gujarat,23.092065,70.125947,473,2,2,1,1,Semi-Furnished,Independent House,30,1,2,8.48,1.54,4.39,28.03,64.5,150,2491
+P0916,Surat - central,Surat,Gujarat,21.15735,72.80538,549,1,1,1,5,Semi-Furnished,Apartment,59,1,6,9.75,1.16,6.61,14.32,46.6,76,7624
+P0917,Bharuch - outskirts,Bharuch,Gujarat,21.700988,72.97046,932,2,2,7,12,Furnished,Apartment,41,2,1,7.82,1.46,6.3,15.38,52.6,88,6205
+P0918,Anand - outskirts,Anand,Gujarat,22.539622,72.94993,1486,3,3,2,4,Unfurnished,Apartment,142,0,2,3.42,4.32,8.54,29.65,62.2,142,10148
+P0919,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.02435,72.557129,977,3,3,1,1,Furnished,Independent House,35,1,6,5.12,4.05,4.13,22.34,50.5,100,14336
+P0920,Jamnagar - central,Jamnagar,Gujarat,22.478968,70.044606,1564,4,3,1,1,Furnished,Independent House,117,1,2,7.73,3.9,8.35,23.23,54.6,38,9763
+P0921,Vapi - outskirts,Vapi,Gujarat,20.392214,72.92175,931,3,4,1,5,Unfurnished,Apartment,85,1,1,1.09,1.55,3.2,7.24,49.1,137,6974
+P0922,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.031601,72.572221,1724,4,4,1,1,Furnished,Independent House,74,1,6,9.17,4.75,6.02,15.32,29.1,66,27234
+P0923,Surat - outskirts,Surat,Gujarat,21.188777,72.817309,1179,3,3,1,5,Furnished,Apartment,64,1,6,4.17,4.4,2.05,2.41,40.2,89,16742
+P0924,Vapi - outskirts,Vapi,Gujarat,20.373928,72.92463,876,3,3,3,9,Unfurnished,Apartment,66,1,1,4.9,5.61,1.81,21.01,45.1,111,6655
+P0925,Diu - central,Diu,Gujarat,20.730078,70.964622,1280,3,4,1,1,Furnished,Independent House,85,1,1,6.17,5.12,8.86,38.72,67.7,85,8953
+P0926,Rajkot - central,Rajkot,Gujarat,22.317599,70.775998,250,1,1,3,11,Furnished,Apartment,10,1,3,6.58,4.11,9.71,8.73,52.3,129,2291
+P0927,Bhavnagar - outskirts,Bhavnagar,Gujarat,21.765859,72.173278,985,2,2,1,1,Semi-Furnished,Independent House,16,0,1,9.12,5.81,8.29,10.85,35.0,57,6199
+P0928,Morbi - central,Morbi,Gujarat,22.829071,70.863313,1086,3,4,2,11,Semi-Furnished,Apartment,86,1,1,3.11,5.57,3.63,22.41,53.3,102,5609
+P0929,Mehsana - central,Mehsana,Gujarat,23.600988,72.38544,652,2,3,2,8,Furnished,Apartment,42,1,1,6.87,7.62,3.57,12.82,50.5,130,3888
+P0930,Navsari - outskirts,Navsari,Gujarat,20.95786,72.952682,419,2,2,7,12,Semi-Furnished,Apartment,49,1,1,6.97,3.23,0.41,5.13,54.2,76,2773
+P0931,Junagadh - outskirts,Junagadh,Gujarat,21.498909,70.450749,1093,3,3,9,12,Unfurnished,Apartment,34,1,1,5.61,7.56,3.56,18.95,34.7,78,6886
+P0932,Porbandar - central,Porbandar,Gujarat,21.615372,69.624592,866,2,2,1,9,Semi-Furnished,Apartment,32,2,2,2.14,1.2,4.7,18.88,50.1,139,4807
+P0933,Surat - central,Surat,Gujarat,21.190204,72.845711,891,2,2,1,1,Semi-Furnished,Independent House,20,1,8,5.89,5.37,5.5,5.92,32.1,67,14245
+P0934,Ahmedabad - central,Ahmedabad,Gujarat,22.993537,72.599494,1192,2,3,1,8,Furnished,Apartment,49,1,7,9.17,3.29,6.0,21.74,28.2,59,19786
+P0935,Vadodara - central,Vadodara,Gujarat,22.279074,73.189061,261,1,1,4,7,Semi-Furnished,Apartment,6,2,3,10.96,5.26,5.4,4.05,59.0,60,2546
+P0936,Surat - central,Surat,Gujarat,21.1966,72.82377,852,3,4,2,7,Unfurnished,Apartment,96,1,6,4.25,3.43,9.04,10.02,46.7,75,11827
+P0937,Bhuj - central,Bhuj,Gujarat,23.231738,69.690946,736,3,4,3,9,Furnished,Apartment,77,1,2,2.98,7.46,6.55,15.32,55.6,88,4006
+P0938,Vadodara - central,Vadodara,Gujarat,22.312956,73.151399,985,2,2,2,4,Semi-Furnished,Apartment,50,1,3,1.82,2.73,3.61,2.54,40.0,44,10283
+P0939,Surat - central,Surat,Gujarat,21.173541,72.843842,969,2,3,1,1,Furnished,Independent House,62,2,7,6.04,3.46,2.85,16.06,39.9,48,14430
+P0940,Vadodara - central,Vadodara,Gujarat,22.295711,73.156765,1149,2,2,2,8,Semi-Furnished,Apartment,135,1,6,1.19,0.63,3.49,1.31,47.9,85,13614
+P0941,Rajkot - central,Rajkot,Gujarat,22.289497,70.823044,250,1,1,9,10,Unfurnished,Apartment,26,2,5,10.16,1.04,5.89,17.56,57.0,88,2502
+P0942,Gandhinagar - central,Gandhinagar,Gujarat,23.217697,72.617405,955,2,2,4,6,Furnished,Apartment,94,1,5,7.8,7.36,9.81,10.68,60.0,104,12033
+P0943,Bharuch - central,Bharuch,Gujarat,21.72383,73.012955,1025,3,3,7,11,Furnished,Apartment,90,1,1,8.36,3.33,8.35,12.44,48.6,119,6922
+P0944,Ahmedabad - central,Ahmedabad,Gujarat,23.000693,72.577676,1145,3,3,8,9,Furnished,Apartment,77,2,6,7.19,3.24,9.33,24.67,42.9,125,17258
+P0945,Surat - central,Surat,Gujarat,21.150024,72.843356,984,3,2,1,12,Unfurnished,Apartment,30,1,5,5.86,4.66,5.41,5.85,55.8,66,12591
+P0946,Jamnagar - central,Jamnagar,Gujarat,22.49409,70.047416,250,1,1,9,11,Semi-Furnished,Apartment,23,1,2,8.75,4.7,4.49,24.64,63.8,68,2000
+P0947,Nadiad - central,Nadiad,Gujarat,22.700558,72.886038,250,1,1,1,5,Semi-Furnished,Apartment,19,1,1,10.79,6.78,8.42,33.7,48.2,133,2000
+P0948,Rajkot - central,Rajkot,Gujarat,22.332823,70.778489,1255,4,4,1,1,Semi-Furnished,Independent House,41,0,4,3.34,7.42,4.37,19.01,63.4,160,11655
+P0949,Surat - central,Surat,Gujarat,21.14156,72.848796,1381,3,4,1,1,Furnished,Independent House,21,2,7,6.0,4.36,2.9,22.91,23.0,58,21764
+P0950,Anand - outskirts,Anand,Gujarat,22.564876,72.943951,1189,2,3,1,12,Semi-Furnished,Apartment,41,2,1,7.11,1.85,7.94,8.13,56.1,84,7816
+P0951,Navsari - central,Navsari,Gujarat,20.955479,72.941709,895,3,3,3,3,Unfurnished,Apartment,28,1,1,0.32,7.67,5.42,34.85,60.5,101,5789
+P0952,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.013095,72.58323,1034,3,4,1,1,Unfurnished,Independent House,62,0,7,4.07,7.05,3.13,17.87,41.0,89,16435
+P0953,Bhuj - central,Bhuj,Gujarat,23.27156,69.642321,605,2,2,10,11,Semi-Furnished,Apartment,26,1,2,0.91,0.16,3.47,16.26,65.2,77,3177
+P0954,Gandhinagar - central,Gandhinagar,Gujarat,23.193641,72.637383,814,3,4,1,1,Furnished,Independent House,35,1,2,10.55,0.9,3.04,9.82,47.7,91,9115
+P0955,Surat - central,Surat,Gujarat,21.142298,72.807391,250,1,1,1,1,Semi-Furnished,Independent House,2,1,7,6.35,3.08,2.7,1.72,38.6,58,3740
+P0956,Diu - central,Diu,Gujarat,20.69684,70.969844,1438,2,2,1,1,Unfurnished,Independent House,44,1,1,4.6,1.08,2.05,24.61,65.1,107,10158
+P0957,Bhavnagar - central,Bhavnagar,Gujarat,21.77621,72.173534,1424,2,2,4,7,Furnished,Apartment,135,1,4,2.69,0.27,4.24,32.91,41.7,113,10400
+P0958,Anand - outskirts,Anand,Gujarat,22.56182,72.949651,1777,4,4,5,7,Semi-Furnished,Apartment,171,1,1,4.34,6.86,2.52,34.1,44.1,140,12193
+P0959,Ahmedabad - central,Ahmedabad,Gujarat,23.022733,72.572763,1088,3,4,1,1,Unfurnished,Villa,70,2,9,9.88,6.23,7.7,0.88,37.7,96,19081
+P0960,Ahmedabad - central,Ahmedabad,Gujarat,23.00408,72.590954,486,2,3,2,6,Semi-Furnished,Apartment,46,2,7,1.31,5.77,6.13,15.57,58.7,120,7252
+P0961,Vapi - outskirts,Vapi,Gujarat,20.387313,72.882037,981,2,2,1,1,Unfurnished,Independent House,73,0,2,10.2,6.91,2.48,7.97,66.2,111,7332
+P0962,Surat - central,Surat,Gujarat,21.146127,72.839158,1522,3,4,1,1,Semi-Furnished,Independent House,75,1,7,9.41,6.74,6.5,1.49,27.7,86,23618
+P0963,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.034134,72.581807,469,2,2,7,7,Unfurnished,Apartment,28,1,7,11.9,6.75,7.98,4.64,58.8,84,6996
+P0964,Surat - central,Surat,Gujarat,21.186966,72.815287,354,0,1,4,4,Furnished,Apartment,23,1,6,8.39,1.44,9.36,3.79,54.6,90,4777
+P0965,Vapi - central,Vapi,Gujarat,20.373271,72.901689,1242,2,2,1,3,Semi-Furnished,Apartment,83,1,3,6.04,1.18,9.56,24.71,69.8,107,9695
+P0966,Surat - outskirts,Surat,Gujarat,21.182797,72.81786,761,2,2,1,9,Unfurnished,Apartment,51,0,6,4.8,1.23,1.38,20.11,41.0,133,10777
+P0967,Rajkot - central,Rajkot,Gujarat,22.28492,70.780853,380,1,1,2,3,Semi-Furnished,Apartment,16,0,4,11.74,6.62,7.64,7.33,50.9,39,3694
+P0968,Anand - central,Anand,Gujarat,22.553548,72.912379,747,3,4,3,3,Semi-Furnished,Apartment,70,2,2,10.62,3.07,0.42,28.6,39.7,120,5530
+P0969,Ahmedabad - central,Ahmedabad,Gujarat,23.024721,72.596731,584,2,2,3,5,Unfurnished,Apartment,59,1,5,1.52,0.39,1.24,14.37,59.2,119,7907
+P0970,Ahmedabad - outskirts,Ahmedabad,Gujarat,22.99308,72.572931,505,2,2,1,1,Unfurnished,Independent House,14,1,7,10.92,4.16,4.33,5.35,37.5,85,8124
+P0971,Vadodara - central,Vadodara,Gujarat,22.333743,73.163296,610,1,1,2,3,Semi-Furnished,Apartment,63,1,4,0.71,3.29,7.42,19.1,61.6,74,6222
+P0972,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.236941,72.61699,1084,3,4,5,7,Semi-Furnished,Apartment,70,1,4,1.58,4.64,5.37,7.96,43.9,103,13749
+P0973,Diu - central,Diu,Gujarat,20.711206,70.989625,811,2,3,1,8,Unfurnished,Apartment,77,0,1,0.44,4.43,3.89,32.76,52.2,27,6008
+P0974,Gandhinagar - central,Gandhinagar,Gujarat,23.23013,72.641818,250,1,1,1,9,Furnished,Apartment,28,1,2,9.09,5.06,8.24,3.47,25.7,100,3018
+P0975,Jamnagar - outskirts,Jamnagar,Gujarat,22.442083,70.063504,804,2,2,5,8,Semi-Furnished,Apartment,83,0,1,10.28,7.29,4.37,40.0,48.3,105,4832
+P0976,Valsad - central,Valsad,Gujarat,20.627371,72.923143,851,3,3,4,6,Furnished,Apartment,25,1,2,8.01,4.49,3.82,14.07,35.1,103,6399
+P0977,Veraval - central,Veraval,Gujarat,20.878896,70.33322,852,2,2,3,6,Semi-Furnished,Apartment,19,2,4,7.37,2.08,5.9,29.64,60.4,86,4364
+P0978,Ahmedabad - central,Ahmedabad,Gujarat,23.022548,72.545602,1369,2,2,2,4,Unfurnished,Apartment,116,1,5,9.25,7.75,1.66,22.27,47.8,103,19317
+P0979,Surat - central,Surat,Gujarat,21.160121,72.834037,1088,3,4,2,7,Unfurnished,Apartment,45,1,7,3.68,1.36,1.13,19.29,53.6,73,15437
+P0980,Mehsana - outskirts,Mehsana,Gujarat,23.568,72.344984,413,2,2,2,9,Unfurnished,Apartment,10,1,1,3.32,3.33,0.73,9.47,52.3,117,2447
+P0981,Vapi - outskirts,Vapi,Gujarat,20.418713,72.889513,1165,3,3,3,3,Unfurnished,Apartment,133,1,4,8.88,3.54,3.39,38.45,54.2,63,10175
+P0982,Rajkot - central,Rajkot,Gujarat,22.286197,70.816113,1313,2,3,6,6,Semi-Furnished,Apartment,134,0,3,7.54,2.73,0.27,12.48,45.4,56,12331
+P0983,Bhavnagar - central,Bhavnagar,Gujarat,21.758019,72.146998,948,3,3,1,1,Semi-Furnished,Villa,20,1,4,8.22,6.63,6.75,11.41,49.7,101,6732
+P0984,Morbi - outskirts,Morbi,Gujarat,22.789705,70.831862,1536,2,3,4,4,Unfurnished,Apartment,93,1,1,10.16,6.34,3.08,21.35,58.7,114,7779
+P0985,Ahmedabad - central,Ahmedabad,Gujarat,23.001549,72.561577,1560,3,3,2,7,Furnished,Apartment,80,1,6,0.83,5.84,8.81,18.85,16.8,62,25651
+P0986,Gandhinagar - outskirts,Gandhinagar,Gujarat,23.218402,72.611718,371,1,1,1,1,Furnished,Independent House,14,2,1,7.79,0.79,1.41,16.76,35.9,70,4073
+P0987,Ahmedabad - central,Ahmedabad,Gujarat,23.038948,72.562239,1164,3,3,5,7,Unfurnished,Apartment,81,1,6,6.3,4.73,4.31,0.58,33.6,90,18113
+P0988,Ahmedabad - central,Ahmedabad,Gujarat,23.0223,72.547429,1068,3,3,1,7,Unfurnished,Apartment,41,1,7,4.94,2.56,7.49,13.2,64.2,81,15613
+P0989,Nadiad - outskirts,Nadiad,Gujarat,22.710997,72.846042,250,1,1,4,4,Semi-Furnished,Apartment,19,2,4,1.15,6.48,0.52,5.46,45.0,160,2000
+P0990,Navsari - central,Navsari,Gujarat,20.933794,72.981491,1504,4,4,4,4,Unfurnished,Apartment,53,1,3,8.64,7.82,9.91,30.26,51.3,136,11317
+P0991,Bhavnagar - central,Bhavnagar,Gujarat,21.742756,72.149979,1506,4,3,6,10,Furnished,Apartment,109,1,1,11.09,4.51,6.82,34.3,49.7,100,9005
+P0992,Navsari - outskirts,Navsari,Gujarat,20.928578,72.943131,250,1,1,4,4,Unfurnished,Apartment,8,1,2,10.57,4.75,9.88,13.8,46.9,104,2000
+P0993,Surat - central,Surat,Gujarat,21.15779,72.849004,250,1,1,1,1,Semi-Furnished,Independent House,14,1,8,4.35,6.95,5.1,0.37,32.9,52,3986
+P0994,Ahmedabad - outskirts,Ahmedabad,Gujarat,23.007254,72.592382,1131,2,2,7,9,Semi-Furnished,Apartment,118,1,7,0.44,6.43,6.89,8.91,25.9,94,18917
+P0995,Bharuch - central,Bharuch,Gujarat,21.721111,73.019467,892,2,2,4,4,Unfurnished,Apartment,91,1,1,11.15,1.82,3.77,39.27,65.9,93,5654
+P0996,Surat - outskirts,Surat,Gujarat,21.146256,72.855796,719,2,2,5,7,Furnished,Apartment,16,1,4,5.22,6.49,0.93,0.39,43.4,76,9136
+P0997,Rajkot - outskirts,Rajkot,Gujarat,22.30382,70.787775,954,3,4,2,6,Unfurnished,Apartment,108,1,2,6.69,0.84,3.39,20.5,51.9,78,8269
+P0998,Diu - central,Diu,Gujarat,20.698053,70.976327,1126,3,4,4,10,Semi-Furnished,Apartment,58,2,1,1.81,6.19,9.08,36.77,51.3,116,8368
+P0999,Junagadh - central,Junagadh,Gujarat,21.53889,70.456014,731,3,4,8,12,Furnished,Apartment,68,0,3,3.69,2.41,7.63,34.49,45.0,115,5000
+P1000,Ahmedabad - central,Ahmedabad,Gujarat,23.006196,72.542357,1256,2,3,7,8,Unfurnished,Apartment,119,2,8,9.08,3.9,7.28,5.41,31.5,81,21558

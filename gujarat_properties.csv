@@ -1,0 +1,1001 @@
+property_id,location,city,state,latitude,longitude,area_sqft,bedrooms,bathrooms,floors,balcony_sqft,year_built,property_type,condition,parking_spaces,amenities_score,nearby_schools_km,nearby_hospital_km,nearby_metro_km,crime_rate,air_quality_index,market_trend_score,price
+1,Morbi - Sector 11,Morbi,Gujarat,22.807876,70.838532,4432,5,3,2,80,2019,Farmhouse,New,2,2,1.21,2.59,1.44,1.76,128,83,13423199
+2,Morbi - Sector 9,Morbi,Gujarat,22.819317,70.832098,3082,5,2,2,191,2020,Villa,New,2,7,2.72,3.7,0.77,2.87,67,68,9757627
+3,Godhra - Sector 8,Godhra,Gujarat,22.794795,73.601976,4899,4,4,3,77,2016,Villa,Good,3,7,1.02,2.72,2.97,6.38,167,82,11036459
+4,Gandhinagar - Sector 8,Gandhinagar,Gujarat,23.201068,72.648251,1781,2,4,2,107,2002,Farmhouse,Good,0,8,4.06,4.28,4.27,6.51,144,82,6895415
+5,Porbandar - Sector 18,Porbandar,Gujarat,21.626051,69.617296,3368,3,3,3,20,2021,Villa,New,0,1,4.94,1.71,3.4,3.48,95,90,9925637
+6,Bhavnagar - Sector 14,Bhavnagar,Gujarat,21.768436,72.171145,3439,4,3,3,101,2013,Villa,Good,2,4,2.02,1.61,1.18,8.08,168,91,10075255
+7,Veraval - Sector 3,Veraval,Gujarat,20.90427,70.37258,4168,1,4,2,137,1991,Farmhouse,Needs Renovation,0,2,1.78,4.35,2.02,8.08,101,93,10366988
+8,Mehsana - Sector 5,Mehsana,Gujarat,23.602234,72.380228,794,2,4,1,133,2024,Penthouse,New,0,10,2.09,4.09,1.59,8.37,141,72,2101124
+9,Nadiad - Sector 12,Nadiad,Gujarat,22.673825,72.85301,2772,3,4,3,34,2023,Penthouse,New,0,6,4.84,0.96,3.62,2.17,96,61,9228959
+10,Palanpur - Sector 1,Palanpur,Gujarat,24.169451,72.426348,2687,3,4,2,143,2017,Apartment,Good,2,10,2.53,2.28,2.63,7.51,87,54,7088169
+11,Gandhinagar - Sector 8,Gandhinagar,Gujarat,23.199719,72.633603,834,1,2,1,57,2018,Villa,New,2,8,2.52,1.97,1.78,4.56,139,51,3393445
+12,Ahmedabad - Sector 13,Ahmedabad,Gujarat,23.033689,72.555389,2982,1,4,1,73,2020,Row House,New,3,8,0.84,3.41,4.57,4.56,153,60,12624728
+13,Junagadh - Sector 2,Junagadh,Gujarat,21.520471,70.459266,3121,1,4,1,131,2025,Apartment,New,3,3,2.59,4.29,0.91,7.58,170,84,8790883
+14,Palanpur - Sector 7,Palanpur,Gujarat,24.163102,72.427914,4598,2,2,1,50,2002,Villa,Good,1,1,4.29,1.83,3.86,4.01,170,54,11934916
+15,Dwarka - Sector 12,Dwarka,Gujarat,22.250511,68.98421,1232,3,2,1,88,1980,Penthouse,Needs Renovation,2,10,2.2,3.02,4.17,2.04,115,56,3346671
+16,Junagadh - Sector 8,Junagadh,Gujarat,21.517427,70.442452,1386,4,3,3,99,2001,Villa,Good,0,7,3.02,2.55,4.2,6.98,156,56,4025928
+17,Nadiad - Sector 14,Nadiad,Gujarat,22.682613,72.877523,3175,5,3,1,120,2021,Studio,New,2,4,3.75,1.75,2.95,4.65,182,94,9069117
+18,Porbandar - Sector 5,Porbandar,Gujarat,21.650238,69.609861,2720,5,3,1,107,2013,Farmhouse,Good,3,9,4.55,3.36,3.63,6.04,148,55,7131226
+19,Dwarka - Sector 5,Dwarka,Gujarat,22.261419,68.967415,3055,1,1,2,168,2023,Apartment,New,0,10,1.47,3.4,2.29,9.05,155,65,6765529
+20,Porbandar - Sector 1,Porbandar,Gujarat,21.648163,69.610145,3376,5,2,2,72,2013,Row House,Good,2,4,1.74,3.7,3.05,9.15,120,75,8495231
+21,Porbandar - Sector 17,Porbandar,Gujarat,21.62344,69.642614,3059,3,1,1,46,2003,Farmhouse,Good,3,1,4.71,0.51,4.75,9.18,107,58,7805522
+22,Dwarka - Sector 19,Dwarka,Gujarat,22.244339,68.985679,1386,3,2,1,55,1986,Farmhouse,Needs Renovation,1,6,1.86,4.09,4.47,1.89,164,81,3567671
+23,Ahmedabad - Sector 18,Ahmedabad,Gujarat,23.028798,72.581929,2567,3,1,1,185,2022,Villa,New,0,5,3.54,2.98,3.37,9.62,173,74,9429537
+24,Mehsana - Sector 13,Mehsana,Gujarat,23.606015,72.363355,3535,3,1,2,28,1994,Row House,Needs Renovation,0,6,3.9,4.16,1.5,7.65,196,78,8906982
+25,Navsari - Sector 18,Navsari,Gujarat,20.939356,72.956173,1275,2,4,3,53,1995,Studio,Needs Renovation,3,5,3.12,3.01,2.52,5.89,57,60,4030626
+26,Porbandar - Sector 11,Porbandar,Gujarat,21.655577,69.611411,2240,4,4,2,192,2018,Apartment,New,2,2,4.88,0.93,0.84,3.98,142,88,6191273
+27,Anand - Sector 8,Anand,Gujarat,22.58273,72.915287,2688,2,3,3,82,1981,Penthouse,Needs Renovation,0,10,3.37,2.18,1.64,9.34,88,74,8173448
+28,Gandhinagar - Sector 19,Gandhinagar,Gujarat,23.202741,72.656842,3286,3,1,1,42,2014,Farmhouse,Good,0,2,3.78,2.3,3.86,6.72,101,90,13296821
+29,Surat - Sector 3,Surat,Gujarat,21.188989,72.849298,3553,4,3,2,72,2013,Studio,Good,2,10,3.29,0.58,4.74,4.1,166,82,13601097
+30,Bhavnagar - Sector 6,Bhavnagar,Gujarat,21.78033,72.138031,3375,4,3,3,113,1993,Studio,Needs Renovation,0,8,2.23,4.43,0.56,2.47,135,82,11655663
+31,Anand - Sector 11,Anand,Gujarat,22.57043,72.929179,4460,4,4,1,139,2017,Independent House,Good,3,7,4.45,4.8,3.53,7.71,192,54,12496769
+32,Valsad - Sector 6,Valsad,Gujarat,20.606222,72.916556,3462,5,1,2,109,2017,Studio,Good,1,9,3.34,0.79,1.63,5.48,53,84,10655039
+33,Rajkot - Sector 7,Rajkot,Gujarat,22.293152,70.799778,4895,4,4,2,32,2023,Penthouse,New,3,9,4.48,4.08,4.73,8.44,130,59,15929054
+34,Ahmedabad - Sector 3,Ahmedabad,Gujarat,23.024793,72.577538,1655,3,2,3,37,1996,Studio,Needs Renovation,1,7,2.99,3.15,3.14,9.56,129,88,6412390
+35,Vadodara - Sector 9,Vadodara,Gujarat,22.315655,73.166152,2933,2,1,1,22,1980,Farmhouse,Needs Renovation,1,2,4.08,3.41,3.1,9.51,87,65,10408828
+36,Bharuch - Sector 12,Bharuch,Gujarat,21.72036,72.978394,1466,2,3,1,155,2022,Studio,New,1,8,1.94,2.69,2.37,1.39,75,58,5207489
+37,Bhavnagar - Sector 11,Bhavnagar,Gujarat,21.772882,72.146901,4121,5,4,1,197,2015,Studio,Good,1,5,4.91,0.84,4.8,5.77,167,86,12753924
+38,Jamnagar - Sector 7,Jamnagar,Gujarat,22.472559,70.05882,2089,5,1,3,161,2011,Apartment,Good,3,8,2.49,2.1,4.39,4.97,192,80,5928520
+39,Navsari - Sector 13,Navsari,Gujarat,20.950414,72.933263,1004,4,3,3,187,2010,Penthouse,Good,0,2,1.44,2.62,2.86,9.66,157,80,2594841
+40,Mehsana - Sector 14,Mehsana,Gujarat,23.5838,72.375966,3887,4,3,2,147,2008,Row House,Good,2,1,3.86,2.49,2.51,7.72,127,86,10616845
+41,Surat - Sector 6,Surat,Gujarat,21.151483,72.848556,512,3,4,1,43,2003,Villa,Good,2,5,2.91,3.13,4.67,5.27,54,78,2166506
+42,Junagadh - Sector 3,Junagadh,Gujarat,21.506573,70.465157,2095,4,2,2,55,2019,Penthouse,New,2,1,4.46,3.97,1.62,6.57,162,100,6099691
+43,Ahmedabad - Sector 1,Ahmedabad,Gujarat,23.017245,72.573025,604,5,4,2,196,2017,Apartment,Good,0,6,4.88,2.63,3.58,1.77,76,73,2960866
+44,Bharuch - Sector 11,Bharuch,Gujarat,21.721607,72.977092,2463,2,4,3,97,2015,Villa,Good,1,9,0.75,3.88,3.76,7.61,188,85,6697472
+45,Dwarka - Sector 11,Dwarka,Gujarat,22.250641,68.97233,4582,4,1,3,103,2014,Farmhouse,Good,3,2,2.97,1.77,3.21,4.58,78,80,12280416
+46,Veraval - Sector 1,Veraval,Gujarat,20.904864,70.377056,1592,5,2,2,179,2021,Penthouse,New,0,1,4.5,1.15,4.49,7.76,71,68,4123126
+47,Dwarka - Sector 4,Dwarka,Gujarat,22.226184,68.970827,4350,5,3,3,139,2021,Independent House,New,2,3,0.79,2.8,3.15,6.12,198,84,9797385
+48,Bhavnagar - Sector 18,Bhavnagar,Gujarat,21.776272,72.137287,2345,3,1,3,41,2023,Villa,New,3,7,1.36,2.55,0.91,4.11,126,80,7900446
+49,Palanpur - Sector 3,Palanpur,Gujarat,24.161743,72.43467,1488,5,4,2,44,2012,Apartment,Good,0,6,3.92,2.56,3.22,8.75,144,54,3572807
+50,Nadiad - Sector 9,Nadiad,Gujarat,22.681454,72.881678,4557,1,1,1,170,2024,Apartment,New,0,4,4.41,1.64,3.58,4.89,116,92,13992484
+51,Godhra - Sector 20,Godhra,Gujarat,22.786517,73.619216,846,4,4,1,62,1996,Row House,Needs Renovation,0,7,1.86,2.27,0.62,5.1,83,98,2159621
+52,Gandhinagar - Sector 6,Gandhinagar,Gujarat,23.220497,72.631991,2459,5,2,2,28,2019,Independent House,New,1,8,0.8,0.88,1.18,7.92,192,87,8695187
+53,Palanpur - Sector 4,Palanpur,Gujarat,24.179319,72.427372,4390,3,1,2,177,2021,Row House,New,2,4,1.74,3.76,0.82,1.43,97,83,13092702
+54,Dwarka - Sector 12,Dwarka,Gujarat,22.228209,68.975068,548,2,2,1,187,1987,Farmhouse,Needs Renovation,2,10,2.83,0.92,2.88,1.13,66,74,1600846
+55,Bharuch - Sector 18,Bharuch,Gujarat,21.701687,72.978498,2471,3,4,2,116,2006,Studio,Good,1,2,1.63,2.34,4.19,8.2,131,57,7090810
+56,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.784365,72.170069,981,1,2,2,110,1988,Farmhouse,Needs Renovation,0,10,3.99,4.65,0.75,9.5,125,95,2920191
+57,Valsad - Sector 17,Valsad,Gujarat,20.612033,72.944728,3230,5,2,1,162,2011,Row House,Good,0,7,4.84,2.42,0.55,4.41,52,61,10190683
+58,Porbandar - Sector 4,Porbandar,Gujarat,21.650632,69.643638,4837,1,4,3,103,2012,Villa,Good,1,8,2.13,2.69,3.29,8.93,100,58,12515302
+59,Junagadh - Sector 13,Junagadh,Gujarat,21.507,70.448583,4190,5,4,3,177,1984,Studio,Needs Renovation,0,3,4.11,4.78,1.06,3.42,134,52,13521391
+60,Junagadh - Sector 5,Junagadh,Gujarat,21.534736,70.445622,3958,1,3,1,129,1998,Independent House,Needs Renovation,2,4,2.77,1.08,1.49,8.94,121,97,11428088
+61,Vadodara - Sector 9,Vadodara,Gujarat,22.296028,73.17467,3980,4,1,3,64,1996,Villa,Needs Renovation,2,3,3.06,0.74,2.12,3.78,180,94,14480984
+62,Bhavnagar - Sector 19,Bhavnagar,Gujarat,21.769567,72.164279,3593,1,1,2,74,2020,Studio,New,3,8,4.06,2.28,2.94,1.38,58,72,13823001
+63,Anand - Sector 8,Anand,Gujarat,22.56974,72.937426,2185,1,2,1,199,2023,Row House,New,3,2,4.02,3.44,2.92,2.15,99,89,7724529
+64,Vadodara - Sector 14,Vadodara,Gujarat,22.320809,73.173271,506,2,2,2,129,2006,Row House,Good,2,6,3.64,3.55,4.59,7.1,51,62,1977630
+65,Junagadh - Sector 10,Junagadh,Gujarat,21.508594,70.455137,4050,3,1,2,117,2002,Villa,Good,0,10,4.78,1.75,0.86,9.75,160,60,10954439
+66,Mehsana - Sector 4,Mehsana,Gujarat,23.589652,72.387893,1344,2,4,2,189,2020,Studio,New,1,7,2.21,3.08,0.89,7.54,109,62,3762605
+67,Ahmedabad - Sector 3,Ahmedabad,Gujarat,23.030962,72.588177,2515,1,3,1,78,2020,Villa,New,2,5,1.71,2.25,3.14,1.5,155,52,11337808
+68,Morbi - Sector 11,Morbi,Gujarat,22.80441,70.81879,1885,5,3,3,116,2021,Studio,New,0,4,4.1,4.99,4.47,3.07,130,81,5541325
+69,Bharuch - Sector 7,Bharuch,Gujarat,21.720989,72.983003,724,1,4,1,173,2018,Penthouse,New,1,7,2.67,1.04,1.22,7.05,116,100,2171606
+70,Jamnagar - Sector 20,Jamnagar,Gujarat,22.489162,70.048237,3491,3,1,2,107,2011,Penthouse,Good,1,2,2.49,1.81,2.2,9.94,191,78,8824780
+71,Porbandar - Sector 5,Porbandar,Gujarat,21.628451,69.612565,3542,3,1,2,128,2025,Independent House,New,0,7,3.2,3.3,4.27,9.89,62,53,9328291
+72,Veraval - Sector 15,Veraval,Gujarat,20.889006,70.354148,949,2,3,1,137,2020,Independent House,New,0,6,1.22,4.62,3.87,5.58,152,69,2359307
+73,Ahmedabad - Sector 13,Ahmedabad,Gujarat,23.034388,72.558398,2293,5,3,1,108,2010,Studio,Good,2,1,3.45,1.69,4.92,7.23,193,73,8705816
+74,Mehsana - Sector 8,Mehsana,Gujarat,23.573456,72.381039,3966,5,4,3,179,2014,Farmhouse,Good,2,9,4.94,1.24,1.38,7.94,107,55,11023135
+75,Bharuch - Sector 3,Bharuch,Gujarat,21.691869,72.978718,783,3,4,3,63,1997,Studio,Needs Renovation,3,6,2.12,0.9,4.98,8.5,97,71,2318060
+76,Surat - Sector 12,Surat,Gujarat,21.176202,72.823472,3014,5,3,1,97,2021,Independent House,New,2,9,2.42,4.99,2.22,5.05,147,80,11556384
+77,Porbandar - Sector 17,Porbandar,Gujarat,21.623454,69.627949,2606,1,3,3,188,2022,Apartment,New,1,8,0.98,4.2,4.69,6.07,122,97,7036037
+78,Palanpur - Sector 12,Palanpur,Gujarat,24.16048,72.456059,4420,1,3,1,50,2018,Row House,New,0,4,3.67,1.05,4.14,2.2,106,86,12843890
+79,Bharuch - Sector 7,Bharuch,Gujarat,21.70537,72.976226,2018,5,3,3,52,2016,Studio,Good,1,6,3.61,0.54,3.47,7.88,200,56,5371883
+80,Surat - Sector 7,Surat,Gujarat,21.171321,72.850835,3803,1,4,3,129,2004,Apartment,Good,1,2,4.81,3.82,0.65,6.26,181,70,13623509
+81,Gandhinagar - Sector 13,Gandhinagar,Gujarat,23.228094,72.627865,2716,1,2,1,149,2020,Row House,New,2,4,4.81,2.41,1.14,4.78,111,73,11355216
+82,Anand - Sector 18,Anand,Gujarat,22.558857,72.934005,3861,2,4,3,165,1983,Penthouse,Needs Renovation,1,1,1.39,1.76,2.93,2.83,143,53,12798537
+83,Bharuch - Sector 7,Bharuch,Gujarat,21.701789,72.999598,2543,4,3,3,132,2012,Apartment,Good,0,6,1.02,3.23,4.54,9.99,56,98,7587767
+84,Porbandar - Sector 10,Porbandar,Gujarat,21.623958,69.635362,1137,2,3,2,174,2001,Villa,Good,1,8,0.68,2.33,0.66,5.85,167,83,2927077
+85,Bharuch - Sector 2,Bharuch,Gujarat,21.712063,72.999149,3574,3,2,1,35,2002,Villa,Good,0,10,2.31,2.27,3.26,5.72,65,93,11689632
+86,Bhavnagar - Sector 10,Bhavnagar,Gujarat,21.749348,72.164114,4032,4,2,3,22,2003,Farmhouse,Good,2,10,4.16,3.46,1.13,6.65,102,86,13184548
+87,Gandhinagar - Sector 12,Gandhinagar,Gujarat,23.224015,72.620341,4578,5,1,1,83,2018,Studio,New,2,7,1.24,0.57,0.77,7.4,176,97,16712673
+88,Morbi - Sector 20,Morbi,Gujarat,22.834457,70.857539,4701,5,2,3,79,2012,Studio,Good,3,3,2.66,3.53,3.34,1.19,91,92,15017423
+89,Porbandar - Sector 4,Porbandar,Gujarat,21.635824,69.627649,1092,1,1,1,87,1996,Studio,Needs Renovation,2,1,3.54,3.68,0.79,7.02,109,97,2927283
+90,Surat - Sector 3,Surat,Gujarat,21.186749,72.832122,4176,3,3,2,193,2025,Farmhouse,New,3,3,1.2,3.35,4.84,2.37,180,55,16310036
+91,Valsad - Sector 3,Valsad,Gujarat,20.588578,72.943235,3024,5,1,2,150,2023,Villa,New,0,3,1.29,1.74,4.6,8.68,80,58,8391754
+92,Bharuch - Sector 9,Bharuch,Gujarat,21.712158,72.990914,4492,2,2,2,47,1997,Studio,Needs Renovation,2,8,1.9,0.84,2.97,7.82,104,84,13411625
+93,Veraval - Sector 6,Veraval,Gujarat,20.898135,70.344647,2000,2,4,1,21,1994,Row House,Needs Renovation,1,2,0.72,3.69,4.72,5.1,58,55,5583045
+94,Navsari - Sector 8,Navsari,Gujarat,20.939978,72.933866,4466,2,4,3,114,1985,Farmhouse,Needs Renovation,1,3,1.29,3.91,1.91,4.59,104,80,13809940
+95,Mehsana - Sector 2,Mehsana,Gujarat,23.584551,72.363817,1324,1,4,1,23,2025,Row House,New,3,3,1.32,1.56,4.75,8.89,191,63,3258484
+96,Godhra - Sector 11,Godhra,Gujarat,22.76648,73.599981,838,1,3,2,92,2007,Independent House,Good,2,10,3.61,1.52,2.53,9.51,70,93,1956439
+97,Dwarka - Sector 20,Dwarka,Gujarat,22.251297,68.962383,1131,3,3,1,146,2012,Independent House,Good,1,9,4.64,1.19,3.73,2.31,172,91,2858250
+98,Ahmedabad - Sector 4,Ahmedabad,Gujarat,23.039373,72.583069,1731,2,3,3,45,2016,Villa,Good,3,8,0.71,3.66,1.83,5.18,154,78,7219913
+99,Morbi - Sector 5,Morbi,Gujarat,22.837217,70.853202,3808,4,4,2,171,2005,Villa,Good,2,4,1.4,0.54,2.62,6.62,126,55,10395141
+100,Porbandar - Sector 20,Porbandar,Gujarat,21.655943,69.646158,1959,3,3,3,20,2024,Villa,New,0,2,4.72,1.73,3.44,7.96,60,63,5419048
+101,Vadodara - Sector 17,Vadodara,Gujarat,22.299463,73.18128,2720,3,3,2,98,1993,Penthouse,Needs Renovation,1,4,0.63,3.13,1.96,6.22,177,55,9408399
+102,Mehsana - Sector 12,Mehsana,Gujarat,23.575108,72.380999,1121,2,3,1,144,2007,Studio,Good,0,6,1.28,3.92,3.36,1.26,177,79,3327535
+103,Morbi - Sector 20,Morbi,Gujarat,22.799901,70.847568,2531,2,1,3,152,2022,Villa,New,1,3,4.15,4.12,3.43,9.54,55,83,6967585
+104,Ahmedabad - Sector 13,Ahmedabad,Gujarat,23.03443,72.584336,1290,4,3,1,158,2005,Penthouse,Good,1,4,0.8,2.25,3.35,2.65,52,58,6369578
+105,Veraval - Sector 4,Veraval,Gujarat,20.903187,70.34676,2930,2,1,3,91,2000,Studio,Good,3,9,3.51,3.48,4.67,8.59,187,56,6510394
+106,Bharuch - Sector 5,Bharuch,Gujarat,21.704442,72.996534,2361,2,1,2,151,2019,Independent House,New,2,9,0.84,2.41,1.27,2.35,164,91,7430058
+107,Porbandar - Sector 16,Porbandar,Gujarat,21.651931,69.614318,1969,1,4,3,157,2025,Penthouse,New,1,6,3.92,4.39,0.97,9.94,91,92,5019016
+108,Mehsana - Sector 9,Mehsana,Gujarat,23.597137,72.352034,2723,2,1,3,169,1980,Villa,Needs Renovation,2,2,2.61,3.15,3.46,5.1,183,74,7391758
+109,Rajkot - Sector 7,Rajkot,Gujarat,22.292642,70.78635,4115,4,1,3,137,2002,Farmhouse,Good,2,4,2.74,2.49,3.68,1.17,95,55,16366192
+110,Jamnagar - Sector 7,Jamnagar,Gujarat,22.477527,70.051687,2702,4,1,3,94,2002,Farmhouse,Good,1,9,1.91,2.46,2.62,2.6,119,83,8801044
+111,Palanpur - Sector 2,Palanpur,Gujarat,24.16394,72.443036,3840,4,4,3,106,1985,Independent House,Needs Renovation,0,4,1.13,4.71,4.5,5.0,147,81,10023091
+112,Porbandar - Sector 12,Porbandar,Gujarat,21.631629,69.642971,4418,5,2,1,55,2013,Independent House,Good,3,2,4.15,4.19,0.87,3.88,67,91,13307445
+113,Mehsana - Sector 6,Mehsana,Gujarat,23.597072,72.36246,4683,2,4,3,38,2007,Studio,Good,0,7,1.77,4.35,4.7,6.0,145,64,13036910
+114,Valsad - Sector 11,Valsad,Gujarat,20.584077,72.941798,3355,1,4,2,57,2013,Villa,Good,3,1,4.2,2.4,4.23,2.6,159,75,9763144
+115,Navsari - Sector 12,Navsari,Gujarat,20.936019,72.934091,4286,3,1,3,93,2020,Studio,New,1,7,2.06,4.76,4.08,4.71,187,97,11993850
+116,Junagadh - Sector 9,Junagadh,Gujarat,21.527282,70.473524,1319,4,2,3,92,1990,Studio,Needs Renovation,0,8,4.49,4.48,0.72,5.44,192,71,3799192
+117,Bhavnagar - Sector 9,Bhavnagar,Gujarat,21.774442,72.157082,1804,2,1,2,34,2022,Villa,New,3,8,2.94,3.97,2.36,3.28,137,81,6109834
+118,Veraval - Sector 6,Veraval,Gujarat,20.890446,70.34441,594,3,1,1,79,1982,Farmhouse,Needs Renovation,1,2,1.3,0.83,2.24,6.54,107,73,1521498
+119,Gandhinagar - Sector 13,Gandhinagar,Gujarat,23.214324,72.649257,2265,4,1,3,94,1998,Independent House,Needs Renovation,2,5,0.55,3.12,3.87,2.12,74,100,10443995
+120,Valsad - Sector 11,Valsad,Gujarat,20.588722,72.946972,2021,2,2,3,46,2004,Row House,Good,3,7,2.06,3.95,0.8,4.0,132,60,5890697
+121,Rajkot - Sector 3,Rajkot,Gujarat,22.295461,70.805762,3853,4,3,3,39,1989,Penthouse,Needs Renovation,2,2,2.32,1.53,1.99,7.72,183,98,11978392
+122,Dwarka - Sector 18,Dwarka,Gujarat,22.257474,68.984098,1210,4,4,2,170,2023,Penthouse,New,2,2,3.84,3.54,1.8,3.34,129,91,3147228
+123,Porbandar - Sector 5,Porbandar,Gujarat,21.63877,69.616984,4133,3,2,1,87,2018,Farmhouse,New,2,2,2.24,2.13,4.5,1.68,148,54,11910499
+124,Surat - Sector 12,Surat,Gujarat,21.173539,72.817866,2762,2,2,2,153,2009,Villa,Good,0,8,1.51,3.04,2.31,8.45,129,97,9995691
+125,Surat - Sector 11,Surat,Gujarat,21.168976,72.83264,1447,4,4,1,178,2021,Penthouse,New,0,8,2.26,2.41,4.55,3.97,111,98,5921220
+126,Porbandar - Sector 6,Porbandar,Gujarat,21.659537,69.646679,1172,1,1,2,65,2020,Villa,New,1,6,2.54,4.77,1.07,1.87,163,93,3304965
+127,Morbi - Sector 11,Morbi,Gujarat,22.803746,70.856964,4133,1,2,2,105,2022,Independent House,New,0,1,2.93,4.5,3.67,3.37,157,92,11697441
+128,Bharuch - Sector 13,Bharuch,Gujarat,21.695101,72.977368,3453,5,1,2,96,2023,Villa,New,1,3,2.26,1.12,0.88,9.57,62,97,10344994
+129,Morbi - Sector 5,Morbi,Gujarat,22.807417,70.824388,609,1,3,1,105,2018,Farmhouse,New,1,1,4.88,1.47,3.8,8.29,80,99,1682588
+130,Navsari - Sector 9,Navsari,Gujarat,20.950964,72.950766,4149,3,2,1,112,1995,Studio,Needs Renovation,2,4,4.05,3.91,4.21,9.1,69,58,12006875
+131,Bharuch - Sector 1,Bharuch,Gujarat,21.686322,73.004872,4579,1,1,2,172,2018,Row House,New,3,10,0.58,4.47,3.94,6.38,150,54,13412271
+132,Valsad - Sector 6,Valsad,Gujarat,20.582853,72.922847,1225,3,3,3,190,1982,Row House,Needs Renovation,1,9,0.53,4.29,1.72,2.1,111,97,3807993
+133,Veraval - Sector 14,Veraval,Gujarat,20.895104,70.366905,3091,4,4,2,172,1984,Farmhouse,Needs Renovation,1,3,0.67,3.04,4.65,5.38,131,80,7910287
+134,Jamnagar - Sector 20,Jamnagar,Gujarat,22.489451,70.057543,1308,4,3,2,151,1989,Penthouse,Needs Renovation,1,6,2.25,1.67,3.04,1.96,178,77,4028813
+135,Valsad - Sector 13,Valsad,Gujarat,20.582735,72.945345,4467,5,2,1,125,2022,Villa,New,3,6,4.62,3.26,1.43,3.0,117,58,13533102
+136,Gandhinagar - Sector 12,Gandhinagar,Gujarat,23.233452,72.648719,745,1,3,2,41,2020,Independent House,New,2,7,1.88,3.77,2.46,4.47,167,51,2938544
+137,Vadodara - Sector 20,Vadodara,Gujarat,22.323972,73.185356,2588,2,2,3,22,2011,Independent House,Good,0,6,1.6,2.24,4.75,4.97,144,91,9576597
+138,Porbandar - Sector 9,Porbandar,Gujarat,21.648104,69.63635,3088,1,4,3,107,1996,Apartment,Needs Renovation,2,4,2.66,1.42,1.35,1.21,136,62,9112129
+139,Mehsana - Sector 9,Mehsana,Gujarat,23.575553,72.382435,2920,2,3,3,153,2008,Villa,Good,3,9,4.68,0.68,4.44,9.73,76,73,8040224
+140,Rajkot - Sector 14,Rajkot,Gujarat,22.316257,70.802093,2873,1,2,2,154,2000,Studio,Good,0,6,3.46,0.57,1.09,8.19,143,68,9264865
+141,Ahmedabad - Sector 20,Ahmedabad,Gujarat,23.011498,72.559597,1483,5,2,3,161,2021,Row House,New,2,2,2.22,2.68,3.56,5.45,190,84,5886627
+142,Dwarka - Sector 4,Dwarka,Gujarat,22.237376,68.975777,1389,4,1,2,38,2013,Row House,Good,0,4,2.91,3.76,3.74,8.25,80,84,3414495
+143,Bharuch - Sector 14,Bharuch,Gujarat,21.694211,72.988341,3527,3,2,1,166,2024,Independent House,New,1,3,1.68,2.43,1.68,8.87,52,80,10864246
+144,Gandhinagar - Sector 18,Gandhinagar,Gujarat,23.22393,72.623499,555,5,3,2,83,2021,Villa,New,3,5,4.5,1.21,4.13,2.36,82,91,2524298
+145,Dwarka - Sector 15,Dwarka,Gujarat,22.250154,68.986993,1075,5,4,1,199,2001,Independent House,Good,3,4,3.69,4.84,3.62,4.0,172,57,2620454
+146,Dwarka - Sector 10,Dwarka,Gujarat,22.233595,68.959869,806,3,1,3,98,2015,Farmhouse,Good,0,6,1.35,1.18,2.29,6.28,197,91,1810967
+147,Jamnagar - Sector 8,Jamnagar,Gujarat,22.462795,70.064562,4020,4,2,3,70,2024,Villa,New,1,9,3.47,4.66,3.98,1.71,85,71,13854758
+148,Rajkot - Sector 10,Rajkot,Gujarat,22.296822,70.812481,2211,2,2,1,123,1984,Farmhouse,Needs Renovation,0,5,2.23,3.96,4.35,3.25,57,59,8772523
+149,Surat - Sector 3,Surat,Gujarat,21.155626,72.832927,3165,1,2,2,129,2024,Apartment,New,0,4,1.0,3.38,2.03,9.6,143,93,10958116
+150,Anand - Sector 13,Anand,Gujarat,22.555364,72.912668,1722,2,4,3,58,1999,Row House,Needs Renovation,2,6,4.39,4.64,3.37,9.84,129,97,4939225
+151,Surat - Sector 10,Surat,Gujarat,21.179691,72.847434,1827,2,4,3,194,2000,Independent House,Good,0,7,1.17,0.86,4.93,9.35,95,71,6721213
+152,Morbi - Sector 4,Morbi,Gujarat,22.805638,70.836202,1423,2,2,1,93,1998,Farmhouse,Needs Renovation,3,1,1.06,3.07,1.94,1.29,57,75,4706165
+153,Bhavnagar - Sector 2,Bhavnagar,Gujarat,21.770874,72.151627,2818,1,3,2,196,2021,Penthouse,New,3,1,4.27,4.26,3.74,8.45,83,62,9019046
+154,Godhra - Sector 10,Godhra,Gujarat,22.79474,73.629463,4896,4,1,2,118,2004,Penthouse,Good,1,7,2.11,0.8,2.83,7.25,113,55,11510464
+155,Navsari - Sector 5,Navsari,Gujarat,20.932086,72.946919,2041,5,3,3,78,2021,Independent House,New,3,5,4.94,3.7,2.03,6.42,65,63,6320558
+156,Palanpur - Sector 20,Palanpur,Gujarat,24.178935,72.431755,1202,4,4,1,197,2018,Apartment,New,0,8,1.25,4.52,3.41,6.53,139,79,3059188
+157,Anand - Sector 16,Anand,Gujarat,22.570374,72.948359,2233,4,4,3,136,2013,Row House,Good,2,10,1.55,2.02,3.92,2.96,91,83,7829495
+158,Anand - Sector 1,Anand,Gujarat,22.554983,72.925403,4039,5,1,2,80,2010,Studio,Good,3,4,1.68,3.98,1.93,1.37,58,81,15172001
+159,Dwarka - Sector 9,Dwarka,Gujarat,22.253379,68.961085,3621,3,1,3,177,2025,Row House,New,2,4,0.99,4.68,3.43,6.99,78,83,9189859
+160,Porbandar - Sector 5,Porbandar,Gujarat,21.656887,69.645817,3892,4,4,2,41,1990,Apartment,Needs Renovation,0,6,2.54,0.53,3.02,3.87,58,58,11838733
+161,Gandhinagar - Sector 3,Gandhinagar,Gujarat,23.213898,72.617047,3843,2,3,1,40,2007,Row House,Good,3,4,2.77,3.66,3.48,6.81,95,60,15621959
+162,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.758289,72.14521,4265,1,3,1,184,2007,Penthouse,Good,0,10,3.24,0.6,3.59,9.07,135,79,12683998
+163,Bhavnagar - Sector 11,Bhavnagar,Gujarat,21.779124,72.135309,1167,1,1,2,79,1988,Villa,Needs Renovation,1,2,3.45,1.94,4.34,3.62,130,79,3955488
+164,Navsari - Sector 11,Navsari,Gujarat,20.933058,72.955353,914,3,4,2,104,2013,Farmhouse,Good,3,10,3.34,3.8,4.53,2.2,146,50,2835603
+165,Anand - Sector 19,Anand,Gujarat,22.571872,72.941158,3461,3,2,1,35,2000,Penthouse,Good,3,10,0.54,2.73,4.44,2.01,73,55,12625422
+166,Godhra - Sector 8,Godhra,Gujarat,22.781407,73.600461,3484,1,2,2,44,2019,Apartment,New,1,1,3.03,3.36,4.36,2.99,103,99,9108618
+167,Porbandar - Sector 19,Porbandar,Gujarat,21.635585,69.616068,2464,5,1,3,144,2008,Farmhouse,Good,0,5,2.83,0.62,2.18,7.42,69,59,6837448
+168,Palanpur - Sector 18,Palanpur,Gujarat,24.161677,72.421217,3119,4,1,3,29,1998,Apartment,Needs Renovation,3,2,2.82,2.55,4.41,7.55,57,57,8490116
+169,Dwarka - Sector 8,Dwarka,Gujarat,22.257888,68.978437,3948,5,4,2,121,2000,Penthouse,Good,1,5,3.88,3.51,4.9,2.41,86,98,10990539
+170,Morbi - Sector 4,Morbi,Gujarat,22.83401,70.824601,3972,4,3,3,155,2002,Villa,Good,3,3,2.88,3.16,3.76,4.56,167,100,10824929
+171,Jamnagar - Sector 6,Jamnagar,Gujarat,22.476425,70.03923,1977,3,4,1,166,1998,Apartment,Needs Renovation,0,7,3.84,1.6,2.96,1.97,139,90,6377008
+172,Bhavnagar - Sector 16,Bhavnagar,Gujarat,21.776079,72.150112,2736,5,1,3,29,1980,Penthouse,Needs Renovation,0,1,4.28,1.0,2.38,2.49,157,62,9204664
+173,Surat - Sector 1,Surat,Gujarat,21.168424,72.826954,4501,4,3,1,168,2023,Studio,New,3,3,1.31,4.21,4.82,1.83,163,88,18147262
+174,Porbandar - Sector 5,Porbandar,Gujarat,21.653685,69.645113,4084,1,2,2,65,2018,Penthouse,New,1,6,1.04,0.85,2.8,7.52,181,53,9946085
+175,Veraval - Sector 5,Veraval,Gujarat,20.888071,70.372482,3571,5,1,2,65,2004,Studio,Good,1,5,4.03,2.88,4.62,7.99,169,93,8227871
+176,Palanpur - Sector 3,Palanpur,Gujarat,24.165199,72.438946,929,2,1,3,140,1993,Penthouse,Needs Renovation,2,3,1.27,1.15,0.97,2.27,171,51,2499600
+177,Nadiad - Sector 7,Nadiad,Gujarat,22.673456,72.855273,4900,1,4,1,189,2002,Independent House,Good,1,7,2.71,1.95,2.58,2.35,159,92,15119788
+178,Valsad - Sector 14,Valsad,Gujarat,20.61473,72.938221,915,4,4,1,131,2012,Row House,Good,3,9,3.67,2.29,4.42,5.97,163,65,2461603
+179,Gandhinagar - Sector 19,Gandhinagar,Gujarat,23.209854,72.617207,4198,2,1,2,90,2022,Row House,New,3,6,1.98,2.43,2.55,6.81,139,78,16235367
+180,Bhavnagar - Sector 18,Bhavnagar,Gujarat,21.752188,72.142972,4466,2,4,2,108,2025,Studio,New,2,4,4.14,1.99,0.87,3.8,165,92,14471930
+181,Nadiad - Sector 18,Nadiad,Gujarat,22.677308,72.846868,3930,2,3,3,36,2021,Farmhouse,New,1,8,2.29,1.83,3.57,6.03,146,64,11363120
+182,Dwarka - Sector 4,Dwarka,Gujarat,22.261955,68.966046,4818,5,2,1,166,2002,Independent House,Good,0,1,3.76,4.94,4.14,5.87,186,57,11076565
+183,Mehsana - Sector 18,Mehsana,Gujarat,23.582158,72.363878,4805,5,4,3,55,2011,Apartment,Good,3,2,1.74,2.86,4.18,1.65,113,86,15249135
+184,Anand - Sector 1,Anand,Gujarat,22.574571,72.925993,4290,5,3,3,108,1996,Independent House,Needs Renovation,1,2,3.29,2.58,0.62,7.72,106,68,13296693
+185,Navsari - Sector 11,Navsari,Gujarat,20.949662,72.955394,4989,3,1,3,144,2016,Independent House,Good,3,9,1.41,1.16,4.91,4.88,132,71,14849639
+186,Porbandar - Sector 16,Porbandar,Gujarat,21.658727,69.647712,2967,3,1,2,37,2022,Penthouse,New,2,5,0.91,2.36,3.89,8.94,166,79,7112144
+187,Godhra - Sector 3,Godhra,Gujarat,22.758107,73.616223,1755,3,3,1,135,2017,Studio,Good,2,5,3.27,1.68,3.48,7.84,164,57,3835091
+188,Gandhinagar - Sector 18,Gandhinagar,Gujarat,23.198934,72.639965,771,1,3,1,194,1982,Penthouse,Needs Renovation,3,5,2.64,2.66,1.51,9.36,138,81,2808980
+189,Palanpur - Sector 10,Palanpur,Gujarat,24.178612,72.455796,2503,1,1,1,132,2011,Penthouse,Good,3,4,1.2,4.78,1.8,4.77,114,74,6820717
+190,Vadodara - Sector 10,Vadodara,Gujarat,22.308996,73.17407,940,1,2,1,53,2021,Independent House,New,3,9,3.75,1.08,1.91,1.39,62,90,4114599
+191,Vadodara - Sector 13,Vadodara,Gujarat,22.3011,73.184695,4286,5,4,3,198,1987,Penthouse,Needs Renovation,0,1,2.52,4.24,1.43,9.74,113,53,14693348
+192,Rajkot - Sector 7,Rajkot,Gujarat,22.296769,70.797499,1131,5,3,2,140,2010,Farmhouse,Good,3,6,1.99,3.05,1.01,5.71,112,74,4003351
+193,Bhavnagar - Sector 9,Bhavnagar,Gujarat,21.76532,72.156988,3890,4,2,3,196,2021,Apartment,New,0,2,3.05,3.15,1.78,5.76,136,87,12489865
+194,Dwarka - Sector 14,Dwarka,Gujarat,22.260336,68.9844,639,3,1,2,34,1998,Farmhouse,Needs Renovation,2,1,1.82,0.61,2.03,5.86,180,73,1480222
+195,Surat - Sector 1,Surat,Gujarat,21.168245,72.838035,3072,3,3,2,136,2024,Independent House,New,1,1,1.18,4.41,3.91,4.04,99,76,12721139
+196,Godhra - Sector 7,Godhra,Gujarat,22.772842,73.628132,2403,4,4,1,57,2023,Independent House,New,1,8,3.83,1.64,1.98,3.51,128,64,6039785
+197,Nadiad - Sector 1,Nadiad,Gujarat,22.697216,72.852425,957,4,4,3,96,1991,Studio,Needs Renovation,0,1,4.42,4.12,2.57,2.67,161,98,2926180
+198,Gandhinagar - Sector 1,Gandhinagar,Gujarat,23.233598,72.648538,1947,3,3,1,133,2007,Independent House,Good,0,2,4.68,2.58,0.7,2.13,107,70,8655938
+199,Veraval - Sector 6,Veraval,Gujarat,20.918242,70.345034,4604,3,4,2,57,1980,Independent House,Needs Renovation,0,10,3.59,1.06,2.84,4.86,197,73,11014286
+200,Bharuch - Sector 4,Bharuch,Gujarat,21.685434,73.015222,576,2,1,3,110,2020,Villa,New,0,2,2.03,4.71,2.07,2.19,165,75,1816581
+201,Nadiad - Sector 16,Nadiad,Gujarat,22.674446,72.866237,530,4,3,2,32,1983,Independent House,Needs Renovation,3,8,4.16,4.12,2.42,5.04,178,50,1508220
+202,Ahmedabad - Sector 18,Ahmedabad,Gujarat,23.040628,72.577586,1089,4,3,3,29,2011,Apartment,Good,2,4,4.61,2.22,1.3,5.85,55,82,4997848
+203,Anand - Sector 4,Anand,Gujarat,22.561844,72.941721,4345,5,3,2,117,2021,Farmhouse,New,3,3,2.58,4.55,4.42,3.31,99,63,14988297
+204,Ahmedabad - Sector 15,Ahmedabad,Gujarat,23.019249,72.575765,2626,5,3,1,41,2018,Row House,New,2,10,0.51,3.64,1.81,9.66,121,86,10242646
+205,Dwarka - Sector 20,Dwarka,Gujarat,22.243929,68.951682,1244,4,4,3,122,2022,Penthouse,New,0,1,1.05,4.1,3.46,4.18,168,65,3035140
+206,Morbi - Sector 18,Morbi,Gujarat,22.818962,70.82113,3966,5,1,3,49,2008,Row House,Good,0,6,4.42,3.04,2.26,3.95,74,73,12176594
+207,Palanpur - Sector 3,Palanpur,Gujarat,24.164793,72.446594,4969,1,2,2,143,2023,Villa,New,0,7,4.66,4.84,4.04,3.94,138,67,13415569
+208,Valsad - Sector 8,Valsad,Gujarat,20.603372,72.933983,3570,5,4,3,108,1981,Independent House,Needs Renovation,3,1,0.52,4.44,3.8,7.33,154,76,9407713
+209,Ahmedabad - Sector 9,Ahmedabad,Gujarat,23.007101,72.556486,3664,3,4,1,105,2022,Independent House,New,3,7,3.96,4.53,4.21,7.46,56,63,16185183
+210,Morbi - Sector 5,Morbi,Gujarat,22.811529,70.834907,1740,5,4,2,86,2024,Studio,New,2,7,3.3,1.88,1.51,5.84,50,50,5255746
+211,Dwarka - Sector 7,Dwarka,Gujarat,22.227409,68.962614,3152,5,2,1,115,2018,Villa,New,2,8,2.3,2.89,1.18,7.07,192,71,6997427
+212,Nadiad - Sector 17,Nadiad,Gujarat,22.710456,72.864434,1197,3,2,3,181,2022,Row House,New,1,10,2.03,4.44,4.94,4.8,198,75,3341163
+213,Vadodara - Sector 3,Vadodara,Gujarat,22.287906,73.171278,4951,1,4,2,41,2019,Penthouse,New,2,5,3.79,1.45,0.96,8.03,52,59,18910868
+214,Dwarka - Sector 2,Dwarka,Gujarat,22.245564,68.974221,1626,2,1,3,160,1987,Row House,Needs Renovation,3,9,1.93,2.09,4.24,4.85,57,98,4430675
+215,Mehsana - Sector 6,Mehsana,Gujarat,23.60249,72.358652,2736,2,3,3,116,2023,Penthouse,New,2,5,4.78,2.23,4.67,7.28,62,97,8113007
+216,Jamnagar - Sector 6,Jamnagar,Gujarat,22.462156,70.044912,2426,2,4,3,27,2013,Apartment,Good,3,6,3.97,2.96,4.55,6.43,120,93,7255304
+217,Dwarka - Sector 10,Dwarka,Gujarat,22.249965,68.975893,1419,5,2,1,160,1982,Apartment,Needs Renovation,1,8,2.56,3.89,2.22,8.46,105,83,3376384
+218,Vadodara - Sector 12,Vadodara,Gujarat,22.303699,73.180066,2389,2,1,2,173,2001,Villa,Good,2,8,4.83,3.68,2.49,2.41,167,69,9091762
+219,Ahmedabad - Sector 13,Ahmedabad,Gujarat,23.035554,72.570916,2475,3,2,1,54,2012,Villa,Good,1,2,1.22,4.46,1.86,2.86,109,84,11434973
+220,Valsad - Sector 15,Valsad,Gujarat,20.588068,72.941175,4051,2,4,1,194,2024,Row House,New,1,1,2.13,3.21,4.18,4.28,127,70,11803357
+221,Morbi - Sector 4,Morbi,Gujarat,22.827635,70.845004,4309,4,3,1,80,1993,Farmhouse,Needs Renovation,2,7,3.12,3.88,4.9,3.54,111,82,12814154
+222,Rajkot - Sector 15,Rajkot,Gujarat,22.297528,70.784788,4611,2,2,1,38,1994,Studio,Needs Renovation,0,7,4.02,4.91,4.7,5.79,148,97,15631395
+223,Mehsana - Sector 15,Mehsana,Gujarat,23.570635,72.385973,4799,4,2,2,149,1989,Villa,Needs Renovation,0,9,4.48,4.52,4.63,8.93,156,98,12309760
+224,Dwarka - Sector 3,Dwarka,Gujarat,22.236514,68.980114,4769,5,4,3,66,1982,Penthouse,Needs Renovation,3,4,3.08,1.52,1.59,9.17,60,79,11714251
+225,Jamnagar - Sector 5,Jamnagar,Gujarat,22.464232,70.042091,3920,5,4,1,131,2009,Row House,Good,0,9,3.95,1.26,1.02,5.61,121,58,11930391
+226,Junagadh - Sector 11,Junagadh,Gujarat,21.534616,70.450969,1434,5,4,3,200,1987,Penthouse,Needs Renovation,1,10,0.87,0.88,2.9,7.18,131,79,4268797
+227,Ahmedabad - Sector 8,Ahmedabad,Gujarat,23.005324,72.583621,581,3,2,1,112,2010,Villa,Good,3,7,1.06,2.01,3.35,3.32,177,72,2455271
+228,Jamnagar - Sector 14,Jamnagar,Gujarat,22.473835,70.05071,2928,2,4,2,159,2019,Farmhouse,New,2,10,1.81,4.7,4.86,9.32,94,96,8417338
+229,Porbandar - Sector 20,Porbandar,Gujarat,21.624665,69.616507,811,4,1,2,110,2014,Row House,Good,1,9,1.03,0.99,1.45,8.68,185,99,1911775
+230,Vadodara - Sector 9,Vadodara,Gujarat,22.303531,73.190296,2663,1,4,2,36,2011,Villa,Good,2,9,3.61,2.66,3.28,4.31,94,66,10582584
+231,Valsad - Sector 9,Valsad,Gujarat,20.580926,72.946712,2800,4,3,2,137,1981,Penthouse,Needs Renovation,3,1,0.93,3.13,3.12,2.82,91,86,8766025
+232,Mehsana - Sector 7,Mehsana,Gujarat,23.598906,72.387224,3857,1,4,2,183,2012,Farmhouse,Good,3,2,2.2,2.23,1.19,2.37,98,53,12262202
+233,Dwarka - Sector 4,Dwarka,Gujarat,22.228477,68.958332,1096,3,3,2,179,1996,Farmhouse,Needs Renovation,3,9,2.77,1.19,0.8,9.76,179,59,2317350
+234,Valsad - Sector 5,Valsad,Gujarat,20.594184,72.934106,4442,1,3,1,91,2022,Studio,New,2,6,1.34,1.13,3.65,6.06,141,59,12239245
+235,Valsad - Sector 4,Valsad,Gujarat,20.607642,72.948446,972,2,4,3,35,1983,Penthouse,Needs Renovation,3,4,0.66,2.42,0.63,2.09,92,96,3086747
+236,Anand - Sector 5,Anand,Gujarat,22.582784,72.914837,4747,1,2,3,88,2005,Row House,Good,1,1,2.1,3.85,3.35,8.03,98,50,14735965
+237,Vadodara - Sector 11,Vadodara,Gujarat,22.324174,73.16135,4429,4,3,2,113,2024,Row House,New,0,2,1.2,1.07,0.66,5.38,50,56,18023124
+238,Morbi - Sector 16,Morbi,Gujarat,22.832521,70.853126,1871,5,3,2,122,1980,Studio,Needs Renovation,1,2,1.91,0.99,3.75,4.69,92,80,5542251
+239,Ahmedabad - Sector 6,Ahmedabad,Gujarat,23.025981,72.565912,3817,3,1,3,66,1981,Penthouse,Needs Renovation,3,4,3.35,4.45,1.72,4.33,132,79,16644301
+240,Palanpur - Sector 5,Palanpur,Gujarat,24.184728,72.442556,3708,5,4,2,63,2018,Studio,New,1,8,4.14,1.88,2.98,5.35,154,83,9524462
+241,Godhra - Sector 6,Godhra,Gujarat,22.782385,73.596977,566,1,3,2,121,2002,Apartment,Good,2,3,4.06,4.3,4.75,7.93,128,64,1287351
+242,Ahmedabad - Sector 2,Ahmedabad,Gujarat,23.034621,72.555933,3768,4,1,1,136,2024,Studio,New,2,4,2.28,3.17,4.84,7.78,141,88,15031937
+243,Palanpur - Sector 3,Palanpur,Gujarat,24.179755,72.455193,730,4,1,3,71,2016,Row House,Good,2,2,4.85,3.25,0.9,8.27,195,76,1667539
+244,Mehsana - Sector 3,Mehsana,Gujarat,23.591227,72.357129,1144,5,4,1,170,2025,Independent House,New,3,3,4.85,0.76,2.71,5.14,199,81,3041932
+245,Bharuch - Sector 13,Bharuch,Gujarat,21.713503,72.997931,651,5,3,2,120,2004,Villa,Good,2,4,2.03,2.88,1.89,8.34,185,51,1746163
+246,Ahmedabad - Sector 4,Ahmedabad,Gujarat,23.03425,72.581942,4869,1,3,2,92,2008,Independent House,Good,2,2,2.96,1.27,3.23,8.9,174,94,18182530
+247,Bhavnagar - Sector 3,Bhavnagar,Gujarat,21.772026,72.16279,4841,2,4,3,107,2002,Penthouse,Good,1,6,3.87,3.04,4.44,7.55,157,93,14551897
+248,Morbi - Sector 4,Morbi,Gujarat,22.833873,70.836056,3451,3,1,1,187,2025,Farmhouse,New,3,10,4.31,1.3,1.41,6.6,135,59,9327887
+249,Veraval - Sector 15,Veraval,Gujarat,20.916199,70.38184,4137,1,4,1,169,2002,Apartment,Good,2,1,0.76,2.32,3.11,3.14,168,59,10645230
+250,Porbandar - Sector 10,Porbandar,Gujarat,21.636333,69.637182,2585,1,1,1,139,2018,Studio,New,1,9,2.72,4.93,2.17,9.23,95,100,6676485
+251,Vadodara - Sector 4,Vadodara,Gujarat,22.287563,73.186693,1909,2,4,1,46,2021,Villa,New,1,1,2.44,2.56,1.07,4.22,62,87,7869656
+252,Ahmedabad - Sector 19,Ahmedabad,Gujarat,23.026201,72.588618,724,3,1,1,78,2024,Studio,New,1,7,3.47,2.08,4.74,6.36,131,88,3020200
+253,Navsari - Sector 9,Navsari,Gujarat,20.952404,72.969999,3670,1,4,1,63,1991,Independent House,Needs Renovation,2,8,4.04,4.93,1.8,1.93,134,74,11611054
+254,Palanpur - Sector 2,Palanpur,Gujarat,24.18514,72.453998,1498,5,3,2,45,1991,Studio,Needs Renovation,2,1,3.53,3.46,1.05,3.89,129,79,4091042
+255,Morbi - Sector 18,Morbi,Gujarat,22.798398,70.85547,1457,2,1,1,138,2020,Apartment,New,0,5,2.65,3.03,2.73,1.71,149,100,4311007
+256,Veraval - Sector 3,Veraval,Gujarat,20.922495,70.36269,3674,5,1,1,103,1994,Row House,Needs Renovation,1,8,3.78,4.44,3.38,5.14,197,69,8734899
+257,Bhavnagar - Sector 19,Bhavnagar,Gujarat,21.780842,72.140476,4431,4,4,3,184,2023,Penthouse,New,1,7,3.41,2.07,3.03,2.47,175,78,14594956
+258,Navsari - Sector 12,Navsari,Gujarat,20.964492,72.962888,4085,4,1,3,25,2021,Farmhouse,New,1,5,3.12,4.46,0.7,8.45,197,92,10358389
+259,Navsari - Sector 14,Navsari,Gujarat,20.952582,72.943676,1513,3,1,1,109,2018,Independent House,New,3,1,4.58,2.58,2.76,6.67,186,77,4055698
+260,Dwarka - Sector 6,Dwarka,Gujarat,22.225973,68.972927,731,2,4,1,107,2019,Studio,New,1,4,4.65,2.09,1.05,3.03,77,78,2028241
+261,Veraval - Sector 12,Veraval,Gujarat,20.917838,70.382439,3640,4,3,1,192,2006,Penthouse,Good,1,9,2.64,4.35,1.07,4.73,166,71,9070304
+262,Junagadh - Sector 17,Junagadh,Gujarat,21.527677,70.462943,1716,2,1,1,146,1999,Penthouse,Needs Renovation,3,3,0.92,4.3,4.77,6.71,163,54,4974166
+263,Nadiad - Sector 16,Nadiad,Gujarat,22.679402,72.874874,3198,5,2,3,169,2020,Apartment,New,1,9,1.8,4.88,3.74,5.83,64,70,10180577
+264,Valsad - Sector 16,Valsad,Gujarat,20.591302,72.928992,3823,1,2,3,81,2015,Farmhouse,Good,2,8,3.15,2.99,3.01,4.15,128,89,11157913
+265,Gandhinagar - Sector 20,Gandhinagar,Gujarat,23.228871,72.649313,2906,5,3,1,99,1981,Row House,Needs Renovation,1,2,4.6,2.57,0.68,8.64,98,55,11274986
+266,Rajkot - Sector 16,Rajkot,Gujarat,22.311041,70.795747,684,5,3,1,31,2020,Independent House,New,3,3,4.38,1.54,3.92,6.55,107,76,2388580
+267,Morbi - Sector 3,Morbi,Gujarat,22.81935,70.856251,3467,4,1,2,106,1991,Row House,Needs Renovation,1,6,4.23,3.79,3.06,8.13,80,79,9615616
+268,Bhavnagar - Sector 7,Bhavnagar,Gujarat,21.776868,72.157427,1608,4,3,3,163,2006,Independent House,Good,1,7,1.48,4.8,1.33,8.93,131,54,4820696
+269,Rajkot - Sector 1,Rajkot,Gujarat,22.288803,70.81583,3573,1,1,3,32,2025,Farmhouse,New,3,5,1.6,2.87,2.5,5.94,83,72,12992399
+270,Gandhinagar - Sector 20,Gandhinagar,Gujarat,23.226396,72.647567,1827,5,4,1,75,2023,Penthouse,New,1,1,4.09,1.2,0.89,9.84,161,74,6402175
+271,Godhra - Sector 17,Godhra,Gujarat,22.764029,73.621361,4181,3,4,2,61,1985,Studio,Needs Renovation,0,2,1.81,4.1,2.19,9.14,156,58,8939488
+272,Palanpur - Sector 11,Palanpur,Gujarat,24.169967,72.445205,4302,3,1,2,163,1996,Row House,Needs Renovation,3,9,2.07,1.96,1.21,8.14,188,65,9943392
+273,Jamnagar - Sector 13,Jamnagar,Gujarat,22.480999,70.047381,3735,2,1,3,102,2012,Apartment,Good,1,10,4.02,2.76,2.12,3.32,89,64,12388948
+274,Valsad - Sector 7,Valsad,Gujarat,20.601148,72.948264,4581,4,1,1,181,2021,Farmhouse,New,3,4,1.77,0.99,4.94,8.26,124,86,12227557
+275,Valsad - Sector 16,Valsad,Gujarat,20.606061,72.945153,1372,2,4,3,134,2005,Studio,Good,2,9,3.33,4.18,3.37,8.8,174,60,3408428
+276,Anand - Sector 13,Anand,Gujarat,22.571859,72.9272,4794,1,1,1,104,2021,Apartment,New,0,2,4.53,1.62,2.8,8.56,82,82,14954583
+277,Jamnagar - Sector 12,Jamnagar,Gujarat,22.479459,70.074569,1377,5,1,1,31,1991,Row House,Needs Renovation,0,6,2.92,2.25,1.92,2.92,183,80,4131303
+278,Mehsana - Sector 11,Mehsana,Gujarat,23.60755,72.355309,4514,4,1,2,160,2018,Farmhouse,New,0,5,2.05,0.81,3.39,9.54,64,51,12650130
+279,Dwarka - Sector 16,Dwarka,Gujarat,22.229238,68.949178,4376,1,1,1,122,1990,Penthouse,Needs Renovation,3,7,2.34,1.36,1.51,4.85,105,61,11317176
+280,Rajkot - Sector 12,Rajkot,Gujarat,22.323747,70.815223,3248,1,2,2,180,2012,Row House,Good,3,8,1.23,4.37,0.91,7.69,168,85,10290225
+281,Valsad - Sector 10,Valsad,Gujarat,20.59823,72.926931,4237,4,4,2,101,1999,Independent House,Needs Renovation,3,4,2.29,1.82,4.65,1.32,185,92,12271269
+282,Godhra - Sector 20,Godhra,Gujarat,22.766605,73.628478,3425,2,2,3,99,1995,Apartment,Needs Renovation,3,9,0.7,4.41,2.92,8.06,119,57,7846149
+283,Junagadh - Sector 12,Junagadh,Gujarat,21.520715,70.43938,1030,2,4,2,41,1998,Villa,Needs Renovation,3,6,2.15,0.85,3.48,7.29,134,75,3047717
+284,Surat - Sector 13,Surat,Gujarat,21.163265,72.839601,1281,5,2,2,83,2005,Row House,Good,1,5,3.51,1.76,4.18,8.9,152,96,4464643
+285,Veraval - Sector 17,Veraval,Gujarat,20.916213,70.36325,4392,3,2,3,24,2023,Apartment,New,1,5,4.07,3.85,1.5,1.03,173,88,11739291
+286,Nadiad - Sector 20,Nadiad,Gujarat,22.68397,72.8454,4592,5,3,1,79,2021,Penthouse,New,3,7,4.94,3.02,2.89,6.67,174,64,12654976
+287,Porbandar - Sector 7,Porbandar,Gujarat,21.638383,69.627019,3673,5,2,2,69,2008,Row House,Good,2,10,0.67,2.63,2.83,3.7,105,69,10654252
+288,Navsari - Sector 15,Navsari,Gujarat,20.95686,72.96936,4685,5,1,3,133,1986,Independent House,Needs Renovation,3,1,2.12,1.68,1.61,7.02,74,62,14171002
+289,Palanpur - Sector 17,Palanpur,Gujarat,24.173321,72.446091,1656,2,3,2,170,1999,Penthouse,Needs Renovation,0,8,3.2,4.1,4.15,3.01,124,82,4635310
+290,Navsari - Sector 7,Navsari,Gujarat,20.927454,72.949551,1086,2,1,2,21,1987,Studio,Needs Renovation,1,4,4.3,1.3,2.98,1.37,138,86,3459831
+291,Anand - Sector 4,Anand,Gujarat,22.553439,72.92666,2596,1,2,1,148,2023,Villa,New,0,5,0.88,1.48,0.82,8.74,168,99,7307538
+292,Dwarka - Sector 19,Dwarka,Gujarat,22.242244,68.982242,3593,1,3,3,114,2020,Apartment,New,1,8,1.02,1.64,3.83,5.25,170,73,8540992
+293,Palanpur - Sector 7,Palanpur,Gujarat,24.152896,72.441404,2322,5,3,2,146,2001,Independent House,Good,2,1,4.09,3.1,0.65,5.91,195,81,5604115
+294,Dwarka - Sector 14,Dwarka,Gujarat,22.250606,68.977738,922,1,2,2,38,1991,Villa,Needs Renovation,1,1,2.69,1.11,1.74,7.42,137,54,2168339
+295,Navsari - Sector 15,Navsari,Gujarat,20.947039,72.967867,1211,5,4,2,163,2024,Studio,New,0,2,2.11,1.23,1.59,6.54,60,100,3759891
+296,Bhavnagar - Sector 7,Bhavnagar,Gujarat,21.770848,72.153648,3359,5,3,2,40,1994,Studio,Needs Renovation,2,3,1.95,2.36,1.11,7.5,187,75,9749195
+297,Junagadh - Sector 14,Junagadh,Gujarat,21.52603,70.45306,3971,3,3,1,167,2004,Penthouse,Good,3,8,2.55,0.95,2.02,6.76,118,53,12115578
+298,Ahmedabad - Sector 10,Ahmedabad,Gujarat,23.013788,72.56432,940,1,4,2,187,1982,Villa,Needs Renovation,3,3,2.15,4.51,1.34,6.85,174,85,3685372
+299,Vadodara - Sector 9,Vadodara,Gujarat,22.311467,73.164088,4925,1,4,2,65,2000,Studio,Good,3,1,2.34,4.48,4.93,7.82,178,52,16392902
+300,Rajkot - Sector 9,Rajkot,Gujarat,22.319163,70.817041,3335,3,2,3,196,1988,Independent House,Needs Renovation,2,6,1.79,3.5,3.93,6.87,145,62,11068376
+301,Godhra - Sector 2,Godhra,Gujarat,22.777847,73.597454,4287,4,4,2,156,1999,Farmhouse,Needs Renovation,2,4,3.61,2.44,2.81,4.58,60,53,11348021
+302,Surat - Sector 5,Surat,Gujarat,21.162189,72.848005,3209,2,2,3,128,1987,Independent House,Needs Renovation,3,10,2.69,4.75,3.62,4.32,143,84,12562516
+303,Veraval - Sector 16,Veraval,Gujarat,20.901742,70.356384,4082,5,2,2,114,2018,Villa,New,3,4,4.23,3.54,1.48,1.87,186,50,10554974
+304,Valsad - Sector 3,Valsad,Gujarat,20.581714,72.946131,4242,5,2,2,174,2023,Apartment,New,3,4,2.74,2.04,3.92,5.31,153,100,11721610
+305,Anand - Sector 19,Anand,Gujarat,22.571121,72.93575,4492,2,4,1,156,1988,Apartment,Needs Renovation,2,3,4.42,2.14,4.24,1.05,89,72,16425729
+306,Navsari - Sector 9,Navsari,Gujarat,20.952592,72.956051,1526,2,3,2,51,1996,Villa,Needs Renovation,1,9,1.18,4.04,3.85,6.84,185,100,4079502
+307,Morbi - Sector 1,Morbi,Gujarat,22.811431,70.850489,1119,3,1,2,132,1997,Independent House,Needs Renovation,0,7,0.63,3.06,1.99,8.85,76,79,3063404
+308,Bhavnagar - Sector 2,Bhavnagar,Gujarat,21.745841,72.170085,1686,2,1,1,111,2018,Row House,New,0,5,4.26,3.34,3.29,7.64,95,58,5429269
+309,Surat - Sector 5,Surat,Gujarat,21.164792,72.823203,4325,1,3,1,182,2008,Farmhouse,Good,2,5,3.97,1.43,2.17,6.32,106,59,16889090
+310,Navsari - Sector 1,Navsari,Gujarat,20.936144,72.957242,3939,4,1,3,92,2023,Villa,New,3,3,3.45,4.62,1.67,3.85,191,77,11176859
+311,Dwarka - Sector 19,Dwarka,Gujarat,22.22594,68.970041,796,4,4,2,182,1980,Studio,Needs Renovation,3,8,0.82,3.92,1.88,4.52,93,66,2101458
+312,Palanpur - Sector 18,Palanpur,Gujarat,24.176729,72.440015,4755,1,1,3,179,2009,Villa,Good,3,8,1.68,2.87,1.47,5.2,166,69,12081017
+313,Morbi - Sector 18,Morbi,Gujarat,22.819998,70.830187,1665,2,3,1,99,2025,Farmhouse,New,0,3,1.85,1.75,3.74,1.95,115,72,5097807
+314,Gandhinagar - Sector 5,Gandhinagar,Gujarat,23.198851,72.629789,2032,5,2,3,112,1987,Studio,Needs Renovation,3,3,1.44,3.91,4.48,5.3,126,67,8256120
+315,Rajkot - Sector 20,Rajkot,Gujarat,22.295656,70.796269,4630,5,4,1,123,2023,Villa,New,1,7,4.79,2.25,3.96,6.82,170,77,14934277
+316,Rajkot - Sector 14,Rajkot,Gujarat,22.314941,70.790704,3666,1,4,1,168,1991,Penthouse,Needs Renovation,1,9,0.8,1.21,1.65,7.25,199,53,11298052
+317,Bharuch - Sector 5,Bharuch,Gujarat,21.720549,73.00886,3059,4,3,2,43,2010,Apartment,Good,2,9,2.16,4.31,4.79,1.6,148,73,9965326
+318,Porbandar - Sector 16,Porbandar,Gujarat,21.64592,69.637058,1638,1,1,3,20,2005,Apartment,Good,3,2,0.84,2.98,0.84,7.29,145,71,4187044
+319,Bharuch - Sector 20,Bharuch,Gujarat,21.717352,73.002096,3760,3,4,2,135,2018,Row House,New,3,10,2.44,1.96,0.94,8.51,57,78,11621710
+320,Navsari - Sector 13,Navsari,Gujarat,20.953111,72.965351,3718,3,2,3,200,2021,Apartment,New,1,4,3.0,4.32,0.63,9.4,96,63,10370923
+321,Gandhinagar - Sector 4,Gandhinagar,Gujarat,23.218318,72.653225,1767,5,3,3,46,2021,Farmhouse,New,0,10,1.59,4.58,3.12,9.71,119,98,6522935
+322,Surat - Sector 5,Surat,Gujarat,21.163541,72.850577,1105,5,1,3,90,2023,Farmhouse,New,2,2,4.55,3.98,0.94,1.46,149,93,4564483
+323,Jamnagar - Sector 2,Jamnagar,Gujarat,22.487776,70.067528,4440,4,3,2,73,1991,Apartment,Needs Renovation,3,10,3.15,2.09,2.52,9.71,57,51,13157898
+324,Junagadh - Sector 20,Junagadh,Gujarat,21.516525,70.472837,2630,4,3,1,61,2006,Penthouse,Good,3,1,0.8,4.93,2.64,9.11,163,59,7200925
+325,Gandhinagar - Sector 16,Gandhinagar,Gujarat,23.195717,72.643945,3833,3,4,3,112,2001,Farmhouse,Good,0,1,1.51,2.15,4.03,2.88,152,93,15928441
+326,Surat - Sector 3,Surat,Gujarat,21.178496,72.843,3308,3,3,1,136,2005,Row House,Good,0,2,1.14,4.9,0.55,2.44,138,82,13561714
+327,Ahmedabad - Sector 12,Ahmedabad,Gujarat,23.013221,72.563609,981,1,2,3,180,2017,Independent House,Good,3,8,3.78,3.62,0.61,8.22,154,100,3814173
+328,Anand - Sector 14,Anand,Gujarat,22.546578,72.925613,2499,1,2,2,84,2025,Row House,New,3,10,0.63,1.06,0.55,4.88,99,69,8330556
+329,Dwarka - Sector 19,Dwarka,Gujarat,22.259288,68.969731,3004,1,4,2,170,2020,Farmhouse,New,2,8,4.63,3.81,1.01,7.16,180,52,6753722
+330,Mehsana - Sector 10,Mehsana,Gujarat,23.573056,72.379053,818,1,1,1,179,2002,Penthouse,Good,3,2,2.19,0.82,1.89,4.64,172,91,2273465
+331,Ahmedabad - Sector 3,Ahmedabad,Gujarat,23.015891,72.557618,4966,2,3,1,109,2009,Row House,Good,2,7,2.81,3.91,0.74,6.38,108,56,21254452
+332,Palanpur - Sector 13,Palanpur,Gujarat,24.182743,72.432495,3765,5,4,1,168,2024,Penthouse,New,0,5,0.94,3.96,1.38,5.54,114,62,10085027
+333,Gandhinagar - Sector 16,Gandhinagar,Gujarat,23.22654,72.618725,1454,2,3,2,196,1993,Villa,Needs Renovation,3,6,3.4,3.9,1.36,8.68,178,72,5136057
+334,Ahmedabad - Sector 17,Ahmedabad,Gujarat,23.020632,72.558375,4302,1,4,2,190,2006,Studio,Good,3,6,2.86,4.2,4.94,6.65,133,91,17785713
+335,Junagadh - Sector 13,Junagadh,Gujarat,21.539251,70.453038,1883,5,1,2,189,2019,Row House,New,2,7,1.77,1.24,4.91,5.88,81,66,6107891
+336,Junagadh - Sector 16,Junagadh,Gujarat,21.526306,70.466888,4849,2,3,1,80,2018,Farmhouse,New,0,9,4.51,3.74,4.82,1.89,179,55,15322184
+337,Valsad - Sector 20,Valsad,Gujarat,20.579205,72.932476,3214,4,3,3,107,2025,Row House,New,1,7,1.16,2.38,1.71,2.64,125,91,9722735
+338,Rajkot - Sector 12,Rajkot,Gujarat,22.301323,70.794422,2803,3,2,2,149,2023,Apartment,New,2,6,1.92,1.77,2.88,5.23,142,72,9690361
+339,Jamnagar - Sector 1,Jamnagar,Gujarat,22.45464,70.063524,4962,2,4,3,101,1985,Studio,Needs Renovation,2,10,3.75,2.05,2.08,8.38,68,95,15013064
+340,Morbi - Sector 1,Morbi,Gujarat,22.810538,70.824263,1735,1,1,3,36,1994,Penthouse,Needs Renovation,3,6,2.84,1.63,4.53,5.22,124,71,4900271
+341,Rajkot - Sector 16,Rajkot,Gujarat,22.28558,70.809111,537,3,4,3,111,2008,Independent House,Good,3,10,2.82,3.62,1.27,7.23,101,60,1858299
+342,Veraval - Sector 12,Veraval,Gujarat,20.920918,70.382165,810,1,1,2,145,1989,Independent House,Needs Renovation,3,10,3.64,3.89,1.08,3.72,75,84,2288569
+343,Palanpur - Sector 11,Palanpur,Gujarat,24.152679,72.449314,4716,2,2,3,66,1985,Apartment,Needs Renovation,1,7,3.23,1.38,4.94,6.97,127,51,12046705
+344,Godhra - Sector 17,Godhra,Gujarat,22.770135,73.630983,1579,1,3,2,193,2022,Villa,New,0,5,2.45,0.89,3.72,9.43,134,80,3439511
+345,Veraval - Sector 13,Veraval,Gujarat,20.892825,70.378374,1033,5,2,1,93,2002,Villa,Good,0,5,2.15,1.21,0.84,6.4,93,62,2696112
+346,Nadiad - Sector 4,Nadiad,Gujarat,22.700529,72.846686,1983,1,3,1,35,1983,Row House,Needs Renovation,3,7,2.49,1.86,3.37,5.11,108,98,6114034
+347,Bharuch - Sector 3,Bharuch,Gujarat,21.72064,73.004463,1388,1,3,2,197,1987,Farmhouse,Needs Renovation,2,10,0.52,4.97,4.04,8.88,166,80,3760414
+348,Rajkot - Sector 15,Rajkot,Gujarat,22.300505,70.806746,2565,1,2,1,194,2015,Villa,Good,0,3,4.36,0.79,2.87,9.64,149,68,7928857
+349,Bharuch - Sector 14,Bharuch,Gujarat,21.715702,72.999877,3766,2,3,3,100,2022,Apartment,New,2,8,4.25,1.3,3.03,8.75,147,90,10468401
+350,Porbandar - Sector 13,Porbandar,Gujarat,21.642994,69.612829,4030,2,2,2,95,1981,Row House,Needs Renovation,0,7,1.71,3.16,4.3,4.63,166,83,10674263
+351,Godhra - Sector 14,Godhra,Gujarat,22.791187,73.628282,702,4,3,3,160,2025,Studio,New,2,3,2.07,3.83,3.36,6.22,75,70,1762569
+352,Ahmedabad - Sector 18,Ahmedabad,Gujarat,23.022991,72.586535,1849,5,3,3,155,2009,Studio,Good,1,5,0.51,3.25,4.45,8.56,55,61,7964915
+353,Mehsana - Sector 12,Mehsana,Gujarat,23.602426,72.358539,1576,1,2,3,145,2015,Villa,Good,2,1,1.65,1.2,0.54,9.11,145,94,4077285
+354,Gandhinagar - Sector 1,Gandhinagar,Gujarat,23.207792,72.617804,2959,4,4,2,190,2019,Farmhouse,New,0,2,3.79,1.34,3.12,8.57,134,90,11041069
+355,Bhavnagar - Sector 7,Bhavnagar,Gujarat,21.775697,72.156687,1514,4,2,3,40,2004,Farmhouse,Good,0,7,1.84,3.05,2.99,5.12,177,66,4697403
+356,Surat - Sector 5,Surat,Gujarat,21.186306,72.81222,3806,5,2,2,133,1993,Apartment,Needs Renovation,0,2,0.62,4.75,2.07,1.26,129,63,16157436
+357,Vadodara - Sector 16,Vadodara,Gujarat,22.319518,73.162684,2116,1,1,3,184,2024,Studio,New,2,8,3.82,0.5,2.11,9.76,53,83,7740960
+358,Vadodara - Sector 15,Vadodara,Gujarat,22.322428,73.170358,1178,2,4,3,26,1988,Apartment,Needs Renovation,0,7,4.63,1.31,3.15,2.76,154,94,4519566
+359,Dwarka - Sector 6,Dwarka,Gujarat,22.263359,68.981402,4731,5,1,2,45,2007,Apartment,Good,1,1,4.71,2.45,3.21,1.49,185,54,11970762
+360,Nadiad - Sector 6,Nadiad,Gujarat,22.704125,72.874715,3427,5,4,2,43,1993,Apartment,Needs Renovation,3,7,1.0,4.72,4.98,2.04,109,59,11276172
+361,Jamnagar - Sector 11,Jamnagar,Gujarat,22.465308,70.075895,4705,3,4,3,66,2002,Villa,Good,3,7,3.1,2.54,3.02,5.75,74,100,15037598
+362,Rajkot - Sector 1,Rajkot,Gujarat,22.304555,70.810756,3191,4,1,2,187,2004,Studio,Good,3,6,3.2,2.29,4.11,3.06,91,94,12253955
+363,Dwarka - Sector 15,Dwarka,Gujarat,22.259222,68.964635,1934,4,4,3,74,2012,Villa,Good,3,8,1.57,2.47,1.58,5.18,146,64,4737684
+364,Junagadh - Sector 17,Junagadh,Gujarat,21.530822,70.463849,2340,2,2,3,188,2021,Farmhouse,New,0,10,4.21,4.02,0.57,8.73,124,72,6767751
+365,Dwarka - Sector 9,Dwarka,Gujarat,22.246238,68.95994,3395,2,1,2,80,2020,Independent House,New,1,8,4.83,1.23,2.02,1.37,121,81,9287800
+366,Valsad - Sector 2,Valsad,Gujarat,20.601168,72.926997,2534,5,2,3,68,2004,Apartment,Good,3,5,2.87,3.94,0.75,4.91,181,61,6831146
+367,Morbi - Sector 7,Morbi,Gujarat,22.828019,70.850673,753,3,1,3,77,1987,Independent House,Needs Renovation,2,8,4.57,4.89,3.87,2.67,200,60,2052834
+368,Mehsana - Sector 15,Mehsana,Gujarat,23.570248,72.372089,2295,3,1,3,86,2022,Studio,New,2,1,2.12,3.32,3.61,5.53,108,91,6736687
+369,Nadiad - Sector 7,Nadiad,Gujarat,22.702658,72.863823,4537,4,2,2,121,1998,Farmhouse,Needs Renovation,2,1,1.52,1.83,1.52,5.15,139,66,13490408
+370,Porbandar - Sector 17,Porbandar,Gujarat,21.624441,69.612585,2085,1,2,3,35,2005,Penthouse,Good,2,7,1.16,3.9,4.25,8.46,122,85,5323105
+371,Mehsana - Sector 13,Mehsana,Gujarat,23.585102,72.369408,2621,2,2,1,53,2019,Villa,New,3,3,0.76,0.93,2.74,1.78,96,72,8454625
+372,Vadodara - Sector 11,Vadodara,Gujarat,22.307726,73.170323,2122,1,4,1,186,1981,Row House,Needs Renovation,3,2,2.22,1.23,1.24,4.74,137,78,7956864
+373,Mehsana - Sector 4,Mehsana,Gujarat,23.601463,72.350017,1375,1,3,1,178,1992,Penthouse,Needs Renovation,1,3,2.44,3.68,2.86,2.49,85,90,4423240
+374,Godhra - Sector 2,Godhra,Gujarat,22.774295,73.623995,3766,5,1,2,39,2021,Independent House,New,1,6,3.15,1.49,1.46,3.47,180,86,8908793
+375,Bharuch - Sector 6,Bharuch,Gujarat,21.720079,72.986666,562,4,3,2,155,2020,Penthouse,New,2,2,4.1,2.07,0.53,3.52,147,77,1760267
+376,Jamnagar - Sector 5,Jamnagar,Gujarat,22.469913,70.076794,3866,1,4,2,130,1985,Farmhouse,Needs Renovation,1,9,0.82,2.48,2.41,8.32,184,83,10255912
+377,Rajkot - Sector 2,Rajkot,Gujarat,22.307881,70.798823,4876,5,2,2,138,1986,Apartment,Needs Renovation,0,2,2.96,0.68,2.97,2.73,166,82,17300468
+378,Anand - Sector 8,Anand,Gujarat,22.552809,72.922875,4776,1,1,1,146,2025,Studio,New,0,7,1.46,0.88,2.11,6.03,60,65,16186855
+379,Nadiad - Sector 5,Nadiad,Gujarat,22.708332,72.861644,808,2,2,3,62,2017,Villa,Good,3,5,3.67,4.97,4.29,4.47,137,70,2444615
+380,Vadodara - Sector 12,Vadodara,Gujarat,22.325045,73.18779,1879,1,2,2,55,2007,Independent House,Good,2,10,4.36,4.51,4.56,6.73,72,72,7243240
+381,Junagadh - Sector 3,Junagadh,Gujarat,21.533154,70.45998,4591,3,4,2,50,2008,Villa,Good,1,1,1.89,1.91,4.49,9.48,157,61,12545682
+382,Morbi - Sector 9,Morbi,Gujarat,22.834208,70.819388,1769,3,3,2,136,2013,Apartment,Good,1,6,1.36,3.83,2.45,4.91,97,91,5185949
+383,Rajkot - Sector 5,Rajkot,Gujarat,22.321864,70.793162,3243,3,1,3,26,1999,Farmhouse,Needs Renovation,0,4,0.65,1.01,3.25,2.16,80,57,12846015
+384,Ahmedabad - Sector 8,Ahmedabad,Gujarat,23.036068,72.56087,4344,4,4,1,78,2021,Apartment,New,2,8,4.44,3.59,3.38,6.94,132,83,17859786
+385,Rajkot - Sector 1,Rajkot,Gujarat,22.284189,70.783958,3352,3,2,3,115,2005,Independent House,Good,1,2,1.24,2.27,0.54,8.79,95,90,11251170
+386,Junagadh - Sector 10,Junagadh,Gujarat,21.529305,70.442022,4407,1,3,3,199,2012,Farmhouse,Good,1,6,0.83,0.84,2.28,8.14,108,89,13164280
+387,Valsad - Sector 11,Valsad,Gujarat,20.588445,72.914438,3111,5,4,2,125,2024,Row House,New,2,1,3.85,4.41,3.23,3.02,130,60,9282290
+388,Surat - Sector 9,Surat,Gujarat,21.162475,72.835741,4493,2,3,3,112,2024,Penthouse,New,3,5,3.16,1.91,3.27,3.79,90,98,18893559
+389,Valsad - Sector 11,Valsad,Gujarat,20.60617,72.94014,3345,4,1,3,50,1981,Penthouse,Needs Renovation,1,1,3.09,4.22,2.5,6.97,61,98,9866336
+390,Nadiad - Sector 9,Nadiad,Gujarat,22.676495,72.868955,593,5,2,2,129,2013,Independent House,Good,3,10,4.17,0.9,1.65,9.42,192,88,1497162
+391,Morbi - Sector 13,Morbi,Gujarat,22.833563,70.848185,3584,2,4,2,36,2025,Farmhouse,New,3,6,3.63,4.77,1.75,6.04,165,82,9472064
+392,Mehsana - Sector 7,Mehsana,Gujarat,23.571654,72.388299,1709,3,1,1,121,2002,Farmhouse,Good,1,2,1.99,4.09,1.05,8.3,53,65,4994129
+393,Ahmedabad - Sector 17,Ahmedabad,Gujarat,23.039248,72.567196,4782,2,3,2,36,2020,Apartment,New,3,4,3.97,4.62,3.24,6.4,150,50,19494301
+394,Valsad - Sector 10,Valsad,Gujarat,20.582611,72.951414,1394,1,4,1,52,2019,Villa,New,1,8,2.55,0.55,1.77,6.1,124,65,3913400
+395,Porbandar - Sector 5,Porbandar,Gujarat,21.63145,69.63761,2619,4,4,2,75,2015,Independent House,Good,0,2,0.57,3.46,4.88,4.75,141,56,7125991
+396,Junagadh - Sector 3,Junagadh,Gujarat,21.523788,70.465411,1421,4,2,2,104,2018,Studio,New,3,9,3.31,0.88,4.33,8.42,117,85,4173777
+397,Anand - Sector 17,Anand,Gujarat,22.557741,72.93685,849,3,4,1,26,1982,Row House,Needs Renovation,0,2,4.79,0.64,3.69,1.49,136,76,2917874
+398,Bhavnagar - Sector 18,Bhavnagar,Gujarat,21.7648,72.141677,4987,1,3,1,134,1983,Farmhouse,Needs Renovation,1,9,1.04,2.89,0.76,8.3,90,72,15896301
+399,Valsad - Sector 6,Valsad,Gujarat,20.606821,72.931569,1620,1,2,1,44,1990,Independent House,Needs Renovation,1,7,0.74,3.73,0.53,1.82,54,74,5390087
+400,Morbi - Sector 17,Morbi,Gujarat,22.834155,70.833649,4768,1,2,3,62,2000,Farmhouse,Good,2,5,2.99,1.8,1.71,7.9,92,63,13123107
+401,Bharuch - Sector 20,Bharuch,Gujarat,21.691781,72.976675,2936,4,4,1,144,2019,Row House,New,3,9,3.41,1.92,3.28,6.21,158,79,8552048
+402,Palanpur - Sector 1,Palanpur,Gujarat,24.181692,72.449499,4151,1,4,3,46,1987,Apartment,Needs Renovation,3,5,2.52,4.71,4.89,2.1,137,83,11668309
+403,Anand - Sector 18,Anand,Gujarat,22.554118,72.922275,2075,5,2,2,182,1994,Penthouse,Needs Renovation,3,5,0.64,4.39,1.15,6.69,148,73,6278555
+404,Junagadh - Sector 10,Junagadh,Gujarat,21.537011,70.456176,2956,4,1,3,54,2013,Row House,Good,1,8,4.51,0.73,3.79,6.57,161,88,8616803
+405,Ahmedabad - Sector 17,Ahmedabad,Gujarat,23.009627,72.583743,2322,2,1,3,73,1984,Independent House,Needs Renovation,0,4,4.59,0.93,0.69,8.35,187,58,8648891
+406,Dwarka - Sector 7,Dwarka,Gujarat,22.25729,68.952982,4910,3,2,2,82,2023,Apartment,New,3,9,2.13,0.84,1.14,4.18,132,100,12497877
+407,Anand - Sector 12,Anand,Gujarat,22.554597,72.914541,4792,3,2,1,187,1986,Studio,Needs Renovation,1,9,1.68,2.66,1.14,3.43,156,98,15444695
+408,Surat - Sector 11,Surat,Gujarat,21.179113,72.820999,2024,2,2,3,192,1991,Penthouse,Needs Renovation,2,5,3.77,4.29,2.14,9.77,140,56,7002594
+409,Porbandar - Sector 1,Porbandar,Gujarat,21.641967,69.619287,1898,2,1,1,52,2018,Farmhouse,New,0,10,1.61,4.16,0.72,9.04,107,90,4859657
+410,Gandhinagar - Sector 8,Gandhinagar,Gujarat,23.203692,72.620048,3812,5,4,2,114,1989,Villa,Needs Renovation,3,2,4.44,3.34,3.19,1.19,152,63,16409331
+411,Palanpur - Sector 19,Palanpur,Gujarat,24.169439,72.450192,1428,5,4,2,179,2024,Villa,New,1,6,1.22,2.9,1.77,8.33,169,78,3362494
+412,Bharuch - Sector 2,Bharuch,Gujarat,21.700626,73.009599,1504,1,1,3,114,1994,Penthouse,Needs Renovation,3,9,2.56,3.76,2.38,9.37,101,65,4339917
+413,Morbi - Sector 16,Morbi,Gujarat,22.826481,70.830403,3439,5,4,2,178,1983,Villa,Needs Renovation,1,2,4.22,1.37,1.71,7.78,132,94,9074080
+414,Godhra - Sector 4,Godhra,Gujarat,22.774808,73.61348,2348,5,1,1,144,1986,Studio,Needs Renovation,1,5,2.1,4.77,1.98,1.31,93,87,6428902
+415,Mehsana - Sector 10,Mehsana,Gujarat,23.583629,72.384733,1362,4,3,1,66,2018,Row House,New,1,1,1.82,1.59,4.01,1.25,81,55,4515428
+416,Rajkot - Sector 19,Rajkot,Gujarat,22.285278,70.808857,2524,2,2,1,101,1982,Farmhouse,Needs Renovation,0,2,0.56,2.32,1.07,5.0,68,75,9527090
+417,Palanpur - Sector 3,Palanpur,Gujarat,24.17479,72.457614,2117,3,2,2,112,2001,Penthouse,Good,3,8,1.74,1.67,4.21,1.93,126,97,6048049
+418,Bharuch - Sector 1,Bharuch,Gujarat,21.692194,72.988709,3672,5,4,2,167,2021,Penthouse,New,3,10,4.41,4.93,4.06,5.31,174,78,10708291
+419,Palanpur - Sector 3,Palanpur,Gujarat,24.153795,72.455275,4356,4,4,1,141,2011,Villa,Good,3,9,4.14,1.26,3.22,5.1,124,85,11650571
+420,Anand - Sector 17,Anand,Gujarat,22.580971,72.923602,2620,5,2,1,96,2021,Villa,New,0,1,4.56,3.18,0.61,1.3,166,87,8725898
+421,Gandhinagar - Sector 2,Gandhinagar,Gujarat,23.227889,72.645638,806,5,2,3,73,1983,Studio,Needs Renovation,1,5,0.64,2.95,4.33,9.43,157,79,2866823
+422,Godhra - Sector 13,Godhra,Gujarat,22.766296,73.61083,3380,2,4,2,55,2009,Apartment,Good,1,2,0.7,2.03,3.25,9.57,62,98,7947215
+423,Vadodara - Sector 17,Vadodara,Gujarat,22.317469,73.189625,1149,2,4,2,41,2018,Independent House,New,2,5,4.24,1.17,3.27,6.47,141,94,4124516
+424,Nadiad - Sector 13,Nadiad,Gujarat,22.705668,72.877109,2242,5,3,1,106,2013,Row House,Good,2,4,1.82,2.52,3.38,9.67,182,92,5695185
+425,Morbi - Sector 6,Morbi,Gujarat,22.826677,70.828879,4258,5,3,2,188,1982,Apartment,Needs Renovation,3,4,2.13,3.25,4.09,4.97,86,54,12617877
+426,Jamnagar - Sector 1,Jamnagar,Gujarat,22.457098,70.055517,1652,1,1,2,108,1983,Apartment,Needs Renovation,3,8,3.77,2.3,0.73,7.97,185,95,4413891
+427,Anand - Sector 5,Anand,Gujarat,22.579974,72.938729,2158,4,2,3,74,2017,Villa,Good,2,9,0.81,0.56,3.03,6.58,196,53,6177477
+428,Bharuch - Sector 10,Bharuch,Gujarat,21.689675,73.007662,2223,2,1,1,21,1994,Apartment,Needs Renovation,2,3,2.97,2.12,2.69,1.29,127,95,7467907
+429,Junagadh - Sector 16,Junagadh,Gujarat,21.502576,70.472889,3042,4,2,1,27,2011,Studio,Good,0,6,1.0,1.86,2.15,2.04,157,90,9839112
+430,Mehsana - Sector 5,Mehsana,Gujarat,23.596041,72.371213,4726,1,2,2,35,2001,Studio,Good,3,3,1.01,3.04,3.95,6.64,177,75,12479998
+431,Morbi - Sector 10,Morbi,Gujarat,22.822775,70.826105,2517,5,1,3,85,2018,Farmhouse,New,2,5,4.17,1.04,1.76,5.44,78,88,7445464
+432,Dwarka - Sector 14,Dwarka,Gujarat,22.227057,68.966649,2006,4,3,1,109,1982,Studio,Needs Renovation,2,3,3.55,1.55,3.13,7.45,82,88,5014794
+433,Surat - Sector 6,Surat,Gujarat,21.175375,72.841899,2226,2,1,2,127,2024,Farmhouse,New,2,5,4.19,2.73,1.22,1.23,75,93,10041986
+434,Porbandar - Sector 1,Porbandar,Gujarat,21.657938,69.621679,3087,1,1,2,153,2018,Studio,New,2,8,1.69,4.74,0.71,8.92,58,83,8362112
+435,Anand - Sector 12,Anand,Gujarat,22.569834,72.932983,2500,4,3,1,112,2012,Farmhouse,Good,2,3,0.8,3.22,0.85,5.19,132,90,7973491
+436,Vadodara - Sector 2,Vadodara,Gujarat,22.320297,73.192947,1142,4,1,2,23,2001,Studio,Good,2,5,3.1,3.97,4.32,3.14,52,59,4870213
+437,Vadodara - Sector 1,Vadodara,Gujarat,22.295698,73.189938,3950,4,2,3,50,2018,Penthouse,New,0,1,3.64,2.23,2.25,7.02,173,57,13478459
+438,Bharuch - Sector 2,Bharuch,Gujarat,21.709979,72.992384,4825,2,1,2,24,1984,Studio,Needs Renovation,0,1,4.85,3.76,1.94,1.92,163,100,15339610
+439,Rajkot - Sector 18,Rajkot,Gujarat,22.293972,70.805793,878,3,4,3,96,2017,Studio,Good,1,6,1.36,4.97,1.33,8.41,146,82,2806621
+440,Godhra - Sector 4,Godhra,Gujarat,22.786243,73.597337,3039,1,3,3,21,2024,Independent House,New,0,5,2.59,1.61,4.09,2.49,162,78,7501557
+441,Bhavnagar - Sector 8,Bhavnagar,Gujarat,21.781497,72.144638,4460,3,1,3,155,2022,Farmhouse,New,1,3,2.55,2.53,4.68,9.42,159,78,12785631
+442,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.779699,72.146834,3429,2,2,3,77,2009,Penthouse,Good,1,8,4.06,1.31,2.14,2.7,127,75,11893841
+443,Surat - Sector 15,Surat,Gujarat,21.185067,72.83366,3311,2,2,3,92,2012,Studio,Good,3,4,4.66,4.82,1.01,2.45,182,76,12878432
+444,Morbi - Sector 17,Morbi,Gujarat,22.833596,70.829108,4112,5,2,1,150,2008,Row House,Good,2,4,1.54,3.99,3.47,8.95,136,73,10500561
+445,Nadiad - Sector 2,Nadiad,Gujarat,22.709457,72.872797,4928,3,2,2,122,1994,Apartment,Needs Renovation,0,6,3.97,2.91,1.51,3.32,79,99,16313678
+446,Godhra - Sector 1,Godhra,Gujarat,22.790619,73.613316,3598,2,3,2,105,2010,Independent House,Good,2,6,3.47,2.73,0.96,7.32,184,92,7769041
+447,Palanpur - Sector 5,Palanpur,Gujarat,24.164535,72.425118,993,1,3,3,70,1997,Villa,Needs Renovation,0,4,1.89,4.46,0.98,2.23,73,98,2990151
+448,Veraval - Sector 20,Veraval,Gujarat,20.909928,70.34303,2902,5,1,1,39,2024,Row House,New,2,2,1.81,0.86,4.32,6.3,109,83,7457624
+449,Vadodara - Sector 14,Vadodara,Gujarat,22.311027,73.174106,1532,2,3,2,103,2006,Row House,Good,3,4,0.73,3.47,0.77,5.41,183,88,5357837
+450,Morbi - Sector 19,Morbi,Gujarat,22.829786,70.836386,2311,4,2,1,164,1997,Villa,Needs Renovation,2,10,2.6,4.88,3.95,7.14,73,68,6610957
+451,Ahmedabad - Sector 17,Ahmedabad,Gujarat,23.007747,72.578932,4926,1,4,2,173,2025,Row House,New,1,9,2.81,2.85,1.2,4.74,200,96,19619666
+452,Rajkot - Sector 13,Rajkot,Gujarat,22.314966,70.820499,1819,1,2,2,99,2019,Farmhouse,New,3,9,2.21,4.0,4.83,6.87,57,95,6658345
+453,Junagadh - Sector 12,Junagadh,Gujarat,21.506455,70.45036,3339,2,1,3,191,2010,Villa,Good,0,10,4.06,1.67,3.51,7.83,115,87,9969038
+454,Nadiad - Sector 3,Nadiad,Gujarat,22.702943,72.878815,2655,4,2,1,153,2020,Apartment,New,3,4,1.04,4.52,4.27,3.77,176,55,7787648
+455,Godhra - Sector 12,Godhra,Gujarat,22.773052,73.605517,2971,5,4,3,30,2023,Row House,New,3,4,4.16,4.63,3.38,9.68,173,53,6142149
+456,Vadodara - Sector 12,Vadodara,Gujarat,22.297999,73.201179,2666,1,4,1,193,1985,Farmhouse,Needs Renovation,0,3,1.05,1.74,4.01,8.49,98,58,9582760
+457,Bhavnagar - Sector 18,Bhavnagar,Gujarat,21.759013,72.133178,4914,3,2,1,127,1986,Farmhouse,Needs Renovation,2,6,2.26,1.76,4.49,5.44,115,85,16278069
+458,Surat - Sector 2,Surat,Gujarat,21.17565,72.831842,4861,1,3,2,71,1988,Penthouse,Needs Renovation,1,1,0.79,4.34,0.97,9.69,75,92,18125089
+459,Nadiad - Sector 2,Nadiad,Gujarat,22.699131,72.849784,1956,4,1,2,43,1994,Row House,Needs Renovation,0,1,2.69,2.13,2.74,8.61,195,59,5018233
+460,Dwarka - Sector 18,Dwarka,Gujarat,22.236084,68.966636,1505,2,1,2,52,2005,Independent House,Good,3,4,4.53,3.6,1.79,6.12,106,90,3778510
+461,Veraval - Sector 12,Veraval,Gujarat,20.916184,70.371531,1095,4,3,2,81,1989,Farmhouse,Needs Renovation,1,1,0.75,2.28,1.55,4.46,195,70,2649396
+462,Mehsana - Sector 3,Mehsana,Gujarat,23.592481,72.350673,1854,3,3,2,143,2022,Studio,New,1,2,3.45,4.73,4.61,7.09,62,66,5522081
+463,Rajkot - Sector 18,Rajkot,Gujarat,22.310671,70.79864,3307,3,1,2,63,2012,Row House,Good,3,2,1.13,2.89,4.32,1.51,128,83,12584772
+464,Gandhinagar - Sector 5,Gandhinagar,Gujarat,23.202119,72.627875,4281,5,4,1,175,2023,Studio,New,1,4,4.12,0.53,2.31,9.12,184,92,14851817
+465,Surat - Sector 16,Surat,Gujarat,21.161283,72.841657,2940,2,2,3,125,2016,Row House,Good,0,10,3.6,1.73,0.6,1.92,158,51,11902107
+466,Jamnagar - Sector 20,Jamnagar,Gujarat,22.452966,70.064605,2814,3,2,1,30,2001,Studio,Good,3,10,3.55,2.11,4.06,4.2,116,86,8886616
+467,Ahmedabad - Sector 5,Ahmedabad,Gujarat,23.026724,72.555783,4464,1,4,1,180,2005,Farmhouse,Good,3,3,2.4,2.38,4.07,1.68,88,87,21639072
+468,Nadiad - Sector 7,Nadiad,Gujarat,22.692416,72.856282,780,2,1,3,26,2024,Row House,New,0,6,3.26,4.8,1.48,6.58,131,88,2266182
+469,Surat - Sector 16,Surat,Gujarat,21.16202,72.845928,3058,1,4,3,169,1988,Row House,Needs Renovation,3,2,2.58,3.97,2.19,1.08,191,61,12102426
+470,Dwarka - Sector 2,Dwarka,Gujarat,22.234769,68.979354,2927,5,3,3,36,2015,Villa,Good,3,7,1.84,1.6,1.16,8.86,198,100,6180752
+471,Ahmedabad - Sector 2,Ahmedabad,Gujarat,23.033941,72.572829,4108,4,2,1,196,2024,Studio,New,2,4,2.62,2.09,1.84,7.64,63,72,17935713
+472,Porbandar - Sector 16,Porbandar,Gujarat,21.628307,69.644448,3378,1,2,3,180,1981,Penthouse,Needs Renovation,0,2,5.0,2.36,4.83,7.26,145,55,8640886
+473,Palanpur - Sector 7,Palanpur,Gujarat,24.165251,72.450262,1075,1,2,3,147,2024,Villa,New,1,8,2.51,2.67,3.46,2.77,159,88,2903563
+474,Veraval - Sector 8,Veraval,Gujarat,20.894738,70.365061,1773,4,1,2,151,1981,Apartment,Needs Renovation,1,2,2.98,4.27,4.83,2.5,178,50,4568967
+475,Gandhinagar - Sector 7,Gandhinagar,Gujarat,23.2023,72.617406,1176,5,3,3,167,2018,Row House,New,1,10,3.78,2.93,0.91,9.78,61,69,4619003
+476,Anand - Sector 20,Anand,Gujarat,22.557038,72.94489,4023,1,2,1,148,2007,Row House,Good,2,7,3.08,0.63,4.02,3.54,181,89,12552406
+477,Rajkot - Sector 4,Rajkot,Gujarat,22.29329,70.817007,2222,1,1,3,176,1991,Penthouse,Needs Renovation,2,6,0.55,3.84,3.78,1.31,84,56,8919115
+478,Anand - Sector 6,Anand,Gujarat,22.551577,72.911396,2518,4,4,1,106,1986,Independent House,Needs Renovation,0,7,1.3,1.16,3.66,1.3,173,86,8315800
+479,Junagadh - Sector 5,Junagadh,Gujarat,21.533232,70.452754,4139,1,4,3,155,2002,Row House,Good,2,7,4.82,2.58,3.98,3.32,86,74,14127406
+480,Godhra - Sector 13,Godhra,Gujarat,22.783127,73.617053,3990,5,4,1,136,2025,Studio,New,2,9,1.6,4.03,2.84,8.57,186,66,8342648
+481,Mehsana - Sector 12,Mehsana,Gujarat,23.604816,72.387069,3571,3,1,2,59,1995,Studio,Needs Renovation,0,4,0.83,2.65,2.42,8.48,61,60,10302544
+482,Porbandar - Sector 5,Porbandar,Gujarat,21.649115,69.617757,3797,1,2,2,140,2018,Independent House,New,0,2,1.78,3.4,4.04,7.81,78,78,10339013
+483,Bharuch - Sector 20,Bharuch,Gujarat,21.709341,72.996397,4244,4,4,1,60,1995,Apartment,Needs Renovation,1,3,2.05,1.26,3.48,4.78,75,99,14024092
+484,Vadodara - Sector 9,Vadodara,Gujarat,22.303454,73.170928,2542,1,3,1,100,2017,Independent House,Good,3,5,1.18,4.81,4.93,4.17,99,88,10076771
+485,Morbi - Sector 2,Morbi,Gujarat,22.82555,70.827518,2914,3,2,3,91,2000,Apartment,Good,2,4,1.98,3.73,2.91,6.78,132,97,7870938
+486,Godhra - Sector 16,Godhra,Gujarat,22.790256,73.631532,3900,2,4,2,42,2022,Independent House,New,1,9,3.58,4.34,3.23,1.32,127,100,10275929
+487,Nadiad - Sector 5,Nadiad,Gujarat,22.688975,72.876552,659,1,2,1,121,1984,Penthouse,Needs Renovation,0,10,1.74,3.5,1.18,9.19,101,91,1861668
+488,Gandhinagar - Sector 3,Gandhinagar,Gujarat,23.212128,72.639364,2594,5,3,3,177,1993,Apartment,Needs Renovation,1,9,3.59,3.79,1.84,9.44,81,82,10055803
+489,Rajkot - Sector 6,Rajkot,Gujarat,22.308216,70.789301,3391,4,1,2,94,2023,Penthouse,New,1,8,3.49,4.08,1.69,4.03,195,86,11293815
+490,Godhra - Sector 13,Godhra,Gujarat,22.758185,73.618352,3411,5,1,1,116,2005,Villa,Good,3,2,2.18,2.7,0.95,8.17,76,96,8173973
+491,Anand - Sector 10,Anand,Gujarat,22.584494,72.924551,4914,5,2,2,92,1995,Row House,Needs Renovation,3,9,4.26,4.61,2.28,7.13,136,80,14925064
+492,Ahmedabad - Sector 19,Ahmedabad,Gujarat,23.004867,72.576592,4643,3,2,1,42,2025,Penthouse,New,2,9,0.94,2.34,1.41,4.26,125,76,20440691
+493,Dwarka - Sector 16,Dwarka,Gujarat,22.239503,68.965702,2739,5,1,3,190,2023,Row House,New,0,10,4.42,4.23,1.58,9.01,186,54,5848901
+494,Anand - Sector 19,Anand,Gujarat,22.564112,72.9095,1586,3,4,3,199,2025,Villa,New,3,9,3.73,3.86,3.75,2.57,112,64,5477509
+495,Gandhinagar - Sector 1,Gandhinagar,Gujarat,23.199772,72.649283,3332,4,3,3,75,2005,Farmhouse,Good,1,9,3.97,4.3,4.2,7.49,166,82,12285575
+496,Godhra - Sector 17,Godhra,Gujarat,22.775887,73.627931,1751,4,3,3,24,2016,Row House,Good,1,7,2.31,4.54,4.62,2.42,65,77,4829630
+497,Veraval - Sector 9,Veraval,Gujarat,20.923476,70.343453,2383,2,2,2,61,1997,Farmhouse,Needs Renovation,0,8,2.53,2.14,1.89,9.7,161,98,5317836
+498,Bharuch - Sector 5,Bharuch,Gujarat,21.712542,72.99692,2253,3,2,2,166,2003,Apartment,Good,0,2,2.04,1.37,4.74,6.91,109,90,6833488
+499,Porbandar - Sector 17,Porbandar,Gujarat,21.640846,69.646511,3020,3,3,3,87,2002,Farmhouse,Good,2,5,1.8,4.53,1.35,5.93,146,71,7956203
+500,Rajkot - Sector 17,Rajkot,Gujarat,22.306158,70.796857,908,1,2,3,115,1999,Penthouse,Needs Renovation,0,9,1.14,3.82,4.39,4.61,105,84,3319797
+501,Veraval - Sector 17,Veraval,Gujarat,20.924688,70.357605,4355,4,4,2,138,2017,Studio,Good,3,10,3.22,4.96,3.47,9.24,80,95,10778395
+502,Nadiad - Sector 11,Nadiad,Gujarat,22.702105,72.843739,3112,2,1,2,167,2003,Independent House,Good,0,8,4.28,2.25,1.03,3.54,185,57,9073338
+503,Bharuch - Sector 18,Bharuch,Gujarat,21.71087,72.991211,1096,1,2,1,122,2007,Villa,Good,1,10,2.35,4.25,4.07,8.13,103,75,3251869
+504,Ahmedabad - Sector 5,Ahmedabad,Gujarat,23.007099,72.58571,4633,1,4,1,82,2004,Row House,Good,0,10,2.93,3.24,1.11,4.25,89,62,21240486
+505,Junagadh - Sector 8,Junagadh,Gujarat,21.505389,70.450861,2806,2,3,2,152,1984,Independent House,Needs Renovation,2,10,3.88,0.65,1.75,9.87,164,50,7531007
+506,Jamnagar - Sector 12,Jamnagar,Gujarat,22.464335,70.064166,2142,3,4,2,51,1986,Row House,Needs Renovation,0,2,3.15,3.8,3.54,6.58,60,58,6819173
+507,Gandhinagar - Sector 20,Gandhinagar,Gujarat,23.200769,72.623738,1284,3,4,1,73,2023,Penthouse,New,1,8,2.69,0.69,2.91,8.01,150,67,4766100
+508,Vadodara - Sector 9,Vadodara,Gujarat,22.292341,73.189492,1749,1,3,3,189,2022,Apartment,New,2,7,1.77,2.36,3.35,8.94,98,67,6218512
+509,Surat - Sector 17,Surat,Gujarat,21.180879,72.842516,3626,2,1,1,27,2003,Villa,Good,0,9,2.86,2.14,1.16,7.97,141,87,13091227
+510,Nadiad - Sector 20,Nadiad,Gujarat,22.695052,72.862675,1245,5,4,3,56,2022,Apartment,New,2,10,1.67,4.23,4.88,3.02,173,51,3724591
+511,Valsad - Sector 20,Valsad,Gujarat,20.598814,72.932573,2474,5,4,3,141,1990,Villa,Needs Renovation,2,2,1.22,1.7,2.9,1.64,172,76,7231679
+512,Anand - Sector 15,Anand,Gujarat,22.545231,72.921543,501,5,3,3,109,1998,Villa,Needs Renovation,0,7,3.06,1.28,4.89,8.5,133,77,1478150
+513,Bhavnagar - Sector 8,Bhavnagar,Gujarat,21.776168,72.132297,1100,2,1,3,72,2011,Villa,Good,2,7,2.9,2.79,3.32,9.33,125,80,3288169
+514,Morbi - Sector 10,Morbi,Gujarat,22.817697,70.847534,810,1,1,2,153,2015,Studio,Good,1,2,3.76,1.61,3.62,3.27,185,59,2221114
+515,Ahmedabad - Sector 5,Ahmedabad,Gujarat,23.026487,72.580314,4938,5,1,2,21,2023,Villa,New,0,2,2.94,1.81,2.98,6.23,103,56,21326164
+516,Anand - Sector 13,Anand,Gujarat,22.559874,72.91382,1544,4,4,1,169,1999,Apartment,Needs Renovation,3,5,4.19,1.99,2.38,8.85,178,80,4282553
+517,Ahmedabad - Sector 4,Ahmedabad,Gujarat,23.004015,72.558151,4148,2,3,1,134,2010,Penthouse,Good,0,7,1.26,0.62,2.48,5.56,163,73,16971918
+518,Surat - Sector 13,Surat,Gujarat,21.18359,72.840691,1714,2,4,2,135,1990,Farmhouse,Needs Renovation,2,5,1.95,3.96,3.46,1.65,129,98,7218142
+519,Rajkot - Sector 14,Rajkot,Gujarat,22.308027,70.814917,1641,2,2,2,41,2000,Independent House,Good,1,6,0.87,2.98,2.0,6.07,56,88,6124692
+520,Porbandar - Sector 8,Porbandar,Gujarat,21.636752,69.617425,1109,1,1,1,130,2025,Villa,New,1,7,2.14,1.19,3.35,8.41,103,61,2896082
+521,Veraval - Sector 15,Veraval,Gujarat,20.922559,70.348019,3400,4,3,3,109,1980,Farmhouse,Needs Renovation,1,9,4.9,3.83,1.38,3.57,60,51,9793758
+522,Nadiad - Sector 6,Nadiad,Gujarat,22.709413,72.86368,4000,5,1,1,99,2010,Penthouse,Good,0,8,4.95,3.41,3.13,1.2,141,61,12911113
+523,Dwarka - Sector 17,Dwarka,Gujarat,22.235654,68.987095,1984,1,1,2,121,2020,Villa,New,0,3,0.99,4.73,1.81,9.58,117,52,4531882
+524,Ahmedabad - Sector 14,Ahmedabad,Gujarat,23.027237,72.55786,3156,4,2,2,49,2015,Villa,Good,0,6,2.17,4.18,4.91,2.31,60,82,15562696
+525,Palanpur - Sector 19,Palanpur,Gujarat,24.179505,72.440675,531,5,3,3,97,1985,Penthouse,Needs Renovation,0,3,0.9,3.5,3.34,9.39,195,89,1180408
+526,Palanpur - Sector 10,Palanpur,Gujarat,24.179054,72.453739,637,5,2,2,142,2025,Penthouse,New,1,3,2.74,2.65,2.22,7.7,103,99,1643543
+527,Bhavnagar - Sector 1,Bhavnagar,Gujarat,21.776741,72.153787,4512,1,1,3,61,1996,Row House,Needs Renovation,3,10,1.38,1.86,4.39,9.61,107,76,13670162
+528,Surat - Sector 12,Surat,Gujarat,21.170352,72.825189,1974,5,3,1,115,2025,Row House,New,3,3,0.85,1.76,2.36,7.15,141,96,7265928
+529,Nadiad - Sector 6,Nadiad,Gujarat,22.68784,72.878425,2116,2,1,3,158,2014,Farmhouse,Good,1,9,0.95,0.77,4.42,7.23,51,70,6613202
+530,Surat - Sector 3,Surat,Gujarat,21.18417,72.835806,3588,2,2,1,141,2024,Villa,New,1,6,4.55,2.99,2.51,1.1,187,80,14264345
+531,Vadodara - Sector 8,Vadodara,Gujarat,22.321711,73.186197,4201,3,4,2,23,2024,Villa,New,1,4,3.73,3.04,2.88,2.59,161,86,16041900
+532,Rajkot - Sector 17,Rajkot,Gujarat,22.307142,70.813559,1324,4,4,3,55,2018,Studio,New,0,6,3.65,1.33,1.22,7.94,124,84,4390397
+533,Ahmedabad - Sector 4,Ahmedabad,Gujarat,23.023747,72.569068,1837,1,3,2,200,2016,Farmhouse,Good,0,5,3.58,3.12,1.94,2.12,84,56,8862402
+534,Anand - Sector 4,Anand,Gujarat,22.55233,72.94702,4063,5,4,2,174,2012,Row House,Good,1,7,3.18,0.67,1.01,7.61,193,80,11397185
+535,Junagadh - Sector 8,Junagadh,Gujarat,21.509999,70.474863,2347,5,4,2,139,1996,Studio,Needs Renovation,1,6,1.25,2.02,2.56,3.68,194,99,7009816
+536,Surat - Sector 1,Surat,Gujarat,21.155376,72.814344,4251,1,2,2,117,2023,Villa,New,2,4,3.81,4.94,1.7,6.86,196,92,14744406
+537,Dwarka - Sector 6,Dwarka,Gujarat,22.225324,68.969369,2083,2,1,1,99,2000,Villa,Good,1,3,4.16,4.4,1.62,3.0,110,62,5576440
+538,Nadiad - Sector 10,Nadiad,Gujarat,22.711464,72.855557,1125,4,3,3,187,2009,Studio,Good,1,9,2.45,4.56,3.62,2.64,67,70,3827688
+539,Morbi - Sector 10,Morbi,Gujarat,22.815407,70.824593,953,3,2,2,48,1985,Villa,Needs Renovation,0,2,4.07,1.77,0.71,2.03,54,65,3113768
+540,Surat - Sector 3,Surat,Gujarat,21.16097,72.847596,2661,4,3,1,156,2008,Farmhouse,Good,3,2,3.86,1.82,2.63,2.65,200,58,10079868
+541,Navsari - Sector 12,Navsari,Gujarat,20.958027,72.96494,1450,3,1,3,100,2010,Penthouse,Good,3,5,3.13,3.97,2.27,7.89,163,72,3884116
+542,Gandhinagar - Sector 17,Gandhinagar,Gujarat,23.195893,72.64633,4949,4,3,3,35,2024,Villa,New,3,6,2.22,4.9,3.21,1.47,175,52,20607012
+543,Junagadh - Sector 2,Junagadh,Gujarat,21.514375,70.437983,2111,4,2,2,48,1984,Penthouse,Needs Renovation,2,3,4.14,3.96,3.48,4.22,168,57,6432463
+544,Godhra - Sector 9,Godhra,Gujarat,22.781588,73.623663,2934,5,3,3,164,2024,Villa,New,0,7,1.16,4.2,1.82,10.0,126,93,6359503
+545,Jamnagar - Sector 1,Jamnagar,Gujarat,22.461908,70.048087,4537,2,2,2,73,1980,Farmhouse,Needs Renovation,2,4,3.02,3.46,1.2,5.63,61,50,14744104
+546,Ahmedabad - Sector 18,Ahmedabad,Gujarat,23.019989,72.56856,4171,3,4,2,123,1989,Row House,Needs Renovation,2,10,0.79,1.43,3.95,2.59,165,64,18163072
+547,Gandhinagar - Sector 6,Gandhinagar,Gujarat,23.223007,72.62353,4014,3,2,2,179,2022,Penthouse,New,2,9,3.98,0.67,2.92,1.12,165,99,17038383
+548,Vadodara - Sector 5,Vadodara,Gujarat,22.319661,73.180655,4712,2,2,2,74,1983,Farmhouse,Needs Renovation,0,3,4.32,1.91,4.04,7.09,198,82,15567160
+549,Navsari - Sector 1,Navsari,Gujarat,20.930897,72.965102,4686,2,1,1,24,2023,Villa,New,1,10,3.51,2.22,1.58,7.4,62,82,14230767
+550,Rajkot - Sector 2,Rajkot,Gujarat,22.296232,70.810361,1445,5,1,3,151,2016,Independent House,Good,2,9,3.67,1.08,3.47,5.81,197,80,4614768
+551,Valsad - Sector 7,Valsad,Gujarat,20.617593,72.952787,2896,3,2,1,38,2024,Independent House,New,1,5,0.96,1.85,1.66,6.22,110,58,8237343
+552,Jamnagar - Sector 4,Jamnagar,Gujarat,22.455699,70.052965,2539,4,1,2,200,2004,Villa,Good,3,3,2.97,2.93,2.05,6.61,164,59,7183783
+553,Morbi - Sector 15,Morbi,Gujarat,22.799128,70.83414,3796,3,2,1,78,2017,Studio,Good,0,7,0.53,4.84,1.26,2.91,122,52,11300090
+554,Ahmedabad - Sector 15,Ahmedabad,Gujarat,23.029693,72.581424,1850,5,4,3,139,2024,Independent House,New,2,2,1.16,1.45,0.56,8.78,99,95,7557831
+555,Bharuch - Sector 13,Bharuch,Gujarat,21.688563,72.997966,3283,3,2,3,140,1997,Penthouse,Needs Renovation,2,10,0.84,0.57,1.6,2.44,78,91,11372887
+556,Mehsana - Sector 17,Mehsana,Gujarat,23.585888,72.381269,2170,2,2,2,177,1982,Penthouse,Needs Renovation,3,2,2.56,4.5,4.81,8.52,69,74,6201259
+557,Gandhinagar - Sector 9,Gandhinagar,Gujarat,23.222175,72.644437,3513,2,2,1,41,2011,Studio,Good,1,10,2.09,1.84,0.87,6.36,118,67,14062573
+558,Bharuch - Sector 14,Bharuch,Gujarat,21.714053,73.005401,1020,4,2,2,39,2004,Apartment,Good,3,5,1.98,0.98,2.53,5.25,119,76,3176846
+559,Anand - Sector 19,Anand,Gujarat,22.545789,72.947489,1454,2,3,1,66,2023,Row House,New,0,2,0.75,1.44,3.09,8.07,82,62,4589293
+560,Valsad - Sector 13,Valsad,Gujarat,20.595189,72.919874,1210,4,2,3,192,1992,Studio,Needs Renovation,1,10,3.95,2.12,2.63,7.45,101,79,3378838
+561,Bharuch - Sector 14,Bharuch,Gujarat,21.712592,72.986768,624,3,1,1,130,1995,Apartment,Needs Renovation,1,3,4.08,2.4,1.02,6.55,62,88,2009112
+562,Surat - Sector 20,Surat,Gujarat,21.172296,72.830042,1344,4,2,1,171,2017,Villa,Good,1,5,3.9,0.96,3.49,7.24,118,60,5068804
+563,Surat - Sector 15,Surat,Gujarat,21.160533,72.830892,3944,2,3,3,147,2020,Villa,New,3,8,4.42,0.73,1.17,8.75,156,73,13731035
+564,Ahmedabad - Sector 11,Ahmedabad,Gujarat,23.020453,72.554024,3436,5,3,3,38,1999,Apartment,Needs Renovation,3,6,3.11,1.02,0.72,1.67,97,62,16494926
+565,Mehsana - Sector 13,Mehsana,Gujarat,23.605004,72.388558,2674,2,1,1,181,1981,Row House,Needs Renovation,3,4,4.3,3.27,3.43,3.66,163,84,7674933
+566,Nadiad - Sector 8,Nadiad,Gujarat,22.671926,72.863204,4278,4,2,3,42,2025,Penthouse,New,3,8,1.09,2.37,1.81,3.29,169,84,12786226
+567,Jamnagar - Sector 1,Jamnagar,Gujarat,22.469224,70.076636,3004,3,4,2,157,2006,Farmhouse,Good,0,2,3.79,3.71,2.25,2.84,118,83,9746235
+568,Valsad - Sector 10,Valsad,Gujarat,20.582879,72.936225,2995,2,4,2,24,2007,Farmhouse,Good,1,2,2.47,3.68,0.92,5.52,122,83,8538448
+569,Surat - Sector 19,Surat,Gujarat,21.172887,72.83447,2665,5,2,1,172,2023,Apartment,New,1,3,4.26,2.0,3.06,2.82,125,82,11001786
+570,Valsad - Sector 4,Valsad,Gujarat,20.615096,72.928385,875,3,4,1,82,2011,Independent House,Good,1,4,0.92,2.95,1.0,5.37,180,92,2337607
+571,Gandhinagar - Sector 19,Gandhinagar,Gujarat,23.197955,72.633855,2537,4,2,2,190,1999,Farmhouse,Needs Renovation,1,1,4.35,2.31,4.12,8.29,90,89,10014641
+572,Godhra - Sector 16,Godhra,Gujarat,22.768693,73.612531,2812,5,2,3,178,2000,Row House,Good,2,2,4.73,2.63,4.45,1.06,198,68,6842981
+573,Vadodara - Sector 17,Vadodara,Gujarat,22.324519,73.170228,3277,3,2,1,174,2024,Apartment,New,0,8,3.85,3.87,4.33,2.4,79,93,13791587
+574,Surat - Sector 10,Surat,Gujarat,21.178525,72.851045,3630,4,3,1,128,2001,Penthouse,Good,3,3,0.58,1.31,1.0,1.29,95,77,16001965
+575,Rajkot - Sector 12,Rajkot,Gujarat,22.304649,70.788669,1311,1,1,1,83,2020,Farmhouse,New,1,8,2.24,4.47,0.9,3.79,116,58,4819849
+576,Godhra - Sector 12,Godhra,Gujarat,22.792952,73.623929,3873,4,2,1,54,2025,Apartment,New,3,9,3.96,4.33,1.11,4.24,158,72,9252035
+577,Jamnagar - Sector 10,Jamnagar,Gujarat,22.479831,70.071313,2772,4,3,3,151,2021,Studio,New,1,3,2.37,4.28,2.42,8.29,94,69,8170642
+578,Veraval - Sector 11,Veraval,Gujarat,20.920158,70.374877,3833,5,3,1,148,2018,Row House,New,1,10,1.57,4.39,4.23,6.61,186,69,8935046
+579,Valsad - Sector 15,Valsad,Gujarat,20.595717,72.922132,692,1,4,3,192,1983,Penthouse,Needs Renovation,1,9,3.96,3.77,3.27,6.41,158,90,1854077
+580,Valsad - Sector 7,Valsad,Gujarat,20.615722,72.923679,3565,2,3,2,59,2016,Row House,Good,2,4,4.85,1.5,1.73,5.36,160,62,9758562
+581,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.783775,72.16228,3077,2,1,3,88,2008,Studio,Good,0,2,2.78,0.76,2.23,5.97,159,69,9570871
+582,Navsari - Sector 10,Navsari,Gujarat,20.928642,72.968954,2440,3,1,1,184,1999,Apartment,Needs Renovation,1,1,2.66,3.02,3.28,2.61,70,98,8172841
+583,Surat - Sector 19,Surat,Gujarat,21.16308,72.83006,2540,1,2,3,91,1998,Penthouse,Needs Renovation,1,7,3.28,0.6,2.97,2.51,73,75,11181900
+584,Jamnagar - Sector 19,Jamnagar,Gujarat,22.482974,70.056849,2064,4,1,2,110,1999,Penthouse,Needs Renovation,1,3,3.08,2.58,3.01,6.84,165,61,5801926
+585,Porbandar - Sector 14,Porbandar,Gujarat,21.638032,69.641064,2104,4,3,1,60,1986,Penthouse,Needs Renovation,0,2,4.43,3.65,0.79,3.04,69,63,6439046
+586,Morbi - Sector 2,Morbi,Gujarat,22.816208,70.847148,4302,3,2,1,69,1997,Independent House,Needs Renovation,3,9,4.68,1.07,4.77,9.06,134,69,10981676
+587,Bharuch - Sector 5,Bharuch,Gujarat,21.705042,72.996433,1081,5,3,1,172,1992,Apartment,Needs Renovation,1,6,2.72,2.36,1.48,9.73,184,63,2806238
+588,Jamnagar - Sector 1,Jamnagar,Gujarat,22.485513,70.057502,1772,4,1,1,111,2023,Independent House,New,0,6,1.75,3.73,3.19,5.87,55,97,5764001
+589,Surat - Sector 15,Surat,Gujarat,21.159857,72.840129,1817,5,4,2,167,2025,Penthouse,New,0,7,4.25,3.3,2.7,4.7,66,52,7687763
+590,Bhavnagar - Sector 11,Bhavnagar,Gujarat,21.773815,72.140805,3547,2,3,2,32,1990,Apartment,Needs Renovation,0,10,3.18,1.05,4.98,5.36,87,60,12143264
+591,Bhavnagar - Sector 2,Bhavnagar,Gujarat,21.751972,72.154989,2384,2,1,3,25,2005,Studio,Good,1,3,3.68,0.85,2.78,5.53,66,78,8317628
+592,Porbandar - Sector 5,Porbandar,Gujarat,21.64363,69.630504,1351,2,1,1,52,2009,Studio,Good,0,8,3.67,3.09,3.39,8.23,167,81,3290507
+593,Jamnagar - Sector 12,Jamnagar,Gujarat,22.460564,70.075548,1678,1,1,1,47,2005,Studio,Good,0,4,1.24,4.97,2.52,5.89,119,100,5086271
+594,Palanpur - Sector 1,Palanpur,Gujarat,24.162532,72.448741,1224,4,3,3,20,1995,Apartment,Needs Renovation,1,8,0.58,1.96,2.95,8.82,145,81,2930507
+595,Palanpur - Sector 2,Palanpur,Gujarat,24.172604,72.440396,740,3,3,3,95,1980,Apartment,Needs Renovation,2,6,4.02,1.34,4.1,3.63,154,83,1974004
+596,Junagadh - Sector 9,Junagadh,Gujarat,21.533021,70.459035,1659,1,4,2,22,1988,Apartment,Needs Renovation,0,6,4.79,2.17,4.49,3.18,139,52,5350211
+597,Surat - Sector 17,Surat,Gujarat,21.162808,72.831083,3108,3,3,2,157,1987,Independent House,Needs Renovation,1,4,4.8,2.4,1.62,5.4,165,80,11574502
+598,Veraval - Sector 6,Veraval,Gujarat,20.890123,70.365061,4246,3,4,3,197,2013,Penthouse,Good,0,4,0.68,4.24,0.66,5.78,75,62,11462633
+599,Valsad - Sector 6,Valsad,Gujarat,20.584074,72.936006,2641,1,4,1,129,2004,Villa,Good,0,5,0.65,4.25,3.82,8.04,121,94,7110753
+600,Bhavnagar - Sector 3,Bhavnagar,Gujarat,21.747077,72.167453,3665,3,1,2,95,1980,Apartment,Needs Renovation,0,2,3.96,3.64,2.76,7.06,153,83,11196923
+601,Rajkot - Sector 13,Rajkot,Gujarat,22.316785,70.796829,2250,5,3,3,67,1999,Penthouse,Needs Renovation,1,4,2.05,4.42,1.46,6.72,178,91,7204172
+602,Dwarka - Sector 5,Dwarka,Gujarat,22.23545,68.986079,2062,3,4,2,23,2019,Studio,New,0,9,0.69,4.16,1.2,2.55,199,77,5015767
+603,Nadiad - Sector 20,Nadiad,Gujarat,22.709103,72.882602,1754,1,4,3,30,1989,Villa,Needs Renovation,2,5,2.71,0.84,1.34,3.27,156,61,5326703
+604,Mehsana - Sector 5,Mehsana,Gujarat,23.587121,72.357301,1458,2,4,3,119,1998,Apartment,Needs Renovation,0,5,3.21,0.94,3.29,7.71,163,95,3819023
+605,Mehsana - Sector 18,Mehsana,Gujarat,23.59285,72.349985,1721,3,1,2,180,1994,Independent House,Needs Renovation,2,8,2.55,3.4,4.25,6.03,127,61,4888586
+606,Rajkot - Sector 18,Rajkot,Gujarat,22.306691,70.814279,1981,3,2,2,141,2020,Studio,New,1,1,1.8,1.4,1.18,3.6,85,56,7569480
+607,Anand - Sector 6,Anand,Gujarat,22.572334,72.928861,1516,4,3,2,44,1982,Villa,Needs Renovation,1,1,3.75,1.04,1.04,9.06,103,61,4565131
+608,Rajkot - Sector 13,Rajkot,Gujarat,22.292329,70.809446,4527,5,1,2,40,1993,Row House,Needs Renovation,3,4,0.64,0.7,4.99,4.49,60,76,17429610
+609,Veraval - Sector 4,Veraval,Gujarat,20.914819,70.369143,978,1,1,3,126,2022,Farmhouse,New,0,2,1.59,1.0,1.03,2.12,56,97,2917486
+610,Gandhinagar - Sector 11,Gandhinagar,Gujarat,23.197454,72.643228,2969,2,2,3,149,1996,Independent House,Needs Renovation,1,6,1.45,3.84,0.76,8.43,149,58,10923281
+611,Anand - Sector 19,Anand,Gujarat,22.558366,72.945573,3917,2,1,1,34,1987,Studio,Needs Renovation,2,6,1.16,4.5,0.89,8.81,164,96,11060263
+612,Junagadh - Sector 15,Junagadh,Gujarat,21.519868,70.441385,3471,5,2,2,43,1989,Villa,Needs Renovation,1,10,1.26,1.28,4.59,6.31,74,56,11234083
+613,Mehsana - Sector 1,Mehsana,Gujarat,23.598126,72.372185,1328,5,2,1,48,2023,Farmhouse,New,0,1,0.62,1.22,3.48,8.13,117,100,3633234
+614,Palanpur - Sector 1,Palanpur,Gujarat,24.15837,72.45253,4656,1,4,1,56,2002,Apartment,Good,2,10,4.83,4.14,4.67,5.39,151,50,11991176
+615,Rajkot - Sector 5,Rajkot,Gujarat,22.288102,70.803393,4066,5,3,3,70,1998,Farmhouse,Needs Renovation,1,9,0.97,1.18,3.33,3.99,183,56,13755746
+616,Palanpur - Sector 15,Palanpur,Gujarat,24.187343,72.445008,4007,1,4,1,92,2017,Studio,Good,0,4,1.37,4.91,1.06,7.89,126,91,10028244
+617,Valsad - Sector 6,Valsad,Gujarat,20.580754,72.948154,617,1,4,2,132,1998,Farmhouse,Needs Renovation,3,10,0.69,1.29,1.99,5.24,55,79,1905153
+618,Navsari - Sector 12,Navsari,Gujarat,20.934235,72.946403,3982,5,2,2,155,2004,Studio,Good,2,3,4.3,1.53,4.81,3.08,167,74,11828178
+619,Bhavnagar - Sector 7,Bhavnagar,Gujarat,21.77634,72.165685,3073,5,3,1,74,2003,Studio,Good,2,4,2.23,3.87,0.52,1.99,160,76,10410050
+620,Godhra - Sector 20,Godhra,Gujarat,22.775966,73.59833,4014,1,3,2,104,2001,Farmhouse,Good,3,3,1.85,2.32,1.24,4.47,60,65,10651102
+621,Mehsana - Sector 10,Mehsana,Gujarat,23.602527,72.377106,2862,5,1,2,46,1994,Villa,Needs Renovation,1,4,0.63,1.68,4.92,3.11,152,66,8421266
+622,Navsari - Sector 8,Navsari,Gujarat,20.931047,72.945436,4464,3,4,2,77,2018,Farmhouse,New,1,9,2.75,4.11,2.47,3.77,149,60,13347232
+623,Mehsana - Sector 14,Mehsana,Gujarat,23.569712,72.362556,2017,3,4,2,189,2020,Row House,New,1,5,4.43,2.6,2.99,4.63,72,75,6284263
+624,Veraval - Sector 1,Veraval,Gujarat,20.903758,70.349226,3488,3,2,2,154,1982,Independent House,Needs Renovation,0,1,4.42,2.24,3.96,4.88,51,76,9857248
+625,Palanpur - Sector 9,Palanpur,Gujarat,24.175655,72.429735,765,5,3,1,71,1992,Apartment,Needs Renovation,2,4,1.85,1.77,4.37,2.95,138,72,2109780
+626,Anand - Sector 19,Anand,Gujarat,22.571312,72.926731,3337,5,3,2,198,1985,Independent House,Needs Renovation,1,6,1.74,3.2,4.65,6.33,167,79,9954014
+627,Anand - Sector 2,Anand,Gujarat,22.564725,72.933789,3329,2,2,2,136,1988,Apartment,Needs Renovation,0,9,2.28,3.55,4.39,3.94,67,62,11730951
+628,Nadiad - Sector 9,Nadiad,Gujarat,22.693838,72.843611,682,3,1,2,22,2025,Farmhouse,New,2,9,1.65,0.87,1.52,8.05,143,88,1887938
+629,Morbi - Sector 1,Morbi,Gujarat,22.822109,70.838892,3005,2,2,3,86,2005,Penthouse,Good,3,9,0.82,4.02,4.23,1.11,86,78,9668146
+630,Porbandar - Sector 13,Porbandar,Gujarat,21.642551,69.638095,1757,5,4,1,170,1993,Villa,Needs Renovation,2,9,4.04,1.85,1.69,1.29,156,75,5056271
+631,Gandhinagar - Sector 6,Gandhinagar,Gujarat,23.215022,72.647751,1719,1,3,1,116,1985,Villa,Needs Renovation,2,3,4.31,2.28,2.75,7.11,97,98,6923935
+632,Dwarka - Sector 4,Dwarka,Gujarat,22.240052,68.981626,2199,2,3,3,143,1996,Villa,Needs Renovation,3,1,4.51,4.84,0.95,8.27,197,61,4715949
+633,Ahmedabad - Sector 10,Ahmedabad,Gujarat,23.015975,72.57169,1025,5,1,3,195,1986,Farmhouse,Needs Renovation,1,7,4.43,2.57,1.4,9.0,193,65,3730559
+634,Anand - Sector 4,Anand,Gujarat,22.57473,72.92053,4518,1,2,3,170,2004,Penthouse,Good,2,4,1.99,1.77,3.65,8.68,102,79,13746645
+635,Nadiad - Sector 3,Nadiad,Gujarat,22.671648,72.865991,1533,4,3,1,41,2008,Independent House,Good,2,5,2.82,1.03,3.9,1.78,161,91,4775535
+636,Jamnagar - Sector 16,Jamnagar,Gujarat,22.46217,70.047048,1670,5,1,3,43,2015,Apartment,Good,3,7,4.49,4.49,1.58,6.18,190,62,4623474
+637,Navsari - Sector 3,Navsari,Gujarat,20.943909,72.951948,2419,3,1,1,194,2019,Studio,New,1,6,3.94,3.2,2.4,1.3,151,95,7601269
+638,Jamnagar - Sector 2,Jamnagar,Gujarat,22.477241,70.063082,4311,5,4,1,135,2003,Penthouse,Good,2,4,4.96,4.73,0.73,9.15,133,93,11909232
+639,Junagadh - Sector 19,Junagadh,Gujarat,21.530381,70.449102,597,5,1,3,145,2019,Independent House,New,3,2,3.94,1.1,4.91,6.36,129,59,1815378
+640,Gandhinagar - Sector 1,Gandhinagar,Gujarat,23.199377,72.633587,4087,3,1,2,175,2021,Independent House,New,3,6,4.11,3.0,1.91,2.14,121,73,17881318
+641,Valsad - Sector 18,Valsad,Gujarat,20.617645,72.930642,1452,3,4,1,29,2005,Penthouse,Good,2,10,4.92,3.95,4.17,7.9,51,60,4234847
+642,Godhra - Sector 18,Godhra,Gujarat,22.757008,73.622662,912,4,1,3,169,2021,Row House,New,3,4,1.84,1.63,1.57,1.8,104,72,2441977
+643,Junagadh - Sector 16,Junagadh,Gujarat,21.522168,70.471652,1589,4,1,1,53,2020,Farmhouse,New,3,10,2.61,2.65,4.02,2.84,184,66,4891903
+644,Vadodara - Sector 13,Vadodara,Gujarat,22.303317,73.170331,4058,2,3,1,77,1996,Studio,Needs Renovation,1,10,2.6,4.18,3.02,5.51,180,73,14212141
+645,Mehsana - Sector 3,Mehsana,Gujarat,23.605243,72.38595,2074,5,2,3,120,2018,Row House,New,1,9,3.39,4.85,3.04,4.27,90,66,6386796
+646,Mehsana - Sector 15,Mehsana,Gujarat,23.586705,72.379823,1563,5,3,3,112,2022,Villa,New,3,7,0.84,4.28,4.2,8.45,111,93,4272317
+647,Nadiad - Sector 2,Nadiad,Gujarat,22.690325,72.865927,2665,1,3,1,134,2025,Row House,New,3,9,1.21,1.29,1.06,1.21,163,75,8380003
+648,Navsari - Sector 6,Navsari,Gujarat,20.963734,72.952355,4388,5,1,2,41,2024,Penthouse,New,2,10,4.51,0.63,4.67,5.09,125,59,13104827
+649,Porbandar - Sector 7,Porbandar,Gujarat,21.636748,69.613556,1092,1,2,1,191,2025,Farmhouse,New,0,6,4.75,4.29,3.63,2.76,55,99,3412419
+650,Morbi - Sector 11,Morbi,Gujarat,22.828754,70.854413,3511,4,2,1,49,1986,Studio,Needs Renovation,2,2,0.64,4.95,1.78,6.98,96,60,9831101
+651,Anand - Sector 19,Anand,Gujarat,22.548909,72.933671,4509,3,1,2,136,2021,Apartment,New,1,1,4.56,2.71,1.06,4.84,165,68,13942302
+652,Gandhinagar - Sector 15,Gandhinagar,Gujarat,23.223632,72.639549,1975,5,2,2,142,2004,Studio,Good,0,5,3.61,1.06,1.62,9.75,71,94,7680368
+653,Nadiad - Sector 15,Nadiad,Gujarat,22.704022,72.864841,2962,1,3,2,71,2021,Villa,New,2,5,0.92,2.2,1.95,2.35,155,83,9183228
+654,Nadiad - Sector 15,Nadiad,Gujarat,22.710668,72.879815,2559,2,4,2,120,2000,Independent House,Good,0,4,3.75,3.17,2.32,1.42,149,98,8146068
+655,Porbandar - Sector 16,Porbandar,Gujarat,21.630692,69.627049,4186,3,1,3,128,2016,Apartment,Good,0,9,2.47,3.52,0.64,9.49,168,84,9876039
+656,Veraval - Sector 9,Veraval,Gujarat,20.924324,70.348979,4188,2,4,1,109,2024,Independent House,New,1,10,0.75,2.62,4.04,8.04,179,77,9522023
+657,Godhra - Sector 17,Godhra,Gujarat,22.763383,73.614107,2548,1,1,3,38,2009,Penthouse,Good,2,6,3.46,1.84,2.88,9.22,70,99,5991302
+658,Dwarka - Sector 11,Dwarka,Gujarat,22.253364,68.952974,2226,4,2,2,86,1996,Farmhouse,Needs Renovation,0,6,0.54,2.97,1.82,9.12,128,77,5078465
+659,Morbi - Sector 13,Morbi,Gujarat,22.811727,70.846998,3614,5,2,3,38,1999,Independent House,Needs Renovation,1,1,0.72,4.11,3.39,4.41,50,87,11269738
+660,Morbi - Sector 12,Morbi,Gujarat,22.821031,70.823633,3188,2,2,3,103,2022,Independent House,New,2,4,1.59,4.39,2.57,8.31,136,62,8267923
+661,Morbi - Sector 3,Morbi,Gujarat,22.828354,70.841072,2198,5,4,3,59,2019,Apartment,New,2,3,2.7,4.86,3.34,4.89,136,71,6168033
+662,Porbandar - Sector 12,Porbandar,Gujarat,21.660222,69.640211,2606,5,2,3,88,2018,Villa,New,1,4,4.07,1.05,4.68,1.01,134,63,7739230
+663,Junagadh - Sector 7,Junagadh,Gujarat,21.522426,70.440465,3425,4,4,3,79,2023,Apartment,New,2,9,3.35,0.56,1.54,8.24,57,86,10790032
+664,Ahmedabad - Sector 9,Ahmedabad,Gujarat,23.021457,72.564312,1073,5,3,3,55,1985,Farmhouse,Needs Renovation,1,9,3.81,1.08,3.3,2.67,82,80,5128278
+665,Navsari - Sector 17,Navsari,Gujarat,20.934322,72.954699,1289,1,2,3,184,2014,Independent House,Good,1,8,4.02,1.83,4.68,1.01,96,71,4338527
+666,Porbandar - Sector 2,Porbandar,Gujarat,21.637927,69.642003,813,3,1,1,110,2015,Penthouse,Good,3,8,2.83,4.57,1.9,1.52,175,62,2276172
+667,Surat - Sector 18,Surat,Gujarat,21.189134,72.831946,3226,3,4,3,169,2019,Farmhouse,New,3,8,4.63,3.02,0.94,1.06,140,71,13577717
+668,Bhavnagar - Sector 6,Bhavnagar,Gujarat,21.770881,72.138744,4031,2,3,1,85,1982,Studio,Needs Renovation,0,1,4.0,2.24,1.24,8.74,193,76,11274436
+669,Nadiad - Sector 1,Nadiad,Gujarat,22.706411,72.856587,4122,4,1,1,179,1983,Farmhouse,Needs Renovation,1,3,0.75,0.75,4.28,3.68,157,77,12393524
+670,Vadodara - Sector 2,Vadodara,Gujarat,22.326825,73.184218,1150,2,1,1,173,1997,Row House,Needs Renovation,3,4,1.14,0.89,0.89,4.56,95,94,4540001
+671,Jamnagar - Sector 5,Jamnagar,Gujarat,22.482471,70.0746,785,1,2,1,167,1988,Independent House,Needs Renovation,2,4,2.89,3.45,4.23,5.15,145,62,2347971
+672,Veraval - Sector 15,Veraval,Gujarat,20.915687,70.375553,3666,4,3,3,170,1980,Row House,Needs Renovation,2,7,4.9,3.67,0.83,5.02,129,97,9479250
+673,Veraval - Sector 14,Veraval,Gujarat,20.894457,70.364119,3229,5,2,1,75,1985,Penthouse,Needs Renovation,1,3,0.77,0.82,3.91,9.44,64,87,8090693
+674,Dwarka - Sector 20,Dwarka,Gujarat,22.24298,68.973757,4273,5,2,1,33,2025,Studio,New,2,10,3.06,1.31,0.96,2.18,85,97,11965849
+675,Bharuch - Sector 15,Bharuch,Gujarat,21.694306,72.994918,2498,3,1,1,174,2018,Villa,New,3,7,1.11,3.09,1.81,8.16,117,86,7290744
+676,Gandhinagar - Sector 9,Gandhinagar,Gujarat,23.210877,72.618887,1160,1,4,1,48,2018,Independent House,New,3,4,4.42,3.57,3.6,6.49,130,55,4566670
+677,Valsad - Sector 19,Valsad,Gujarat,20.589444,72.920982,1074,3,4,2,105,2022,Villa,New,1,2,1.48,3.04,4.54,7.28,127,58,2923968
+678,Ahmedabad - Sector 14,Ahmedabad,Gujarat,23.029379,72.579597,595,2,3,1,56,2023,Farmhouse,New,0,5,3.36,0.78,3.27,4.43,118,51,2630614
+679,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.756213,72.16744,1080,4,1,2,151,2024,Independent House,New,0,5,1.16,2.44,2.32,3.76,80,78,3859301
+680,Rajkot - Sector 6,Rajkot,Gujarat,22.285051,70.79059,578,5,4,2,46,2021,Penthouse,New,1,3,4.66,2.44,3.97,6.28,114,53,2015042
+681,Morbi - Sector 19,Morbi,Gujarat,22.834181,70.833276,1965,1,3,3,22,2009,Penthouse,Good,2,4,0.58,3.75,3.78,1.94,149,72,5786399
+682,Nadiad - Sector 15,Nadiad,Gujarat,22.708803,72.880434,996,2,4,2,182,1984,Row House,Needs Renovation,0,9,1.39,4.82,1.78,7.82,66,79,3021367
+683,Rajkot - Sector 11,Rajkot,Gujarat,22.314443,70.811463,1655,4,3,2,149,2021,Villa,New,0,3,0.7,4.78,1.18,9.2,168,53,5056197
+684,Anand - Sector 9,Anand,Gujarat,22.575358,72.934488,997,4,3,3,195,1994,Farmhouse,Needs Renovation,3,5,3.18,0.62,1.34,3.08,188,56,3114748
+685,Mehsana - Sector 20,Mehsana,Gujarat,23.601256,72.385416,3272,4,4,1,39,2023,Row House,New,1,7,4.3,1.76,1.38,1.59,128,70,10221075
+686,Palanpur - Sector 17,Palanpur,Gujarat,24.162539,72.456481,2461,1,2,1,63,2024,Villa,New,3,7,0.86,1.52,1.59,4.74,66,50,7074275
+687,Gandhinagar - Sector 13,Gandhinagar,Gujarat,23.197449,72.652264,4760,1,4,2,45,2025,Studio,New,3,2,0.58,2.88,3.26,1.72,151,84,20291550
+688,Anand - Sector 15,Anand,Gujarat,22.578957,72.94648,3894,5,3,2,45,2020,Villa,New,0,5,3.37,4.56,1.83,1.86,138,88,13250221
+689,Bhavnagar - Sector 16,Bhavnagar,Gujarat,21.744925,72.166411,1109,5,4,2,43,2004,Row House,Good,1,9,1.2,0.68,0.94,7.79,189,54,3188945
+690,Godhra - Sector 11,Godhra,Gujarat,22.770631,73.632367,3860,5,1,3,36,2024,Apartment,New,1,10,2.22,3.78,0.72,1.72,187,81,9393702
+691,Veraval - Sector 18,Veraval,Gujarat,20.913258,70.370129,2326,5,1,2,48,2019,Apartment,New,2,7,3.92,4.17,1.11,9.19,80,75,5763788
+692,Palanpur - Sector 11,Palanpur,Gujarat,24.176455,72.435175,3941,4,2,1,106,2011,Penthouse,Good,2,4,0.51,3.83,3.77,4.51,166,56,10167105
+693,Godhra - Sector 1,Godhra,Gujarat,22.763302,73.630789,3988,4,1,1,69,1984,Row House,Needs Renovation,2,1,1.44,1.64,3.43,3.32,97,76,10422344
+694,Mehsana - Sector 19,Mehsana,Gujarat,23.574335,72.364008,1333,5,2,2,38,2023,Row House,New,3,8,4.78,3.31,1.75,4.7,181,57,3659687
+695,Valsad - Sector 7,Valsad,Gujarat,20.615658,72.925092,4718,3,1,3,130,2012,Studio,Good,2,4,1.92,4.11,1.14,1.12,140,91,14478062
+696,Palanpur - Sector 19,Palanpur,Gujarat,24.161481,72.456132,1591,2,3,3,181,1984,Apartment,Needs Renovation,1,10,2.39,4.12,3.54,3.47,72,99,4671540
+697,Godhra - Sector 10,Godhra,Gujarat,22.768977,73.601921,1832,1,3,1,128,1994,Independent House,Needs Renovation,3,8,2.23,2.79,4.31,1.85,77,70,5047951
+698,Veraval - Sector 10,Veraval,Gujarat,20.889802,70.348893,4898,3,1,2,109,1987,Studio,Needs Renovation,1,2,2.3,3.57,4.35,1.75,82,63,14318671
+699,Veraval - Sector 10,Veraval,Gujarat,20.905462,70.361448,4148,3,4,1,88,1984,Farmhouse,Needs Renovation,3,6,1.15,3.8,4.43,4.29,98,73,11287569
+700,Anand - Sector 17,Anand,Gujarat,22.561938,72.919487,2601,4,4,1,40,2025,Penthouse,New,2,4,4.95,2.74,0.78,1.11,187,53,8477441
+701,Morbi - Sector 20,Morbi,Gujarat,22.815381,70.831847,3326,3,2,2,64,2016,Penthouse,Good,3,5,0.86,1.45,4.8,6.14,144,51,8990775
+702,Mehsana - Sector 17,Mehsana,Gujarat,23.572996,72.372359,894,2,2,1,186,1997,Penthouse,Needs Renovation,2,7,4.01,3.28,3.57,4.57,133,88,2605739
+703,Gandhinagar - Sector 8,Gandhinagar,Gujarat,23.212588,72.621856,3641,1,3,3,196,2017,Studio,Good,2,4,3.88,0.88,4.24,2.36,194,82,14539879
+704,Vadodara - Sector 19,Vadodara,Gujarat,22.325162,73.179231,1725,2,2,2,172,2019,Farmhouse,New,0,1,4.38,2.66,2.34,1.98,97,63,7180757
+705,Ahmedabad - Sector 16,Ahmedabad,Gujarat,23.0105,72.583037,3391,2,1,1,84,2019,Villa,New,1,6,1.22,3.91,2.25,5.55,94,91,15021746
+706,Ahmedabad - Sector 4,Ahmedabad,Gujarat,23.015851,72.55644,4716,5,2,1,183,1998,Row House,Needs Renovation,2,2,1.47,3.31,1.64,3.64,71,65,22342183
+707,Vadodara - Sector 10,Vadodara,Gujarat,22.302479,73.18978,4134,4,2,2,84,2000,Farmhouse,Good,1,5,1.78,4.4,3.41,3.07,118,70,16427097
+708,Porbandar - Sector 5,Porbandar,Gujarat,21.6604,69.615005,1841,5,4,1,34,2009,Penthouse,Good,2,10,2.05,3.64,4.24,9.91,198,83,4143451
+709,Surat - Sector 18,Surat,Gujarat,21.168144,72.828327,2740,4,4,3,135,1988,Row House,Needs Renovation,2,9,2.99,4.38,3.8,6.38,142,94,10254713
+710,Mehsana - Sector 5,Mehsana,Gujarat,23.603303,72.363691,617,2,2,1,134,2009,Apartment,Good,1,1,0.95,3.03,4.88,3.21,51,95,2027384
+711,Vadodara - Sector 10,Vadodara,Gujarat,22.306859,73.162722,2981,1,1,2,133,2013,Villa,Good,3,2,1.17,2.53,1.48,6.9,163,61,10323713
+712,Valsad - Sector 8,Valsad,Gujarat,20.606301,72.927193,4381,4,2,1,38,1982,Farmhouse,Needs Renovation,2,8,4.47,1.93,1.24,3.17,102,69,13449204
+713,Valsad - Sector 6,Valsad,Gujarat,20.612963,72.925557,4097,2,4,3,42,2018,Apartment,New,1,5,0.88,1.85,0.88,7.4,110,61,11339357
+714,Ahmedabad - Sector 11,Ahmedabad,Gujarat,23.003066,72.567552,4930,2,2,3,75,2005,Row House,Good,2,9,1.07,4.24,1.04,9.88,60,99,20451651
+715,Dwarka - Sector 15,Dwarka,Gujarat,22.256518,68.958919,3653,3,1,2,199,2010,Independent House,Good,3,1,3.02,2.24,4.7,1.14,94,90,10349307
+716,Godhra - Sector 14,Godhra,Gujarat,22.760225,73.627314,4601,3,3,3,82,2023,Penthouse,New,2,10,0.5,2.34,1.48,5.28,137,81,11009219
+717,Bharuch - Sector 19,Bharuch,Gujarat,21.692278,72.990218,3028,5,2,1,130,1999,Independent House,Needs Renovation,1,6,4.84,1.25,3.18,2.61,155,67,9579136
+718,Palanpur - Sector 7,Palanpur,Gujarat,24.160084,72.447458,3703,5,4,3,67,1988,Apartment,Needs Renovation,2,6,0.55,4.56,1.5,6.43,117,89,9687481
+719,Anand - Sector 12,Anand,Gujarat,22.572172,72.914972,2548,5,2,3,135,2024,Studio,New,0,4,3.57,2.23,1.89,8.07,174,72,7236327
+720,Bharuch - Sector 20,Bharuch,Gujarat,21.689902,72.997378,3393,5,4,3,196,2024,Apartment,New,3,4,2.52,1.36,4.87,7.92,138,87,9722858
+721,Gandhinagar - Sector 18,Gandhinagar,Gujarat,23.19876,72.618103,862,1,3,3,163,1986,Penthouse,Needs Renovation,3,10,0.66,3.38,3.0,7.62,90,50,3457346
+722,Ahmedabad - Sector 6,Ahmedabad,Gujarat,23.04193,72.57973,4869,4,3,1,123,1997,Studio,Needs Renovation,1,5,2.1,1.01,0.94,7.18,178,100,18851718
+723,Bhavnagar - Sector 10,Bhavnagar,Gujarat,21.752713,72.148875,4431,4,3,2,77,1995,Independent House,Needs Renovation,2,4,2.52,4.75,4.37,7.95,159,56,13162640
+724,Veraval - Sector 7,Veraval,Gujarat,20.895685,70.354117,3258,2,1,1,134,1999,Independent House,Needs Renovation,3,1,4.11,2.8,4.89,2.15,64,96,9630588
+725,Nadiad - Sector 17,Nadiad,Gujarat,22.708584,72.871426,4735,5,3,3,172,2003,Penthouse,Good,0,10,3.95,4.71,3.46,1.37,82,75,16276373
+726,Nadiad - Sector 14,Nadiad,Gujarat,22.698383,72.867476,4573,1,3,3,145,2022,Apartment,New,1,8,4.62,4.6,1.27,1.92,114,75,14999960
+727,Palanpur - Sector 19,Palanpur,Gujarat,24.164723,72.418709,2158,4,4,3,109,2022,Independent House,New,0,7,2.63,4.27,2.56,1.99,127,74,6150441
+728,Navsari - Sector 19,Navsari,Gujarat,20.950392,72.941643,3839,1,2,2,112,2003,Independent House,Good,0,2,0.94,2.84,3.9,7.34,62,92,11674959
+729,Bhavnagar - Sector 4,Bhavnagar,Gujarat,21.765291,72.141814,759,4,1,1,165,2001,Independent House,Good,2,2,4.56,4.02,2.24,4.13,131,56,2541379
+730,Morbi - Sector 14,Morbi,Gujarat,22.833698,70.825723,2659,5,3,3,103,1990,Penthouse,Needs Renovation,3,1,2.27,2.81,3.04,1.21,166,77,7790183
+731,Bharuch - Sector 15,Bharuch,Gujarat,21.722673,72.979369,2498,1,2,3,116,2003,Studio,Good,2,1,3.86,2.06,1.16,9.53,82,91,7331543
+732,Surat - Sector 18,Surat,Gujarat,21.188894,72.837038,4292,3,2,3,139,2012,Apartment,Good,2,7,3.92,1.41,3.23,4.04,151,73,16747401
+733,Rajkot - Sector 3,Rajkot,Gujarat,22.294118,70.822044,3193,4,2,3,129,2021,Villa,New,1,9,1.83,4.32,1.53,7.81,139,66,10438884
+734,Mehsana - Sector 14,Mehsana,Gujarat,23.593596,72.351513,2915,4,1,1,51,2020,Apartment,New,0,8,1.73,2.75,2.41,3.53,125,66,8771038
+735,Bhavnagar - Sector 9,Bhavnagar,Gujarat,21.755528,72.16958,2998,2,3,1,182,1989,Apartment,Needs Renovation,0,9,2.01,3.5,1.7,1.76,141,67,10435454
+736,Rajkot - Sector 8,Rajkot,Gujarat,22.299026,70.782322,1632,3,2,2,54,2020,Studio,New,2,8,1.89,4.73,3.26,1.86,121,100,6215236
+737,Vadodara - Sector 11,Vadodara,Gujarat,22.290837,73.184739,2811,3,3,2,55,2009,Villa,Good,2,1,2.12,2.42,1.87,5.11,118,79,10684403
+738,Veraval - Sector 2,Veraval,Gujarat,20.890069,70.353542,2719,4,2,2,123,2024,Studio,New,3,9,4.16,3.07,4.1,2.66,165,60,7093619
+739,Dwarka - Sector 12,Dwarka,Gujarat,22.236241,68.957773,2317,1,4,3,48,2022,Independent House,New,3,5,4.13,3.69,4.43,7.37,127,88,5518684
+740,Ahmedabad - Sector 20,Ahmedabad,Gujarat,23.025192,72.552227,4909,5,2,1,178,2013,Penthouse,Good,0,4,2.37,1.42,1.01,9.09,98,89,19926073
+741,Rajkot - Sector 5,Rajkot,Gujarat,22.309892,70.790665,1303,1,4,2,55,2001,Penthouse,Good,2,2,4.1,1.9,2.71,1.5,72,96,5278088
+742,Dwarka - Sector 14,Dwarka,Gujarat,22.237402,68.966435,4810,4,1,2,145,1989,Independent House,Needs Renovation,1,1,2.12,2.49,4.49,9.34,174,97,10338855
+743,Bhavnagar - Sector 10,Bhavnagar,Gujarat,21.782762,72.159137,4100,1,1,2,71,2016,Villa,Good,0,6,4.24,0.84,4.79,5.8,104,76,13639342
+744,Porbandar - Sector 9,Porbandar,Gujarat,21.640135,69.617684,4561,1,3,3,53,2020,Row House,New,3,6,1.49,4.94,2.53,9.01,178,68,10757413
+745,Bharuch - Sector 18,Bharuch,Gujarat,21.691222,73.00166,4750,4,1,3,37,2022,Farmhouse,New,0,1,2.6,1.11,2.63,3.93,183,68,14124106
+746,Vadodara - Sector 17,Vadodara,Gujarat,22.317632,73.177404,3859,4,4,1,76,2022,Studio,New,0,2,4.39,3.15,4.96,4.62,52,80,15937450
+747,Bharuch - Sector 15,Bharuch,Gujarat,21.702383,72.993726,4636,3,2,1,83,2006,Penthouse,Good,1,9,4.14,3.46,2.04,8.73,152,66,12817426
+748,Bhavnagar - Sector 4,Bhavnagar,Gujarat,21.781728,72.138699,2660,4,3,3,176,1981,Penthouse,Needs Renovation,0,3,3.46,3.8,2.58,2.7,84,78,9680940
+749,Bharuch - Sector 13,Bharuch,Gujarat,21.690597,73.007901,3690,5,3,3,120,2025,Penthouse,New,1,6,4.11,2.84,2.52,8.63,67,89,11251764
+750,Gandhinagar - Sector 2,Gandhinagar,Gujarat,23.219091,72.649273,1339,3,1,2,85,2003,Apartment,Good,1,8,4.22,3.27,0.8,3.55,178,77,5317058
+751,Anand - Sector 11,Anand,Gujarat,22.574425,72.926716,1716,2,2,2,183,2007,Apartment,Good,3,9,2.77,3.97,4.33,9.97,150,94,4787796
+752,Ahmedabad - Sector 7,Ahmedabad,Gujarat,23.033567,72.554355,2761,5,1,3,98,2019,Villa,New,1,10,2.41,2.49,3.28,6.19,107,87,11881842
+753,Godhra - Sector 15,Godhra,Gujarat,22.776658,73.623329,2736,2,4,2,97,1986,Villa,Needs Renovation,3,7,2.85,3.66,4.82,3.55,97,87,7115103
+754,Bharuch - Sector 9,Bharuch,Gujarat,21.713246,72.976989,4109,3,2,1,162,2002,Apartment,Good,3,6,4.81,3.36,4.54,5.75,57,97,13545286
+755,Navsari - Sector 5,Navsari,Gujarat,20.928076,72.953439,2845,2,3,1,93,2018,Villa,New,1,4,3.29,1.71,1.56,3.03,177,100,8358267
+756,Veraval - Sector 10,Veraval,Gujarat,20.90492,70.352061,2654,5,1,3,141,1989,Villa,Needs Renovation,3,7,2.02,1.46,4.58,7.79,157,58,6232865
+757,Rajkot - Sector 15,Rajkot,Gujarat,22.304645,70.784878,4512,3,1,2,118,2002,Row House,Good,2,3,3.5,4.69,4.15,7.18,195,79,13997618
+758,Godhra - Sector 11,Godhra,Gujarat,22.774208,73.616689,4665,1,2,1,36,2012,Farmhouse,Good,3,4,2.94,0.81,3.84,1.27,137,96,12163275
+759,Junagadh - Sector 14,Junagadh,Gujarat,21.512419,70.448674,1306,2,3,2,177,2003,Studio,Good,0,9,3.23,4.95,4.72,1.29,69,80,4738064
+760,Bhavnagar - Sector 11,Bhavnagar,Gujarat,21.770676,72.139673,1573,2,2,1,175,2022,Apartment,New,3,7,3.54,4.25,4.41,7.05,85,71,5192688
+761,Gandhinagar - Sector 15,Gandhinagar,Gujarat,23.196565,72.634524,4533,5,4,3,151,1993,Farmhouse,Needs Renovation,3,6,1.73,4.7,2.84,9.12,112,67,17113660
+762,Porbandar - Sector 19,Porbandar,Gujarat,21.657273,69.638378,2162,1,2,1,99,2023,Farmhouse,New,3,3,4.68,2.69,1.45,2.19,89,69,6591600
+763,Nadiad - Sector 7,Nadiad,Gujarat,22.710178,72.878037,931,5,1,2,161,1998,Row House,Needs Renovation,3,6,0.84,0.61,1.83,7.17,50,100,2916836
+764,Palanpur - Sector 6,Palanpur,Gujarat,24.163865,72.430395,1556,2,3,1,186,2023,Studio,New,3,9,4.79,2.29,4.98,1.07,188,82,4203874
+765,Mehsana - Sector 7,Mehsana,Gujarat,23.590781,72.363927,2306,4,1,3,53,2006,Penthouse,Good,1,3,1.97,0.53,1.85,5.35,62,94,7146860
+766,Veraval - Sector 12,Veraval,Gujarat,20.888359,70.378784,3774,5,2,3,140,2018,Apartment,New,1,3,3.83,4.55,4.95,7.36,152,84,9006558
+767,Anand - Sector 8,Anand,Gujarat,22.581054,72.928115,653,3,3,2,182,2018,Studio,New,1,3,3.22,3.38,1.75,7.86,165,51,1884117
+768,Veraval - Sector 19,Veraval,Gujarat,20.912559,70.372279,1807,5,3,3,199,1983,Studio,Needs Renovation,1,10,3.77,2.96,1.3,5.52,176,73,4371133
+769,Palanpur - Sector 3,Palanpur,Gujarat,24.167086,72.450806,584,4,2,1,74,1982,Villa,Needs Renovation,2,2,1.65,2.31,4.27,3.53,193,96,1489251
+770,Ahmedabad - Sector 17,Ahmedabad,Gujarat,23.041819,72.582348,3928,4,3,3,92,2002,Apartment,Good,0,2,2.65,2.88,1.62,8.04,155,54,15319914
+771,Navsari - Sector 20,Navsari,Gujarat,20.933623,72.938767,3422,3,3,3,138,2009,Penthouse,Good,0,8,1.0,3.69,2.42,4.76,104,94,10542028
+772,Valsad - Sector 3,Valsad,Gujarat,20.612622,72.922137,3775,1,4,3,200,2024,Independent House,New,1,1,2.52,1.59,4.85,1.01,194,69,10881337
+773,Palanpur - Sector 7,Palanpur,Gujarat,24.18862,72.431763,1157,4,3,3,22,2016,Independent House,Good,3,4,2.32,3.73,1.95,4.26,166,84,3001265
+774,Nadiad - Sector 11,Nadiad,Gujarat,22.673064,72.844303,3998,4,1,3,57,2019,Independent House,New,2,6,4.26,3.35,3.97,5.95,106,81,12123190
+775,Godhra - Sector 3,Godhra,Gujarat,22.773839,73.609169,786,3,3,1,68,2025,Independent House,New,0,4,0.88,3.37,2.15,4.78,153,92,1866500
+776,Junagadh - Sector 6,Junagadh,Gujarat,21.502233,70.465796,4662,3,3,3,155,2005,Penthouse,Good,0,5,2.71,4.57,3.9,2.74,175,80,14541523
+777,Godhra - Sector 1,Godhra,Gujarat,22.757158,73.630317,1619,3,3,1,152,2005,Studio,Good,3,1,3.42,4.47,1.94,1.37,97,77,4407888
+778,Veraval - Sector 12,Veraval,Gujarat,20.905468,70.346877,760,5,3,2,94,1983,Apartment,Needs Renovation,2,6,0.79,2.59,4.2,2.02,90,53,2190075
+779,Vadodara - Sector 20,Vadodara,Gujarat,22.290106,73.175242,1465,5,3,2,195,1998,Independent House,Needs Renovation,0,6,3.33,0.51,1.76,7.94,98,78,5335617
+780,Bharuch - Sector 3,Bharuch,Gujarat,21.704354,73.00286,3937,3,4,2,187,2017,Penthouse,Good,0,8,3.27,3.36,3.45,2.43,50,85,14055595
+781,Navsari - Sector 15,Navsari,Gujarat,20.956164,72.962326,525,4,2,1,75,1991,Independent House,Needs Renovation,0,5,1.55,4.46,2.6,8.96,77,68,1511408
+782,Nadiad - Sector 6,Nadiad,Gujarat,22.693375,72.854093,1606,1,3,2,121,2012,Row House,Good,2,9,0.6,0.51,1.38,2.37,145,100,5035968
+783,Valsad - Sector 18,Valsad,Gujarat,20.597059,72.9223,2448,3,2,1,154,1986,Farmhouse,Needs Renovation,3,10,1.45,2.64,0.52,2.79,89,83,7685757
+784,Nadiad - Sector 20,Nadiad,Gujarat,22.695733,72.849671,1166,3,2,3,143,2022,Row House,New,3,1,1.31,1.77,1.49,4.57,73,72,3781044
+785,Navsari - Sector 9,Navsari,Gujarat,20.940789,72.954474,2003,1,4,2,200,2021,Villa,New,2,7,1.99,2.82,3.7,9.83,196,96,4916459
+786,Palanpur - Sector 7,Palanpur,Gujarat,24.16945,72.424506,2148,5,3,3,76,2003,Penthouse,Good,0,1,4.63,2.49,3.55,7.7,141,69,5307337
+787,Dwarka - Sector 8,Dwarka,Gujarat,22.243771,68.978649,2632,2,3,1,95,2012,Farmhouse,Good,1,8,4.24,1.38,3.86,2.67,96,51,7207270
+788,Veraval - Sector 3,Veraval,Gujarat,20.925442,70.362013,4461,2,3,3,138,2024,Independent House,New,1,10,4.85,3.14,4.99,5.22,138,96,11364949
+789,Ahmedabad - Sector 9,Ahmedabad,Gujarat,23.03116,72.562502,3104,5,2,2,28,2005,Row House,Good,3,10,4.88,0.89,1.4,5.33,165,94,12735524
+790,Gandhinagar - Sector 15,Gandhinagar,Gujarat,23.216212,72.628009,2861,5,1,1,85,2003,Studio,Good,0,5,3.91,1.16,3.03,8.21,101,56,11178493
+791,Bharuch - Sector 2,Bharuch,Gujarat,21.705639,73.015114,2823,3,3,1,150,1986,Independent House,Needs Renovation,1,8,1.98,3.34,4.16,1.78,118,88,9484921
+792,Nadiad - Sector 15,Nadiad,Gujarat,22.676031,72.843779,2490,1,4,1,147,2019,Villa,New,3,3,3.62,4.21,3.18,6.07,110,74,7496202
+793,Ahmedabad - Sector 5,Ahmedabad,Gujarat,23.026318,72.571069,2500,1,2,3,22,2018,Apartment,New,2,5,2.63,3.64,1.01,7.74,63,82,10889345
+794,Bhavnagar - Sector 1,Bhavnagar,Gujarat,21.744717,72.138005,4017,5,3,1,73,1998,Villa,Needs Renovation,1,3,4.19,3.34,4.86,6.05,120,84,13050365
+795,Morbi - Sector 5,Morbi,Gujarat,22.812217,70.818974,1573,2,2,1,188,1981,Row House,Needs Renovation,2,8,1.37,1.51,4.74,3.36,125,83,4621977
+796,Palanpur - Sector 20,Palanpur,Gujarat,24.159888,72.441456,4598,5,4,3,49,2020,Penthouse,New,3,7,4.18,3.47,1.46,1.48,152,89,12864547
+797,Junagadh - Sector 19,Junagadh,Gujarat,21.506534,70.453249,4571,5,4,2,73,2014,Row House,Good,1,4,1.9,1.27,2.9,2.1,191,55,14170502
+798,Veraval - Sector 9,Veraval,Gujarat,20.887543,70.362052,2718,5,4,2,121,2024,Farmhouse,New,2,5,2.84,3.67,0.65,8.99,184,88,6003068
+799,Jamnagar - Sector 16,Jamnagar,Gujarat,22.486197,70.072498,3131,1,1,1,149,2002,Penthouse,Good,3,5,4.55,4.43,0.7,2.66,77,54,10671061
+800,Bharuch - Sector 14,Bharuch,Gujarat,21.720075,73.012488,1020,5,1,3,104,1999,Apartment,Needs Renovation,0,7,0.56,3.52,0.75,4.24,176,80,3038368
+801,Bharuch - Sector 15,Bharuch,Gujarat,21.71758,73.009883,4409,1,3,3,132,2023,Villa,New,3,9,3.97,3.63,3.95,5.96,177,57,12624504
+802,Valsad - Sector 10,Valsad,Gujarat,20.595758,72.94143,1727,5,4,3,195,1992,Row House,Needs Renovation,0,4,1.96,4.86,4.65,2.81,118,52,5247274
+803,Porbandar - Sector 9,Porbandar,Gujarat,21.643248,69.642012,2057,2,3,1,118,1991,Villa,Needs Renovation,1,10,4.79,3.06,2.38,1.71,70,70,6466547
+804,Jamnagar - Sector 20,Jamnagar,Gujarat,22.487062,70.046648,3186,3,4,3,100,2023,Penthouse,New,3,7,3.82,1.29,0.87,8.31,93,62,9396790
+805,Nadiad - Sector 11,Nadiad,Gujarat,22.700539,72.878475,1269,2,3,3,83,1988,Villa,Needs Renovation,1,7,4.24,1.57,2.4,5.5,140,88,3739476
+806,Porbandar - Sector 16,Porbandar,Gujarat,21.658844,69.630342,3452,3,1,1,182,2002,Row House,Good,3,4,2.83,1.02,3.85,8.6,107,71,8933479
+807,Mehsana - Sector 14,Mehsana,Gujarat,23.601219,72.372589,3869,5,4,2,157,2005,Apartment,Good,0,1,3.08,4.17,1.24,1.5,149,84,11816850
+808,Navsari - Sector 17,Navsari,Gujarat,20.930275,72.941936,2519,4,1,1,80,1987,Apartment,Needs Renovation,1,8,2.88,3.02,3.45,8.74,57,80,7448737
+809,Palanpur - Sector 10,Palanpur,Gujarat,24.156989,72.44679,2614,4,4,2,35,1996,Row House,Needs Renovation,0,1,3.37,1.63,3.42,6.48,70,90,7194263
+810,Navsari - Sector 20,Navsari,Gujarat,20.960649,72.960339,2248,5,1,2,185,2005,Row House,Good,2,3,3.53,0.92,3.86,6.29,99,82,6728457
+811,Mehsana - Sector 19,Mehsana,Gujarat,23.598451,72.37461,857,1,1,1,106,2020,Apartment,New,2,5,1.11,2.89,1.07,1.49,81,52,2827218
+812,Nadiad - Sector 13,Nadiad,Gujarat,22.677657,72.861397,2700,1,1,1,183,1992,Apartment,Needs Renovation,2,5,4.19,1.84,4.81,3.19,135,93,8418006
+813,Bhavnagar - Sector 12,Bhavnagar,Gujarat,21.748529,72.142838,3838,1,2,2,182,2005,Studio,Good,2,4,3.13,2.26,4.03,6.92,121,73,12208121
+814,Nadiad - Sector 10,Nadiad,Gujarat,22.708614,72.864227,1603,3,4,1,67,1993,Row House,Needs Renovation,1,5,4.46,2.09,1.13,1.7,118,59,5258234
+815,Surat - Sector 14,Surat,Gujarat,21.16852,72.829971,4218,2,3,1,53,2021,Villa,New,3,5,1.61,2.86,4.44,7.43,120,62,15801302
+816,Godhra - Sector 12,Godhra,Gujarat,22.756436,73.619812,2809,5,2,2,76,2001,Villa,Good,2,7,3.63,2.64,0.87,4.51,54,65,7494635
+817,Rajkot - Sector 6,Rajkot,Gujarat,22.312142,70.799054,4150,3,4,1,143,2016,Villa,Good,2,3,1.78,4.5,3.71,1.39,91,55,16503654
+818,Ahmedabad - Sector 17,Ahmedabad,Gujarat,23.023679,72.552921,2975,2,2,1,189,1988,Apartment,Needs Renovation,0,3,3.18,2.76,0.86,7.37,107,56,12457946
+819,Palanpur - Sector 12,Palanpur,Gujarat,24.158921,72.425304,2842,5,3,3,182,2015,Apartment,Good,3,5,2.68,4.35,3.84,6.15,181,52,6940431
+820,Surat - Sector 12,Surat,Gujarat,21.159699,72.847161,2410,4,4,2,106,2009,Studio,Good,0,5,0.86,3.55,3.18,5.01,101,62,9747488
+821,Dwarka - Sector 11,Dwarka,Gujarat,22.229074,68.971479,2429,5,1,2,86,2002,Villa,Good,0,8,0.94,3.52,4.38,1.54,73,62,6983459
+822,Bhavnagar - Sector 5,Bhavnagar,Gujarat,21.757198,72.154461,2389,5,2,3,24,2023,Row House,New,1,9,0.92,0.71,2.42,4.51,156,83,7704666
+823,Surat - Sector 12,Surat,Gujarat,21.172495,72.83343,2735,3,4,2,141,1992,Apartment,Needs Renovation,2,5,3.88,1.14,2.5,2.82,171,97,10697192
+824,Navsari - Sector 12,Navsari,Gujarat,20.934072,72.962823,1590,1,2,3,95,2011,Apartment,Good,2,3,4.2,2.64,1.69,5.85,70,93,4961629
+825,Godhra - Sector 15,Godhra,Gujarat,22.762415,73.625571,791,1,3,1,89,2014,Independent House,Good,3,7,4.69,2.19,0.73,8.99,118,96,1773889
+826,Valsad - Sector 4,Valsad,Gujarat,20.605241,72.920863,1335,5,2,3,178,2021,Farmhouse,New,1,3,0.78,0.55,3.26,9.02,197,97,3206945
+827,Anand - Sector 16,Anand,Gujarat,22.573451,72.936553,896,5,3,3,112,2025,Studio,New,0,9,2.95,1.18,1.95,8.22,133,51,2661395
+828,Rajkot - Sector 8,Rajkot,Gujarat,22.320213,70.791476,1635,5,4,3,140,2002,Villa,Good,0,1,4.67,4.92,3.36,3.71,57,67,6423313
+829,Rajkot - Sector 19,Rajkot,Gujarat,22.284875,70.797457,1007,5,3,1,163,1983,Apartment,Needs Renovation,3,5,0.91,0.65,4.0,6.2,193,53,3203462
+830,Rajkot - Sector 20,Rajkot,Gujarat,22.297549,70.793466,671,4,2,2,178,2018,Apartment,New,3,6,2.49,3.69,1.4,6.64,73,56,2427359
+831,Bhavnagar - Sector 4,Bhavnagar,Gujarat,21.758445,72.161126,3681,2,3,2,77,2011,Penthouse,Good,0,8,2.95,1.41,0.9,3.11,57,78,13672156
+832,Rajkot - Sector 1,Rajkot,Gujarat,22.321729,70.805768,2022,5,4,1,159,2022,Villa,New,3,8,3.02,4.27,3.31,3.96,66,93,7825387
+833,Bharuch - Sector 18,Bharuch,Gujarat,21.706774,73.015169,1369,4,2,3,144,2023,Studio,New,2,1,2.01,1.59,2.05,5.47,107,84,4300655
+834,Anand - Sector 17,Anand,Gujarat,22.575107,72.933374,2957,3,3,2,27,2024,Apartment,New,1,10,1.68,4.67,3.02,8.84,72,88,9261653
+835,Bharuch - Sector 11,Bharuch,Gujarat,21.688633,72.997687,2687,2,2,1,79,1988,Apartment,Needs Renovation,3,2,1.57,2.16,0.55,3.95,85,93,8944282
+836,Porbandar - Sector 2,Porbandar,Gujarat,21.657847,69.631608,2909,5,4,1,142,2023,Studio,New,3,3,1.28,3.21,1.7,7.67,188,52,6999162
+837,Valsad - Sector 2,Valsad,Gujarat,20.586627,72.930886,3275,1,3,3,112,2024,Independent House,New,3,1,3.07,4.43,4.83,9.79,108,68,8574979
+838,Dwarka - Sector 16,Dwarka,Gujarat,22.24424,68.965123,2294,4,4,3,134,2005,Row House,Good,1,10,3.07,3.17,3.51,3.07,165,88,5753212
+839,Mehsana - Sector 20,Mehsana,Gujarat,23.573448,72.38617,2263,3,4,2,149,2008,Studio,Good,2,6,4.97,3.87,4.58,9.14,52,69,6486687
+840,Veraval - Sector 15,Veraval,Gujarat,20.902659,70.374857,1080,4,4,3,69,2014,Villa,Good,0,6,4.42,2.38,3.44,1.46,178,60,2844063
+841,Dwarka - Sector 14,Dwarka,Gujarat,22.260547,68.979791,779,1,4,3,87,2014,Independent House,Good,0,8,4.77,4.49,4.51,6.03,105,60,1961990
+842,Ahmedabad - Sector 14,Ahmedabad,Gujarat,23.023472,72.578162,2728,1,3,1,43,2014,Independent House,Good,3,9,2.13,1.32,3.15,1.53,81,59,13366742
+843,Nadiad - Sector 17,Nadiad,Gujarat,22.694178,72.882212,4622,2,1,2,22,1994,Penthouse,Needs Renovation,1,9,4.24,3.97,4.78,6.19,122,77,13689526
+844,Anand - Sector 9,Anand,Gujarat,22.551036,72.940022,2100,1,1,2,87,1999,Apartment,Needs Renovation,1,4,4.2,1.24,3.38,5.29,58,89,7252516
+845,Surat - Sector 5,Surat,Gujarat,21.18164,72.843546,3610,2,3,1,36,1999,Independent House,Needs Renovation,1,6,2.08,3.17,3.24,4.93,180,51,13341621
+846,Mehsana - Sector 8,Mehsana,Gujarat,23.576834,72.387637,1681,5,4,2,143,1997,Row House,Needs Renovation,2,1,4.39,2.67,4.32,6.59,189,89,4379354
+847,Ahmedabad - Sector 13,Ahmedabad,Gujarat,23.017407,72.587269,4258,1,3,1,23,2022,Farmhouse,New,0,9,2.37,1.86,4.49,4.28,166,83,17859554
+848,Ahmedabad - Sector 14,Ahmedabad,Gujarat,23.008088,72.582501,891,2,4,2,113,2025,Apartment,New,0,9,2.92,3.86,1.44,6.37,186,97,3480807
+849,Bhavnagar - Sector 2,Bhavnagar,Gujarat,21.781427,72.168748,4975,1,1,3,77,1996,Villa,Needs Renovation,1,9,4.61,4.44,1.83,1.72,111,85,17936652
+850,Godhra - Sector 2,Godhra,Gujarat,22.760034,73.613454,1077,4,1,2,149,1993,Independent House,Needs Renovation,2,7,2.36,2.44,3.34,2.88,180,88,2580040
+851,Morbi - Sector 6,Morbi,Gujarat,22.829317,70.830906,1137,4,1,1,73,2002,Studio,Good,0,8,0.94,3.3,2.57,4.26,90,63,3407458
+852,Nadiad - Sector 20,Nadiad,Gujarat,22.70276,72.869095,2281,3,3,1,64,2015,Farmhouse,Good,3,6,2.66,1.11,2.2,5.69,175,62,6420542
+853,Dwarka - Sector 4,Dwarka,Gujarat,22.256709,68.951375,4081,3,2,3,121,1987,Independent House,Needs Renovation,1,4,0.95,3.57,2.98,3.42,165,55,10158568
+854,Junagadh - Sector 10,Junagadh,Gujarat,21.506207,70.465778,571,1,2,2,109,1986,Studio,Needs Renovation,1,6,2.75,3.89,3.39,7.65,195,78,1557311
+855,Bharuch - Sector 13,Bharuch,Gujarat,21.721228,72.976993,740,4,3,3,119,2011,Independent House,Good,3,2,1.04,2.43,4.8,2.4,120,90,2448772
+856,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.760926,72.143315,3278,5,2,2,183,1983,Farmhouse,Needs Renovation,1,6,2.46,4.3,4.11,7.16,177,97,9708173
+857,Godhra - Sector 10,Godhra,Gujarat,22.786095,73.633403,4636,1,1,1,159,2024,Farmhouse,New,1,7,2.65,4.4,1.05,2.5,95,96,12355983
+858,Palanpur - Sector 14,Palanpur,Gujarat,24.162604,72.450837,2528,5,4,3,109,2006,Villa,Good,0,8,2.14,2.49,3.52,6.19,115,99,6665036
+859,Rajkot - Sector 6,Rajkot,Gujarat,22.300762,70.788451,4438,1,1,2,75,1982,Apartment,Needs Renovation,1,1,3.3,4.41,1.02,3.9,185,67,15006808
+860,Navsari - Sector 13,Navsari,Gujarat,20.944858,72.94724,734,2,2,2,33,2002,Row House,Good,1,6,2.72,0.98,0.53,1.61,98,70,2434847
+861,Bharuch - Sector 16,Bharuch,Gujarat,21.692318,73.01588,4343,4,2,3,82,2020,Apartment,New,3,2,3.44,4.92,3.2,1.43,70,98,15497725
+862,Palanpur - Sector 9,Palanpur,Gujarat,24.16614,72.447909,3121,5,2,2,58,2006,Villa,Good,2,7,3.24,4.13,3.28,5.04,149,79,8120047
+863,Bharuch - Sector 6,Bharuch,Gujarat,21.714447,73.001755,3147,3,4,2,185,2017,Penthouse,Good,2,3,2.66,4.21,2.94,8.81,51,69,9718110
+864,Mehsana - Sector 2,Mehsana,Gujarat,23.574865,72.376136,2749,1,1,3,142,1983,Independent House,Needs Renovation,0,4,1.18,0.53,3.64,8.03,158,53,7188818
+865,Morbi - Sector 8,Morbi,Gujarat,22.836896,70.853061,2809,1,1,1,114,2017,Villa,Good,2,6,0.63,2.48,3.33,3.48,63,95,8815836
+866,Jamnagar - Sector 16,Jamnagar,Gujarat,22.468773,70.053365,1028,3,4,1,61,2020,Apartment,New,0,3,3.84,3.66,1.08,9.86,186,75,2619928
+867,Bharuch - Sector 4,Bharuch,Gujarat,21.717166,73.011597,1308,4,2,3,71,1987,Farmhouse,Needs Renovation,1,9,3.35,3.42,2.48,6.88,187,65,3622464
+868,Anand - Sector 7,Anand,Gujarat,22.571727,72.939869,920,3,4,2,20,1997,Independent House,Needs Renovation,2,1,4.44,4.23,1.37,9.77,158,69,2555428
+869,Gandhinagar - Sector 18,Gandhinagar,Gujarat,23.207387,72.652392,2014,3,3,3,132,2004,Penthouse,Good,1,1,1.77,0.95,4.51,6.44,167,86,7600211
+870,Palanpur - Sector 4,Palanpur,Gujarat,24.153383,72.446304,2447,2,2,3,65,2024,Farmhouse,New,0,6,1.05,0.91,0.77,3.7,144,87,6594739
+871,Rajkot - Sector 19,Rajkot,Gujarat,22.318905,70.804173,3536,2,1,2,156,2025,Villa,New,2,8,2.11,2.41,2.17,1.48,88,89,14082196
+872,Nadiad - Sector 8,Nadiad,Gujarat,22.689759,72.846218,2131,3,2,2,97,2019,Apartment,New,1,1,2.12,3.47,1.27,1.98,134,63,6823610
+873,Bhavnagar - Sector 2,Bhavnagar,Gujarat,21.772093,72.139143,4669,1,1,3,47,2020,Apartment,New,3,2,2.44,3.99,0.6,3.72,93,100,16462803
+874,Junagadh - Sector 14,Junagadh,Gujarat,21.517511,70.463231,3775,4,4,2,47,2023,Apartment,New,0,7,4.26,4.42,2.58,9.85,168,100,10088249
+875,Surat - Sector 8,Surat,Gujarat,21.181039,72.846475,4627,5,3,3,127,2004,Independent House,Good,2,9,3.48,1.14,0.83,6.94,115,84,17632617
+876,Bhavnagar - Sector 3,Bhavnagar,Gujarat,21.770128,72.164759,3052,4,4,2,126,2023,Independent House,New,3,3,1.61,2.82,4.57,6.86,200,79,8847772
+877,Vadodara - Sector 13,Vadodara,Gujarat,22.297016,73.196991,4279,4,3,3,185,2011,Penthouse,Good,0,4,2.01,4.78,0.85,6.48,175,87,14748788
+878,Nadiad - Sector 4,Nadiad,Gujarat,22.69917,72.849614,3063,4,1,2,164,1998,Penthouse,Needs Renovation,0,2,3.89,2.34,3.29,2.3,158,100,9472578
+879,Rajkot - Sector 1,Rajkot,Gujarat,22.285004,70.789876,3891,4,4,3,52,2023,Independent House,New,2,7,2.9,3.78,1.18,1.59,79,71,15613434
+880,Bhavnagar - Sector 6,Bhavnagar,Gujarat,21.779657,72.157009,1528,2,3,3,39,1988,Farmhouse,Needs Renovation,2,10,3.2,3.1,1.33,7.57,62,55,5108324
+881,Godhra - Sector 3,Godhra,Gujarat,22.790432,73.610599,4490,4,3,1,63,1987,Penthouse,Needs Renovation,2,3,1.48,2.46,4.86,1.31,126,94,11846477
+882,Valsad - Sector 3,Valsad,Gujarat,20.616943,72.918035,3913,5,1,3,177,2007,Villa,Good,0,2,1.45,2.57,4.46,9.02,113,60,10383129
+883,Rajkot - Sector 18,Rajkot,Gujarat,22.309801,70.810552,608,5,1,3,43,1994,Villa,Needs Renovation,3,3,2.6,1.95,0.85,9.78,194,86,1773875
+884,Porbandar - Sector 15,Porbandar,Gujarat,21.645756,69.635719,1442,4,3,1,196,1990,Independent House,Needs Renovation,2,2,4.59,0.65,4.86,7.15,132,55,3754342
+885,Porbandar - Sector 19,Porbandar,Gujarat,21.633212,69.638763,1485,4,3,2,50,2002,Apartment,Good,0,3,3.07,3.22,2.12,9.1,83,69,3898675
+886,Godhra - Sector 6,Godhra,Gujarat,22.773412,73.62469,4660,1,1,3,69,2004,Studio,Good,2,10,4.93,3.11,4.57,4.53,109,78,11705238
+887,Vadodara - Sector 17,Vadodara,Gujarat,22.302906,73.163316,1277,4,4,2,60,1985,Apartment,Needs Renovation,2,1,0.66,0.97,2.41,2.77,162,73,4852036
+888,Surat - Sector 6,Surat,Gujarat,21.184088,72.829213,2264,4,2,2,190,2023,Apartment,New,1,1,3.63,1.15,3.79,6.4,179,63,8104123
+889,Nadiad - Sector 15,Nadiad,Gujarat,22.694323,72.882576,4462,5,2,1,162,2022,Villa,New,1,4,1.05,4.62,2.16,5.41,198,77,12286611
+890,Gandhinagar - Sector 18,Gandhinagar,Gujarat,23.230384,72.628682,4304,1,4,1,37,2014,Farmhouse,Good,2,5,3.44,4.42,1.02,2.44,92,97,19330064
+891,Rajkot - Sector 19,Rajkot,Gujarat,22.320164,70.809636,2647,5,2,2,96,2007,Farmhouse,Good,0,1,2.93,2.59,3.38,3.77,80,96,10132303
+892,Navsari - Sector 3,Navsari,Gujarat,20.960566,72.957477,4003,1,3,1,25,2025,Apartment,New,0,9,1.04,1.86,0.62,7.35,154,100,10977124
+893,Valsad - Sector 3,Valsad,Gujarat,20.58812,72.925978,3219,2,4,3,33,2008,Apartment,Good,0,8,1.27,4.88,2.43,5.14,176,98,8686209
+894,Jamnagar - Sector 18,Jamnagar,Gujarat,22.459479,70.040034,1948,5,3,1,89,2022,Studio,New,2,6,4.73,3.2,3.48,3.6,195,76,5675412
+895,Vadodara - Sector 2,Vadodara,Gujarat,22.316661,73.171081,4124,2,1,1,116,1991,Independent House,Needs Renovation,3,3,1.75,1.18,2.2,3.52,156,79,15530965
+896,Valsad - Sector 14,Valsad,Gujarat,20.617367,72.930851,3563,5,1,3,21,1991,Farmhouse,Needs Renovation,1,10,1.7,2.17,0.62,9.54,68,58,9808000
+897,Mehsana - Sector 10,Mehsana,Gujarat,23.596147,72.374824,1797,5,2,3,85,1994,Farmhouse,Needs Renovation,3,7,2.48,3.14,3.84,9.71,69,80,4988003
+898,Gandhinagar - Sector 16,Gandhinagar,Gujarat,23.231252,72.655665,3399,3,1,1,114,2023,Penthouse,New,3,3,3.88,2.41,3.06,2.45,166,57,14018484
+899,Bhavnagar - Sector 14,Bhavnagar,Gujarat,21.757521,72.139337,2988,3,2,1,114,2011,Row House,Good,1,7,4.41,4.02,4.39,4.09,63,62,10797091
+900,Gandhinagar - Sector 7,Gandhinagar,Gujarat,23.224091,72.653861,2813,2,4,1,144,2021,Independent House,New,3,1,1.98,2.36,4.07,7.27,124,55,10950654
+901,Navsari - Sector 19,Navsari,Gujarat,20.965879,72.947937,2264,5,2,1,96,2004,Farmhouse,Good,3,9,2.82,2.04,3.0,7.97,125,77,6327868
+902,Surat - Sector 3,Surat,Gujarat,21.175249,72.812734,844,1,3,2,98,2023,Apartment,New,0,3,3.33,2.27,3.85,2.27,171,52,3339553
+903,Gandhinagar - Sector 3,Gandhinagar,Gujarat,23.229079,72.617319,1183,4,1,2,124,2010,Penthouse,Good,1,8,3.31,1.18,1.13,9.78,118,100,4364442
+904,Gandhinagar - Sector 4,Gandhinagar,Gujarat,23.21652,72.65326,3868,5,2,3,116,2024,Villa,New,3,10,2.22,4.59,2.03,4.36,171,70,15220186
+905,Valsad - Sector 1,Valsad,Gujarat,20.6012,72.930009,2461,2,4,1,183,2023,Apartment,New,1,3,1.04,4.35,2.76,2.45,162,68,7158615
+906,Nadiad - Sector 6,Nadiad,Gujarat,22.709744,72.843427,1282,1,1,1,103,2018,Apartment,New,3,3,3.37,2.3,3.9,3.12,192,57,3739191
+907,Bharuch - Sector 5,Bharuch,Gujarat,21.703774,72.97651,3191,4,3,3,136,2007,Villa,Good,3,8,0.53,2.83,0.53,2.94,91,78,10783747
+908,Mehsana - Sector 10,Mehsana,Gujarat,23.596148,72.357903,3887,4,3,3,54,2020,Villa,New,3,9,1.25,1.59,3.52,7.79,130,72,10562843
+909,Porbandar - Sector 4,Porbandar,Gujarat,21.655348,69.637048,4690,3,4,1,74,1991,Apartment,Needs Renovation,2,2,2.03,4.24,0.69,3.98,122,62,13265145
+910,Navsari - Sector 13,Navsari,Gujarat,20.941328,72.954731,1716,3,3,3,96,1999,Independent House,Needs Renovation,1,5,3.46,3.19,4.68,6.11,189,50,4642130
+911,Gandhinagar - Sector 16,Gandhinagar,Gujarat,23.219061,72.643278,4489,1,1,2,194,1994,Independent House,Needs Renovation,3,8,4.79,0.53,2.91,1.43,120,68,19954172
+912,Bhavnagar - Sector 17,Bhavnagar,Gujarat,21.754748,72.153754,1960,5,1,2,187,1983,Row House,Needs Renovation,0,5,1.77,3.71,4.59,3.96,55,52,7163124
+913,Mehsana - Sector 20,Mehsana,Gujarat,23.60616,72.365971,1299,3,4,1,27,1989,Studio,Needs Renovation,3,7,4.96,2.89,2.58,2.78,64,51,4248569
+914,Morbi - Sector 15,Morbi,Gujarat,22.832656,70.82624,917,2,2,3,179,2022,Penthouse,New,3,5,3.95,1.96,3.6,5.62,134,81,2537505
+915,Dwarka - Sector 11,Dwarka,Gujarat,22.232623,68.978123,2489,5,2,3,162,1988,Apartment,Needs Renovation,2,8,1.09,3.85,2.41,5.45,94,50,6429552
+916,Valsad - Sector 9,Valsad,Gujarat,20.611202,72.920837,3016,5,1,3,46,1982,Row House,Needs Renovation,2,7,1.12,4.68,1.95,3.28,128,81,8969609
+917,Godhra - Sector 15,Godhra,Gujarat,22.760843,73.608133,3448,3,3,2,80,2024,Independent House,New,3,8,4.25,2.08,4.05,1.48,170,100,8609101
+918,Gandhinagar - Sector 20,Gandhinagar,Gujarat,23.225673,72.656255,1996,5,1,1,188,1981,Villa,Needs Renovation,0,3,4.83,0.84,3.88,9.76,63,63,7826929
+919,Bhavnagar - Sector 19,Bhavnagar,Gujarat,21.751922,72.148068,1389,1,4,3,34,1990,Independent House,Needs Renovation,2,8,1.08,4.5,3.87,3.25,151,57,4630957
+920,Navsari - Sector 18,Navsari,Gujarat,20.937138,72.961217,2447,4,2,3,68,2022,Apartment,New,1,5,4.54,2.96,2.06,2.23,189,73,7204828
+921,Godhra - Sector 16,Godhra,Gujarat,22.758546,73.607904,3816,1,4,2,87,2005,Villa,Good,3,8,1.66,4.29,1.66,8.5,114,95,8699251
+922,Surat - Sector 14,Surat,Gujarat,21.160855,72.840355,2340,4,1,2,20,2017,Farmhouse,Good,3,4,1.14,4.29,1.66,7.46,83,91,9128148
+923,Nadiad - Sector 11,Nadiad,Gujarat,22.677797,72.877681,2928,4,4,1,158,2015,Penthouse,Good,2,2,1.67,1.87,3.56,4.1,83,92,9489510
+924,Dwarka - Sector 8,Dwarka,Gujarat,22.248612,68.987609,3035,2,4,3,49,1980,Row House,Needs Renovation,2,5,4.62,2.43,4.16,4.66,81,96,8093487
+925,Bhavnagar - Sector 16,Bhavnagar,Gujarat,21.758449,72.163617,4912,3,1,3,113,2017,Farmhouse,Good,3,3,4.82,4.15,2.92,6.89,67,52,16595766
+926,Bhavnagar - Sector 18,Bhavnagar,Gujarat,21.781935,72.163228,1458,2,4,2,174,2009,Row House,Good,2,7,1.04,4.21,2.52,1.85,64,71,5519617
+927,Navsari - Sector 6,Navsari,Gujarat,20.9592,72.943203,3288,2,1,1,26,2009,Villa,Good,0,8,2.56,0.55,1.68,3.21,184,52,9540883
+928,Nadiad - Sector 15,Nadiad,Gujarat,22.689136,72.853153,3804,4,2,2,68,2017,Penthouse,Good,1,1,4.65,2.68,1.74,9.88,73,75,10893611
+929,Palanpur - Sector 17,Palanpur,Gujarat,24.163355,72.431938,4076,2,3,3,175,1991,Apartment,Needs Renovation,3,7,3.67,4.5,2.73,9.46,195,65,9045294
+930,Junagadh - Sector 11,Junagadh,Gujarat,21.514184,70.452477,979,5,3,2,166,2014,Villa,Good,2,9,3.41,2.21,3.86,7.3,127,68,2919542
+931,Anand - Sector 20,Anand,Gujarat,22.563891,72.939107,2504,2,2,2,177,2011,Villa,Good,2,10,2.75,4.54,1.33,8.02,91,72,7835279
+932,Vadodara - Sector 12,Vadodara,Gujarat,22.292364,73.188368,2396,1,3,1,57,1998,Villa,Needs Renovation,0,5,0.64,1.15,2.06,2.16,53,89,10420755
+933,Godhra - Sector 6,Godhra,Gujarat,22.78688,73.616074,3519,1,1,1,90,1987,Independent House,Needs Renovation,3,9,1.51,2.48,2.48,6.38,50,81,9041078
+934,Godhra - Sector 7,Godhra,Gujarat,22.786799,73.598858,3862,5,4,1,87,1995,Villa,Needs Renovation,1,3,1.88,1.28,4.09,9.42,176,80,8006509
+935,Vadodara - Sector 11,Vadodara,Gujarat,22.312995,73.168792,2377,1,1,2,189,1982,Independent House,Needs Renovation,3,8,1.87,2.49,3.35,3.49,104,88,9509436
+936,Ahmedabad - Sector 16,Ahmedabad,Gujarat,23.032616,72.555101,1419,2,2,2,83,2024,Apartment,New,2,1,3.9,2.72,1.46,4.18,95,63,6472599
+937,Palanpur - Sector 12,Palanpur,Gujarat,24.16973,72.439478,1771,3,2,2,41,2022,Studio,New,1,10,3.75,3.45,1.24,6.43,128,65,4575425
+938,Valsad - Sector 17,Valsad,Gujarat,20.602237,72.945181,650,2,4,3,27,1999,Farmhouse,Needs Renovation,3,6,0.87,3.57,2.07,5.06,51,51,2023650
+939,Bharuch - Sector 20,Bharuch,Gujarat,21.693721,72.986213,3192,3,1,2,88,1982,Apartment,Needs Renovation,1,2,3.4,3.55,4.96,2.53,73,66,11096574
+940,Bhavnagar - Sector 8,Bhavnagar,Gujarat,21.779715,72.153107,2397,4,1,3,185,1985,Farmhouse,Needs Renovation,0,8,1.9,2.55,2.43,5.25,64,60,8433662
+941,Navsari - Sector 10,Navsari,Gujarat,20.947704,72.933424,3992,2,4,3,121,2025,Farmhouse,New,2,1,3.4,4.05,4.81,8.7,82,50,11502622
+942,Bhavnagar - Sector 13,Bhavnagar,Gujarat,21.774081,72.152226,567,3,4,2,189,2008,Row House,Good,1,10,1.56,4.28,4.26,7.27,157,74,1715626
+943,Rajkot - Sector 9,Rajkot,Gujarat,22.285926,70.808657,665,5,2,1,160,2009,Studio,Good,0,10,3.63,2.31,2.7,7.11,61,62,2410381
+944,Junagadh - Sector 4,Junagadh,Gujarat,21.532213,70.440952,1824,5,2,3,131,2011,Villa,Good,0,5,0.6,0.56,4.41,8.99,198,63,4799311
+945,Valsad - Sector 3,Valsad,Gujarat,20.579711,72.919967,2178,4,3,2,166,2025,Penthouse,New,3,10,1.56,4.84,3.1,8.91,148,88,5566170
+946,Surat - Sector 10,Surat,Gujarat,21.166571,72.835903,4349,5,4,2,29,2025,Farmhouse,New,3,10,0.9,2.03,3.56,1.69,77,96,19392247
+947,Rajkot - Sector 8,Rajkot,Gujarat,22.291377,70.792559,3944,2,2,2,185,1992,Studio,Needs Renovation,0,2,1.73,1.89,4.67,4.7,149,69,13683814
+948,Junagadh - Sector 20,Junagadh,Gujarat,21.513866,70.461473,1152,4,4,1,136,2020,Apartment,New,1,1,1.44,4.71,3.0,4.28,62,80,3952314
+949,Godhra - Sector 13,Godhra,Gujarat,22.788147,73.619423,2634,5,2,3,190,1988,Farmhouse,Needs Renovation,1,1,2.97,3.3,4.22,3.32,102,93,6845649
+950,Godhra - Sector 8,Godhra,Gujarat,22.787507,73.627865,1352,1,2,2,85,2020,Villa,New,3,4,4.51,0.56,0.59,6.55,126,55,3183241
+951,Rajkot - Sector 6,Rajkot,Gujarat,22.294223,70.819192,2756,5,4,3,194,1997,Farmhouse,Needs Renovation,0,6,4.99,0.8,3.15,5.82,160,64,9205062
+952,Mehsana - Sector 2,Mehsana,Gujarat,23.595882,72.35729,3804,5,2,1,133,2009,Row House,Good,0,3,4.02,4.79,2.0,5.5,146,100,10697692
+953,Dwarka - Sector 13,Dwarka,Gujarat,22.24348,68.959156,4507,3,4,2,126,1993,Farmhouse,Needs Renovation,1,2,1.63,3.45,4.53,8.02,100,54,10898142
+954,Gandhinagar - Sector 8,Gandhinagar,Gujarat,23.235034,72.635228,4275,4,4,1,76,1984,Farmhouse,Needs Renovation,3,7,2.54,4.88,3.82,4.29,176,59,16745876
+955,Valsad - Sector 7,Valsad,Gujarat,20.595309,72.922102,3101,1,1,2,163,2021,Apartment,New,0,6,3.28,1.71,0.6,9.73,149,85,7757750
+956,Morbi - Sector 9,Morbi,Gujarat,22.798026,70.835682,1176,3,2,1,30,1989,Apartment,Needs Renovation,1,3,4.88,4.78,3.51,8.97,117,93,3067623
+957,Dwarka - Sector 19,Dwarka,Gujarat,22.240558,68.97332,3922,4,4,2,108,1997,Independent House,Needs Renovation,0,4,4.16,2.87,1.25,3.27,142,92,10064000
+958,Palanpur - Sector 4,Palanpur,Gujarat,24.160142,72.438551,4733,2,4,2,171,2016,Penthouse,Good,0,6,2.26,3.7,4.08,6.52,181,60,11460903
+959,Nadiad - Sector 20,Nadiad,Gujarat,22.695585,72.856007,4220,3,4,2,125,2002,Independent House,Good,3,6,4.37,3.44,3.76,6.23,195,52,11449212
+960,Nadiad - Sector 1,Nadiad,Gujarat,22.686394,72.862236,3976,1,1,3,43,2023,Studio,New,2,3,3.03,4.33,2.94,1.88,87,94,13450347
+961,Surat - Sector 1,Surat,Gujarat,21.184641,72.818845,837,5,1,1,126,1992,Farmhouse,Needs Renovation,3,1,1.92,2.96,2.29,6.46,155,84,3079431
+962,Morbi - Sector 9,Morbi,Gujarat,22.803424,70.832985,2861,4,3,1,77,2005,Penthouse,Good,1,9,0.83,1.45,4.15,1.66,67,93,9290490
+963,Anand - Sector 9,Anand,Gujarat,22.558488,72.9482,2120,3,2,1,155,1984,Row House,Needs Renovation,1,7,4.47,1.24,3.19,4.16,120,56,7012566
+964,Rajkot - Sector 12,Rajkot,Gujarat,22.323871,70.795847,2522,3,4,2,166,2015,Penthouse,Good,2,7,1.28,1.4,0.83,4.72,134,95,8900448
+965,Gandhinagar - Sector 5,Gandhinagar,Gujarat,23.198617,72.619726,2144,2,1,1,137,2007,Penthouse,Good,2,8,2.82,4.27,3.01,6.33,192,82,7867788
+966,Morbi - Sector 6,Morbi,Gujarat,22.800205,70.840476,2938,4,4,2,35,1984,Apartment,Needs Renovation,2,4,3.73,4.6,2.03,8.4,146,100,7515112
+967,Vadodara - Sector 20,Vadodara,Gujarat,22.299241,73.174984,3875,3,3,3,35,2020,Penthouse,New,3,3,3.78,1.65,1.12,3.42,195,97,13948846
+968,Porbandar - Sector 12,Porbandar,Gujarat,21.650842,69.613591,1414,5,4,3,119,2024,Farmhouse,New,2,1,3.17,1.71,1.83,7.88,113,51,3697936
+969,Morbi - Sector 6,Morbi,Gujarat,22.820218,70.838594,1517,1,1,1,43,2023,Independent House,New,1,7,0.85,3.76,3.52,5.97,138,88,4145472
+970,Dwarka - Sector 6,Dwarka,Gujarat,22.23385,68.966046,1332,2,4,2,170,2006,Penthouse,Good,2,8,3.02,4.18,3.53,6.18,61,66,3507697
+971,Mehsana - Sector 3,Mehsana,Gujarat,23.574057,72.371119,4840,2,1,1,61,2009,Studio,Good,3,8,4.67,4.21,3.82,2.38,119,87,15025965
+972,Mehsana - Sector 9,Mehsana,Gujarat,23.575427,72.387131,2621,1,2,3,148,1996,Studio,Needs Renovation,2,10,3.69,0.67,3.4,7.08,130,91,7242319
+973,Junagadh - Sector 4,Junagadh,Gujarat,21.518623,70.477568,3901,3,3,1,167,1981,Independent House,Needs Renovation,1,10,1.73,1.25,4.3,8.95,91,72,11645093
+974,Rajkot - Sector 19,Rajkot,Gujarat,22.318157,70.793501,1911,3,2,3,58,2002,Villa,Good,2,5,0.81,1.9,3.16,4.13,84,80,7226490
+975,Valsad - Sector 15,Valsad,Gujarat,20.586907,72.94624,2543,3,1,1,33,2018,Penthouse,New,2,2,1.8,4.01,2.14,8.08,176,86,6412357
+976,Ahmedabad - Sector 3,Ahmedabad,Gujarat,23.003986,72.557353,3182,5,4,3,159,2000,Apartment,Good,2,1,2.47,3.13,4.28,5.6,153,89,13163132
+977,Ahmedabad - Sector 16,Ahmedabad,Gujarat,23.021036,72.569545,1605,5,2,3,147,1986,Studio,Needs Renovation,3,5,3.61,4.5,0.65,6.05,176,83,6393722
+978,Surat - Sector 13,Surat,Gujarat,21.164447,72.843411,2611,1,3,2,156,2017,Studio,Good,3,9,4.06,0.62,2.71,5.38,144,88,9972641
+979,Jamnagar - Sector 6,Jamnagar,Gujarat,22.452568,70.070097,4370,4,3,1,110,2016,Apartment,Good,2,10,3.98,2.04,3.62,7.67,157,50,12163313
+980,Morbi - Sector 20,Morbi,Gujarat,22.806084,70.836977,1227,3,3,2,126,1994,Penthouse,Needs Renovation,0,10,3.84,0.93,3.28,1.86,186,82,3461844
+981,Ahmedabad - Sector 18,Ahmedabad,Gujarat,23.009998,72.567444,2848,1,3,1,118,2006,Farmhouse,Good,1,10,1.22,3.8,2.3,9.78,90,97,11466110
+982,Palanpur - Sector 12,Palanpur,Gujarat,24.18816,72.441187,3995,5,2,3,179,2003,Villa,Good,0,10,3.14,3.36,4.42,7.58,113,79,10221625
+983,Mehsana - Sector 6,Mehsana,Gujarat,23.58127,72.364343,4795,1,3,2,73,2009,Villa,Good,2,4,0.73,4.01,2.81,7.12,173,90,12582896
+984,Porbandar - Sector 20,Porbandar,Gujarat,21.638629,69.610813,3148,3,1,3,69,1998,Studio,Needs Renovation,2,5,4.07,2.64,1.46,7.18,58,81,8888537
+985,Mehsana - Sector 13,Mehsana,Gujarat,23.602414,72.3769,1607,2,3,3,71,1995,Penthouse,Needs Renovation,1,2,2.71,4.85,3.82,9.0,98,88,4397825
+986,Surat - Sector 16,Surat,Gujarat,21.165409,72.837277,532,1,2,3,133,2020,Row House,New,2,9,3.76,0.54,3.6,8.92,91,72,1986579
+987,Porbandar - Sector 19,Porbandar,Gujarat,21.63327,69.649141,4884,2,1,2,138,2006,Apartment,Good,2,2,1.81,4.97,3.48,2.85,139,57,13879011
+988,Vadodara - Sector 7,Vadodara,Gujarat,22.291233,73.196037,1129,3,1,2,184,1996,Penthouse,Needs Renovation,2,10,2.11,1.46,4.28,6.71,152,97,3978767
+989,Valsad - Sector 8,Valsad,Gujarat,20.599647,72.933658,4871,3,3,3,23,2019,Apartment,New,3,2,4.3,1.59,4.71,8.58,50,92,13991835
+990,Surat - Sector 20,Surat,Gujarat,21.158371,72.833595,2296,5,2,2,41,2014,Apartment,Good,3,1,1.68,2.58,0.88,7.18,181,53,8051975
+991,Morbi - Sector 3,Morbi,Gujarat,22.830986,70.839735,1581,2,3,2,177,2004,Apartment,Good,2,4,3.24,1.52,3.94,9.96,139,100,3924294
+992,Porbandar - Sector 14,Porbandar,Gujarat,21.628509,69.627082,3032,5,4,2,94,2006,Studio,Good,1,2,3.2,2.81,1.57,3.93,167,78,8144988
+993,Gandhinagar - Sector 17,Gandhinagar,Gujarat,23.20429,72.62006,1898,3,1,2,184,1989,Studio,Needs Renovation,1,3,4.29,0.99,3.19,5.76,153,53,7396530
+994,Mehsana - Sector 3,Mehsana,Gujarat,23.607883,72.374792,2957,1,3,3,128,2007,Farmhouse,Good,2,7,4.8,3.65,2.04,6.95,192,77,7611452
+995,Dwarka - Sector 9,Dwarka,Gujarat,22.233314,68.951747,3225,2,2,1,142,1984,Independent House,Needs Renovation,2,6,2.73,2.88,1.8,2.18,65,56,9228494
+996,Morbi - Sector 14,Morbi,Gujarat,22.834662,70.846583,2014,2,2,1,69,2025,Studio,New,1,2,4.67,1.58,4.66,8.76,89,50,5447898
+997,Surat - Sector 7,Surat,Gujarat,21.168397,72.828266,4127,2,1,1,136,2016,Apartment,Good,0,4,1.62,3.49,0.64,4.52,85,94,17174180
+998,Navsari - Sector 1,Navsari,Gujarat,20.932434,72.944881,2720,2,2,2,178,2020,Independent House,New,2,10,0.87,4.25,2.98,8.89,67,89,7928875
+999,Mehsana - Sector 10,Mehsana,Gujarat,23.578678,72.353657,4710,2,3,1,40,2022,Farmhouse,New,2,7,5.0,4.92,4.12,4.42,62,52,14901493
+1000,Navsari - Sector 9,Navsari,Gujarat,20.954556,72.942464,1485,2,2,1,193,1986,Farmhouse,Needs Renovation,2,3,1.0,4.26,3.55,1.98,78,97,4996813
