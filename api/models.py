@@ -2,7 +2,7 @@ from django.db import models
 from django.utils import timezone
 # models.py
 from django.core.exceptions import ValidationError
-
+from django.utils import timezone
 # Assuming you already have this
 
 
@@ -90,16 +90,11 @@ class Property(models.Model):
 # ----------------------------------------
 
 class Rental(models.Model):
-    property = models.OneToOneField(Property, on_delete=models.CASCADE)
-    rent_per_month = models.DecimalField(max_digits=10, decimal_places=2)
-    security_deposit = models.DecimalField(max_digits=10, decimal_places=2)
-    lease_duration_months = models.IntegerField()
-    is_rented = models.BooleanField(default=False)
-    rented_by = models.ForeignKey(UserIdentity, on_delete=models.SET_NULL, null=True, blank=True)
-    rent_start_date = models.DateField(null=True, blank=True)
-
+    property = models.OneToOneField(Property, on_delete=models.CASCADE, related_name="rental")
+    tenant_agreement = models.FileField(upload_to="agreements/", null=True, blank=True)
+    rented_on = models.DateTimeField(auto_now_add=True)
     def __str__(self):
-        return f"Rental: {self.property.title}"
+        return f"Rental for {self.property.title} ({self.property.city})"
 
 # ----------------------------------------
 # Transaction Model
@@ -135,16 +130,8 @@ class Message(models.Model):
     def __str__(self):
         return f"From {self.sender} to {self.receiver} at {self.timestamp}"
 
+# from .models import UserIdentity, Property  # make sure Property is imported
 
-
-
-from django.db import models
-from django.utils import timezone
-
-from django.db import models
-from .models import UserIdentity, Property  # make sure Property is imported
-
-from django.db import models
 
 class Wishlist(models.Model):
     username = models.ForeignKey("UserIdentity", on_delete=models.CASCADE)
@@ -154,8 +141,6 @@ class Wishlist(models.Model):
     def __str__(self):
         return f"{self.username} - {self.property.address}"
 
-
-from django.db import models
 
 class PropertyImage(models.Model):
     property = models.ForeignKey('Property', on_delete=models.CASCADE, related_name='images')
@@ -171,6 +156,7 @@ class Callback(models.Model):
     buyer_name = models.CharField(max_length=150)
     email_id = models.EmailField()
     phone_no = models.CharField(max_length=20)
+    called = models.BooleanField(default=False)  # Default = not called
 
     property = models.ForeignKey(Property, on_delete=models.CASCADE, null=True, blank=True)
     seller = models.ForeignKey(UserIdentity, on_delete=models.CASCADE, null=True, blank=True)
@@ -179,3 +165,6 @@ class Callback(models.Model):
 
     def __str__(self):
         return f"{self.buyer_name} - {self.property.title if self.property else 'No property'}"
+
+
+

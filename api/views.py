@@ -1,4 +1,4 @@
-from rest_framework import generics
+from rest_framework import generics,status
 from .models import UserIdentity, Property, Rental, Transaction, Message
 from .serializers import (
     UserIdentitySerializer, PropertySerializer,
@@ -8,10 +8,6 @@ from django.contrib.auth.hashers import check_password
 from rest_framework.views import APIView
 from rest_framework.response import Response
 
-from rest_framework.views import APIView
-from rest_framework.response import Response    
-from rest_framework import status
-from .serializers import UserIdentitySerializer
 
 class RegisterUser(APIView):
     def post(self, request):
@@ -26,32 +22,6 @@ class RegisterUserView(generics.CreateAPIView):
     queryset = UserIdentity.objects.all()
     serializer_class = UserIdentitySerializer
 
-# Properties: List and Create
-# Properties: List and Create
-# class PropertyListCreateView(generics.ListCreateAPIView):
-#     queryset = Property.objects.all()
-#     serializer_class = PropertySerializer
-#     print('1')
-#     def create(self, request, *args, **kwargs):
-#         print('2')
-#         username = request.data.get('listed_by')
-#         try:
-#             user = UserIdentity.objects.get(username=username)
-#         except UserIdentity.DoesNotExist:
-#             return Response({"error": "User not found"}, status=status.HTTP_400_BAD_REQUEST)
-
-#         if user.role != 'seller':
-#             return Response({"error": "Only sellers can add properties."}, status=status.HTTP_403_FORBIDDEN)
-
-#         # ✅ Convert username to ID
-#         data = request.data.copy()
-#         print(data)
-#         data['listed_by'] = user.pk  
-
-#         serializer = self.get_serializer(data=data)
-#         serializer.is_valid(raise_exception=True)
-#         self.perform_create(serializer)
-#         return Response(serializer.data, status=status.HTTP_201_CREATED)
 
 class PropertyListCreateView(generics.ListCreateAPIView):
     queryset = Property.objects.all()
@@ -91,8 +61,6 @@ class UserListView(generics.ListAPIView):
     queryset = UserIdentity.objects.all()
     serializer_class = UserIdentitySerializer
 
-
-
 class LoginUserView(APIView):
     def post(self, request):
         username = request.data.get("username")
@@ -117,34 +85,6 @@ class LoginUserView(APIView):
             return Response({"message": "User not found"}, status=404)
 
 
-# from django.http import JsonResponse
-# from django.views.decorators.csrf import csrf_exempt
-# from .models import UserIdentity
-# import json
-
-# @csrf_exempt
-# def login_view(request):
-#     if request.method == 'POST':
-#         data = json.loads(request.body)
-#         username = data.get('username')
-#         password = data.get('password')
-
-#         try:
-#             user = UserIdentity.objects.get(username=username)
-#             from django.contrib.auth.hashers import check_password
-#             if check_password(password, user.password):
-#                 return JsonResponse({
-#                     'username': user.username,
-#                     'first_name': user.first_name,
-#                     'last_name': user.last_name,
-#                     'email': user.email
-#                 })
-#             else:
-#                 return JsonResponse({'error': 'Invalid credentials'}, status=400)
-#         except UserIdentity.DoesNotExist:
-#             return JsonResponse({'error': 'User not found'}, status=400)
-
-
 from rest_framework import generics
 from .models import Property
 from .serializers import PropertySerializer
@@ -153,8 +93,6 @@ from rest_framework.permissions import IsAuthenticated
 class PropertyDetailView(generics.RetrieveAPIView):
     queryset = Property.objects.all()
     serializer_class = PropertySerializer
-
-
 
 from rest_framework.response import Response
 from rest_framework.decorators import api_view
@@ -223,32 +161,46 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
 # Load the model
-model = joblib.load("price_prediction_model.pkl")
+model1 = joblib.load("price_prediction_model.pkl")
+
+# @api_view(["POST"])
+# import pandas as pd
+
+import pandas as pd
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+
+import numpy as np
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+
+# views.py
+import numpy as np
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
 
 @api_view(["POST"])
 def predict_price(request):
     try:
         data = request.data
         features = np.array([[
-            data.get("area_sqft"),
-            data.get("bedrooms"),
-            data.get("bathrooms"),
-            data.get("floors"),
-            data.get("balcony_sqft"),
-            data.get("year_built"),
-            data.get("parking_spaces"),
-            data.get("amenities_score"),
-            data.get("nearby_schools_km"),
-            data.get("nearby_hospital_km"),
-            data.get("nearby_metro_km"),
-            data.get("crime_rate"),
-            data.get("air_quality_index"),
-            data.get("market_trend_score")
-        ]], dtype=float)
-
-        prediction = model.predict(features)[0]
+            float(data.get("area_sqft", 0) or 0),
+            float(data.get("bedrooms", 0) or 0),
+            float(data.get("bathrooms", 0) or 0),
+            float(data.get("floors", 0) or 0),
+            float(data.get("balcony_sqft", 0) or 0),
+            float(data.get("year_built", 0) or 0),
+            float(data.get("parking_spaces", 0) or 0),
+            float(data.get("amenities_score", 0) or 0),
+            float(data.get("nearby_schools_km", 0) or 0),
+            float(data.get("nearby_hospital_km", 0) or 0),
+            float(data.get("nearby_metro_km", 0) or 0),
+            float(data.get("crime_rate", 0) or 0),
+            float(data.get("air_quality_index", 0) or 0),
+            float(data.get("market_trend_score", 0) or 0),
+        ]])
+        prediction = model1.predict(features)[0]
         return Response({"predicted_price": round(prediction, 2)})
-
     except Exception as e:
         return Response({"error": str(e)}, status=400)
 
@@ -325,8 +277,6 @@ class PropertyListCreateView(generics.ListCreateAPIView):
         return Response(self.get_serializer(property_instance).data, status=status.HTTP_201_CREATED)
 
 
-
-
 from .models import Callback
 from .serializers import CallbackSerializer,serializers
 
@@ -359,3 +309,117 @@ def get_all_callbacks(request, username):
     properties = Callback.objects.filter(seller=user)
     serializer = CallbackSerializer(properties, many=True, context={'request': request})
     return Response(serializer.data)
+
+
+
+# views.py
+# views.py
+@api_view(['POST'])
+def remove_property(request, pk):
+    try:
+        property_obj = Property.objects.get(pk=pk)
+        property_obj.is_available = False
+        property_obj.save()
+        return Response({"message": "Property marked as unavailable"})
+    except Property.DoesNotExist:
+        return Response({"error": "Property not found"}, status=404)
+
+
+# views.py
+from .models import Callback
+
+@api_view(['POST'])
+def mark_callback_called(request, pk):
+    try:
+        cb = Callback.objects.get(pk=pk)
+        cb.called = True
+        cb.save()
+        return Response({"message": "Callback marked as called"})
+    except Callback.DoesNotExist:
+        return Response({"error": "Callback not found"}, status=404)
+
+
+
+from rest_framework.decorators import api_view
+from rest_framework import status
+
+@api_view(['DELETE'])
+def remove_from_wishlist(request, pk):
+    try:
+        from .models import Wishlist
+        wishlist_item = Wishlist.objects.get(pk=pk)
+        wishlist_item.delete()
+        return Response({"message": "Removed from wishlist"}, status=status.HTTP_200_OK)
+    except Wishlist.DoesNotExist:
+        return Response({"error": "Item not found in wishlist"}, status=status.HTTP_404_NOT_FOUND)
+
+
+
+from rest_framework.decorators import api_view, parser_classes
+from rest_framework.parsers import MultiPartParser, FormParser
+
+@api_view(['POST'])
+@parser_classes([MultiPartParser, FormParser])
+def mark_as_rented(request, pk):
+    try:
+        property_obj = Property.objects.get(pk=pk)
+    except Property.DoesNotExist:
+        return Response({"error": "Property not found"}, status=404)
+
+    # check if already rented
+    if hasattr(property_obj, "rental"):
+        return Response({"error": "This property is already rented"}, status=400)
+
+    pdf_file = request.FILES.get("agreement")
+    if not pdf_file:
+        return Response({"error": "PDF file required"}, status=400)
+
+    rental = Rental.objects.create(
+        property=property_obj,
+        tenant_agreement=pdf_file
+    )
+
+    property_obj.is_available = False
+    property_obj.save()
+
+    return Response({
+        "message": "Property marked as rented",
+        "rental_id": rental.id,
+        "pdf_url": rental.tenant_agreement.url
+    })
+from .models import Rental, UserIdentity
+from .serializers import RentalSerializer
+
+@api_view(['GET'])
+def seller_rentals(request, username):
+    try:
+        user = UserIdentity.objects.get(username=username)
+    except UserIdentity.DoesNotExist:
+        return Response({"error": "User not found"}, status=404)
+
+    # get rentals for properties listed by this seller
+    rentals = Rental.objects.filter(property__listed_by=user)
+    serializer = RentalSerializer(rentals, many=True, context={'request': request})
+    return Response(serializer.data)
+
+
+
+# views.py
+@api_view(['DELETE'])
+def remove_rental(request, pk):
+    try:
+        rental = Rental.objects.get(pk=pk)
+        property_obj = rental.property
+
+        # Delete rental
+        rental.delete()
+
+        # Mark property as available again
+        property_obj.is_available = True
+        property_obj.save()
+
+        return Response({"message": "Rental removed and property is available again"})
+    except Rental.DoesNotExist:
+        return Response({"error": "Rental not found"}, status=404)
+
+

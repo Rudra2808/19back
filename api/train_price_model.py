@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score
 from sklearn.linear_model import LinearRegression
 import joblib
 
@@ -29,4 +30,5 @@ joblib.dump(model, "price_prediction_model.pkl")
 
 # Print scores
 print("Training Score:", model.score(X_train, y_train))
+print(r2_score(y_test))
 print("Test Score:", model.score(X_test, y_test))

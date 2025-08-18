@@ -1,7 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth.hashers import make_password
 from .models import UserIdentity, Property, Rental, Transaction, Message, Wishlist,PropertyImage
-# from .serializers import PropertyImageSerializer
 class UserIdentitySerializer(serializers.ModelSerializer):
     class Meta:
         model = UserIdentity
@@ -59,7 +58,9 @@ class PropertySerializer(serializers.ModelSerializer):
 class RentalSerializer(serializers.ModelSerializer):
     class Meta:
         model = Rental
-        fields = '__all__'
+        fields = "__all__"
+        depth = 1   # expands the property into full object
+
 
 
 class TransactionSerializer(serializers.ModelSerializer):
@@ -75,17 +76,31 @@ class MessageSerializer(serializers.ModelSerializer):
 
 
 class WishlistSerializer(serializers.ModelSerializer):
+    property_id = serializers.IntegerField(source="property.id", read_only=True)
     property_title = serializers.CharField(source="property.title", read_only=True)
     property_city = serializers.CharField(source="property.city", read_only=True)
     property_price = serializers.DecimalField(
         source="property.price", max_digits=12, decimal_places=2, read_only=True
     )
-    property_image = serializers.ImageField(source="property.image", read_only=True)
+    property_image = serializers.SerializerMethodField()
 
     class Meta:
         model = Wishlist
-        fields = ["id", "property_title", "property_city", "property_price", "property_image", "added_on"]
+        fields = [
+            "id",
+            "property_id",   # ✅ Always send property_id
+            "property_title",
+            "property_city",
+            "property_price",
+            "property_image",
+            "added_on",
+        ]
 
+    def get_property_image(self, obj):
+        first_img = obj.property.images.first()
+        if first_img and first_img.image:
+            return self.context["request"].build_absolute_uri(first_img.image.url)
+        return None
 
 
 from .models import Callback

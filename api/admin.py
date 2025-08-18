@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import UserIdentity, Property, Rental, Transaction, Message,PropertyImage
+from .models import UserIdentity, Property, Rental, Transaction, Message,PropertyImage,Wishlist,Callback
 
 
 
@@ -27,7 +27,7 @@ class PropertyImageAdmin(admin.ModelAdmin):
 
 @admin.register(Rental)
 class RentalAdmin(admin.ModelAdmin):
-    list_display = ('property', 'rent_per_month', 'is_rented', 'lease_duration_months')
+    list_display = ("id", "property", "rented_on")  # ✅ fields that actually exist
 
 @admin.register(Transaction)
 class TransactionAdmin(admin.ModelAdmin):
@@ -40,10 +40,6 @@ class MessageAdmin(admin.ModelAdmin):
     search_fields = ('sender__username', 'receiver__username')
 
 
-
-from django.contrib import admin
-from .models import Wishlist
-
 # @admin.register(Wishlist)
 # class WishlistAdmin(admin.ModelAdmin):
 #     list_display = ('id', 'user', 'property', 'added_on')
@@ -53,11 +49,6 @@ from .models import Wishlist
 class WishlistAdmin(admin.ModelAdmin):
     list_display = ('username', 'property')
 
-
-
-from .models import Callback  # Import the Callback model
-from django.contrib import admin
-from .models import Callback
 
 @admin.register(Callback)
 class CallbackAdmin(admin.ModelAdmin):
