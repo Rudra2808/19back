@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 asgiref==3.8.1
 Django==4.2.15
 django-cors-headers==4.3.1
@@ -13,7 +12,6 @@ sqlparse==0.5.1
 tzdata==2024.1
 scikit-learn==1.5.1
 pandas==2.2.2
-=======
 # Django + REST
 Django==4.2.15
 djangorestframework==3.14.0
@@ -42,4 +40,3 @@ wheel
 cython
 meson
 ninja
->>>>>>> 5134412c54aaca5135e8c38a52ae5663510d46e1
