@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 asgiref==3.8.1
 Django==4.2.15
 django-cors-headers==4.3.1
@@ -12,3 +13,33 @@ sqlparse==0.5.1
 tzdata==2024.1
 scikit-learn==1.5.1
 pandas==2.2.2
+=======
+# Django + REST
+Django==4.2.15
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.3.1
+
+# Data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Image handling
+Pillow==10.4.0
+
+# Timezone
+pytz==2024.1
+
+# Authentication & JWT
+PyJWT==2.9.0
+
+# ML / Utils
+joblib==1.4.2
+
+# Build tools (to avoid Cython errors if something needs compiling)
+setuptools>=70.0.0
+wheel
+cython
+meson
+ninja
+>>>>>>> 5134412c54aaca5135e8c38a52ae5663510d46e1
