@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 services:
   - type: web
     name: havenhunt-backend
@@ -17,23 +16,4 @@ services:
 databases:
   - name: havenhunt-db
     plan: free
-=======
-services:
-  - type: web
-    name: havenhunt-backend
-    env: python
-    plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn djangobackend.wsgi:application
-    envVars:
-      - key: DJANGO_SETTINGS_MODULE
-        value: djangobackend.settings
-      - key: PYTHON_VERSION
-        value: 3.10
-      - key: ALLOWED_HOSTS
-        value: .onrender.com
 
-databases:
-  - name: havenhunt-db
-    plan: free
->>>>>>> 5134412c54aaca5135e8c38a52ae5663510d46e1
