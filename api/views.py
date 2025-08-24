@@ -1,12 +1,13 @@
 from rest_framework import generics,status
-from .models import UserIdentity, Property, Rental, Transaction, Message
+from .models import UserIdentity, Property, Rental
 from .serializers import (
     UserIdentitySerializer, PropertySerializer,
-    RentalSerializer, TransactionSerializer, MessageSerializer
+    RentalSerializer, UserProfileSerializer
 )
 from django.contrib.auth.hashers import check_password
 from rest_framework.views import APIView
 from rest_framework.response import Response
+from django.contrib.auth.hashers import make_password
 
 
 class RegisterUser(APIView):
@@ -17,7 +18,6 @@ class RegisterUser(APIView):
             return Response({'message': 'User registered successfully.'}, status=status.HTTP_201_CREATED)
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
-# User Registration
 class RegisterUserView(generics.CreateAPIView):
     queryset = UserIdentity.objects.all()
     serializer_class = UserIdentitySerializer
@@ -38,24 +38,12 @@ class PropertyListCreateView(generics.ListCreateAPIView):
         if user.role != 'seller':
             return Response({"error": "Only sellers can add properties."}, status=status.HTTP_403_FORBIDDEN)
 
-        # ✅ Just pass through the request — DRF SlugRelatedField will handle username lookup
         return super().create(request, *args, **kwargs)
 
 
-# Rental Details
 class RentalDetailView(generics.RetrieveUpdateAPIView):
     queryset = Rental.objects.all()
     serializer_class = RentalSerializer
-
-# Transactions List
-class TransactionListView(generics.ListAPIView):
-    queryset = Transaction.objects.all()
-    serializer_class = TransactionSerializer
-
-# Messaging
-class MessageListCreateView(generics.ListCreateAPIView):
-    queryset = Message.objects.all()
-    serializer_class = MessageSerializer
 
 class UserListView(generics.ListAPIView):
     queryset = UserIdentity.objects.all()
@@ -66,8 +54,7 @@ class LoginUserView(APIView):
         username = request.data.get("username")
         password = request.data.get("password")
         role=request.data.get('role')
-        # print(role)
-        # print('hello1')
+        
         try:
             user = UserIdentity.objects.get(username=username)
             if check_password(password, user.password):
@@ -77,7 +64,7 @@ class LoginUserView(APIView):
     "first_name": user.first_name,
     "last_name": user.last_name,
     "email": user.email,
-    "role": user.role  # ✅ Include this
+    "role": user.role 
 }, status=200)
             else:
                 return Response({"message": "Invalid password"}, status=400)
@@ -90,7 +77,7 @@ from .models import Property
 from .serializers import PropertySerializer
 from rest_framework.permissions import IsAuthenticated
 
-class PropertyDetailView(generics.RetrieveAPIView):
+class PropertyDetailView(generics.RetrieveUpdateAPIView):
     queryset = Property.objects.all()
     serializer_class = PropertySerializer
 
@@ -122,7 +109,7 @@ from .models import Wishlist
 
 @api_view(['GET'])
 def get_wishlist(request):
-    username = request.GET.get('username')  # e.g., ?username=john123
+    username = request.GET.get('username')  
     if username:
         wishlist_items = Wishlist.objects.filter(username__username=username)
     else:
@@ -130,12 +117,23 @@ def get_wishlist(request):
 
     data = []
     for item in wishlist_items:
+        first_image = None
+        if hasattr(item.property, 'images') and item.property.images.exists():
+            first_img = item.property.images.first()
+            if first_img and first_img.image:
+                first_image = request.build_absolute_uri(first_img.image.url)
+        
         data.append({
-            "id": item.id,
+            "id": item.id,  
+            "property_id": item.property.id, 
             "address": item.property.address,
             "title": item.property.title,
             "price": item.property.price,
-            "image": item.property.image.url if item.property.image else None
+            "image": first_image, 
+            "property_type": item.property.property_type,
+            "city": item.property.city,
+            "state": item.property.state,
+            "is_rental": item.property.is_rental
         })
 
     return Response(data)
@@ -154,30 +152,15 @@ class WishlistListView(generics.ListAPIView):
         if username:
             return Wishlist.objects.filter(username=username)
         return Wishlist.objects.all()
-# views.py
 import joblib
 import numpy as np
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
-# Load the model
 model1 = joblib.load("price_prediction_model.pkl")
 
-# @api_view(["POST"])
-# import pandas as pd
 
-import pandas as pd
-from rest_framework.decorators import api_view
-from rest_framework.response import Response
 
-import numpy as np
-from rest_framework.decorators import api_view
-from rest_framework.response import Response
-
-# views.py
-import numpy as np
-from rest_framework.decorators import api_view
-from rest_framework.response import Response
 
 @api_view(["POST"])
 def predict_price(request):
@@ -205,8 +188,6 @@ def predict_price(request):
         return Response({"error": str(e)}, status=400)
 
 
-# api/views.py
-# api/views.py
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from .models import Property, UserIdentity
@@ -230,7 +211,6 @@ import numpy as np
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 
-# Load the model once when this module loads
 model = joblib.load("rent_price_model.pkl")
 
 @api_view(["POST"])
@@ -266,7 +246,7 @@ class PropertyListCreateView(generics.ListCreateAPIView):
     serializer_class = PropertySerializer
 
     def post(self, request, *args, **kwargs):
-        images = request.FILES.getlist('images')  # multiple files from frontend
+        images = request.FILES.getlist('images') 
         serializer = self.get_serializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         property_instance = serializer.save()
@@ -290,7 +270,7 @@ class CallbackCreateView(generics.CreateAPIView):
             prop = Property.objects.get(id=property_id)
             serializer.save(
                 property=prop,
-                seller=prop.listed_by  # Automatically link seller from property
+                seller=prop.listed_by  
             )
         except Property.DoesNotExist:
             raise serializers.ValidationError({"error": "Invalid property ID"})
@@ -311,9 +291,6 @@ def get_all_callbacks(request, username):
     return Response(serializer.data)
 
 
-
-# views.py
-# views.py
 @api_view(['POST'])
 def remove_property(request, pk):
     try:
@@ -325,7 +302,6 @@ def remove_property(request, pk):
         return Response({"error": "Property not found"}, status=404)
 
 
-# views.py
 from .models import Callback
 
 @api_view(['POST'])
@@ -366,7 +342,6 @@ def mark_as_rented(request, pk):
     except Property.DoesNotExist:
         return Response({"error": "Property not found"}, status=404)
 
-    # check if already rented
     if hasattr(property_obj, "rental"):
         return Response({"error": "This property is already rented"}, status=400)
 
@@ -397,24 +372,20 @@ def seller_rentals(request, username):
     except UserIdentity.DoesNotExist:
         return Response({"error": "User not found"}, status=404)
 
-    # get rentals for properties listed by this seller
     rentals = Rental.objects.filter(property__listed_by=user)
     serializer = RentalSerializer(rentals, many=True, context={'request': request})
     return Response(serializer.data)
 
 
 
-# views.py
 @api_view(['DELETE'])
 def remove_rental(request, pk):
     try:
         rental = Rental.objects.get(pk=pk)
         property_obj = rental.property
 
-        # Delete rental
         rental.delete()
 
-        # Mark property as available again
         property_obj.is_available = True
         property_obj.save()
 
@@ -422,4 +393,128 @@ def remove_rental(request, pk):
     except Rental.DoesNotExist:
         return Response({"error": "Rental not found"}, status=404)
 
+
+class UserProfileView(generics.RetrieveUpdateAPIView):
+    queryset = UserIdentity.objects.all()
+    serializer_class = UserProfileSerializer
+    lookup_field = 'username'
+
+
+class ChangePasswordView(APIView):
+    def post(self, request, username):
+        old_password = request.data.get('old_password')
+        new_password = request.data.get('new_password')
+
+        if not old_password or not new_password:
+            return Response({"error": "old_password and new_password are required"}, status=400)
+
+        try:
+            user = UserIdentity.objects.get(username=username)
+        except UserIdentity.DoesNotExist:
+            return Response({"error": "User not found"}, status=404)
+
+        if not check_password(old_password, user.password):
+            return Response({"error": "Old password is incorrect"}, status=400)
+
+        lower_new = new_password.lower()
+        if (
+            user.username.lower() in lower_new or
+            user.first_name.lower() in lower_new or
+            user.last_name.lower() in lower_new
+        ):
+            return Response({"error": "Password should not contain personal details like username, first name, or last name."}, status=400)
+
+        user.password = make_password(new_password)
+        user.save()
+        return Response({"message": "Password updated successfully"})
+
+
+class ForgotPasswordView(APIView):
+    def post(self, request, username):
+        email = request.data.get('email')
+        new_password = request.data.get('new_password')
+
+        if not email or not new_password:
+            return Response({"error": "email and new_password are required"}, status=400)
+
+        try:
+            user = UserIdentity.objects.get(username=username)
+        except UserIdentity.DoesNotExist:
+            return Response({"error": "User not found"}, status=404)
+
+        if user.email.lower() != email.lower():
+            return Response({"error": "Email does not match our records"}, status=400)
+
+        lower_new = new_password.lower()
+        if (
+            user.username.lower() in lower_new or
+            user.first_name.lower() in lower_new or
+            user.last_name.lower() in lower_new
+        ):
+            return Response({"error": "Password should not contain personal details like username, first name, or last name."}, status=400)
+
+        user.password = make_password(new_password)
+        user.save()
+        return Response({"message": "Password reset successfully"})
+
+
+from rest_framework.parsers import MultiPartParser, FormParser
+from .models import Agreement
+from .serializers import AgreementSerializer
+
+@api_view(['POST'])
+def create_agreement(request):
+    username = request.data.get('username')
+    form_data = request.data.get('form_data')
+    title = request.data.get('title')
+    if not username or not form_data:
+        return Response({"error": "username and form_data are required"}, status=400)
+
+    try:
+        user = UserIdentity.objects.get(username=username)
+    except UserIdentity.DoesNotExist:
+        return Response({"error": "User not found"}, status=404)
+
+    past_count = Agreement.objects.filter(user=user).count()
+    base_price = 500.0
+    discount_pct = min(past_count * 4.0, 40.0) 
+    final_amount = round(base_price * (1.0 - discount_pct / 100.0), 2)
+
+    agreement = Agreement.objects.create(user=user, form_data=form_data, amount=final_amount, title=title)
+    return Response({
+        "agreement_id": agreement.id,
+        "base_amount": base_price,
+        "discount_percent": discount_pct,
+        "final_amount": final_amount,
+        "title": agreement.title,
+    })
+
+
+@api_view(['POST'])
+@parser_classes([MultiPartParser, FormParser])
+def upload_agreement_pdf(request, agreement_id):
+    try:
+        agreement = Agreement.objects.get(id=agreement_id)
+    except Agreement.DoesNotExist:
+        return Response({"error": "Agreement not found"}, status=404)
+
+    pdf_file = request.FILES.get('file')
+    if not pdf_file:
+        return Response({"error": "PDF file is required"}, status=400)
+
+    agreement.pdf_file = pdf_file
+    agreement.save()
+    return Response({"message": "PDF uploaded", "pdf_url": agreement.pdf_file.url})
+
+
+@api_view(['GET'])
+def list_user_agreements(request, username):
+    try:
+        user = UserIdentity.objects.get(username=username)
+    except UserIdentity.DoesNotExist:
+        return Response({"error": "User not found"}, status=404)
+
+    agreements = Agreement.objects.filter(user=user).order_by('-created_at')
+    serializer = AgreementSerializer(agreements, many=True, context={'request': request})
+    return Response(serializer.data)
 

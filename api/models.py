@@ -1,9 +1,8 @@
 from django.db import models
 from django.utils import timezone
-# models.py
 from django.core.exceptions import ValidationError
 from django.utils import timezone
-# Assuming you already have this
+from decimal import Decimal
 
 
 
@@ -47,9 +46,6 @@ class UserIdentity(models.Model):
             self.password = make_password(self.password)
         super().save(*args, **kwargs)
 
-# ----------------------------------------
-# Property Model
-# ----------------------------------------
 
 class Property(models.Model):
     PROPERTY_TYPE_CHOICES = [
@@ -85,10 +81,6 @@ class Property(models.Model):
     def __str__(self):
         return self.title
 
-# ----------------------------------------
-# Rental Model
-# ----------------------------------------
-
 class Rental(models.Model):
     property = models.OneToOneField(Property, on_delete=models.CASCADE, related_name="rental")
     tenant_agreement = models.FileField(upload_to="agreements/", null=True, blank=True)
@@ -96,48 +88,13 @@ class Rental(models.Model):
     def __str__(self):
         return f"Rental for {self.property.title} ({self.property.city})"
 
-# ----------------------------------------
-# Transaction Model
-# ----------------------------------------
-
-class Transaction(models.Model):
-    TRANSACTION_TYPE_CHOICES = [
-        ('BUY', 'Buy'),
-        ('RENT', 'Rent'),
-        ('DEP', 'Deposit'),
-    ]
-
-    user = models.ForeignKey(UserIdentity, on_delete=models.CASCADE)
-    property = models.ForeignKey(Property, on_delete=models.CASCADE)
-    transaction_type = models.CharField(max_length=4, choices=TRANSACTION_TYPE_CHOICES)
-    amount = models.DecimalField(max_digits=12, decimal_places=2)
-    date = models.DateTimeField(default=timezone.now)
-    notes = models.TextField(blank=True, null=True)
-
-    def __str__(self):
-        return f"{self.transaction_type} - {self.property.title} - {self.amount}"
-
-# ----------------------------------------
-# Message Model (Optional)
-# ----------------------------------------
-
-class Message(models.Model):
-    sender = models.ForeignKey(UserIdentity, on_delete=models.CASCADE, related_name='sent_messages')
-    receiver = models.ForeignKey(UserIdentity, on_delete=models.CASCADE, related_name='received_messages')
-    content = models.TextField()
-    timestamp = models.DateTimeField(default=timezone.now)
-
-    def __str__(self):
-        return f"From {self.sender} to {self.receiver} at {self.timestamp}"
-
-# from .models import UserIdentity, Property  # make sure Property is imported
 
 
 class Wishlist(models.Model):
     username = models.ForeignKey("UserIdentity", on_delete=models.CASCADE)
     property = models.ForeignKey("Property", on_delete=models.CASCADE)
     class Meta:
-        unique_together = ('username', 'property')  # ✅ No duplicates
+        unique_together = ('username', 'property')  
     def __str__(self):
         return f"{self.username} - {self.property.address}"
 
@@ -156,7 +113,7 @@ class Callback(models.Model):
     buyer_name = models.CharField(max_length=150)
     email_id = models.EmailField()
     phone_no = models.CharField(max_length=20)
-    called = models.BooleanField(default=False)  # Default = not called
+    called = models.BooleanField(default=False)  
 
     property = models.ForeignKey(Property, on_delete=models.CASCADE, null=True, blank=True)
     seller = models.ForeignKey(UserIdentity, on_delete=models.CASCADE, null=True, blank=True)
@@ -167,4 +124,15 @@ class Callback(models.Model):
         return f"{self.buyer_name} - {self.property.title if self.property else 'No property'}"
 
 
+
+class Agreement(models.Model):
+    user = models.ForeignKey(UserIdentity, on_delete=models.CASCADE, related_name="agreements")
+    form_data = models.JSONField()
+    title = models.CharField(max_length=255, blank=True, null=True)
+    amount = models.DecimalField(max_digits=10, decimal_places=2, default=Decimal("500.00"))
+    pdf_file = models.FileField(upload_to="agreements/", blank=True, null=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"Agreement #{self.id} - {self.title or self.user.username}"
 

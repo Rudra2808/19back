@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from django.contrib.auth.hashers import make_password
-from .models import UserIdentity, Property, Rental, Transaction, Message, Wishlist,PropertyImage
+from .models import UserIdentity, Property, Rental, Wishlist,PropertyImage, Agreement
 class UserIdentitySerializer(serializers.ModelSerializer):
     class Meta:
         model = UserIdentity
@@ -59,20 +59,7 @@ class RentalSerializer(serializers.ModelSerializer):
     class Meta:
         model = Rental
         fields = "__all__"
-        depth = 1   # expands the property into full object
-
-
-
-class TransactionSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Transaction
-        fields = '__all__'
-
-
-class MessageSerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Message
-        fields = '__all__'
+        depth = 1   
 
 
 class WishlistSerializer(serializers.ModelSerializer):
@@ -88,7 +75,7 @@ class WishlistSerializer(serializers.ModelSerializer):
         model = Wishlist
         fields = [
             "id",
-            "property_id",   # ✅ Always send property_id
+            "property_id",  
             "property_title",
             "property_city",
             "property_price",
@@ -111,3 +98,38 @@ class CallbackSerializer(serializers.ModelSerializer):
     class Meta:
         model = Callback
         fields = '__all__'
+
+
+
+class UserProfileSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = UserIdentity
+        fields = [
+            'username',
+            'first_name',
+            'last_name',
+            'email',
+            'mobile_number',
+            'role',
+            'id_card_type',
+            'id_card_number',
+        ]
+        read_only_fields = ['username', 'role']
+
+
+class AgreementSerializer(serializers.ModelSerializer):
+    pdf_url = serializers.SerializerMethodField()
+
+    class Meta:
+        model = Agreement
+        fields = '__all__'
+        read_only_fields = ['created_at']
+
+    def get_pdf_url(self, obj):
+        if obj.pdf_file and hasattr(obj.pdf_file, 'url'):
+            request = self.context.get('request')
+            url = obj.pdf_file.url
+            if request:
+                return request.build_absolute_uri(url)
+            return url
+        return None

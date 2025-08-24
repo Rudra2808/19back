@@ -1,7 +1,5 @@
 from django.contrib import admin
-from .models import UserIdentity, Property, Rental, Transaction, Message,PropertyImage,Wishlist,Callback
-
-
+from .models import UserIdentity, Property, Rental,PropertyImage,Wishlist,Callback, Agreement
 
 class PropertyImageInline(admin.TabularInline):
     model = PropertyImage
@@ -19,32 +17,14 @@ class PropertyAdmin(admin.ModelAdmin):
     search_fields = ('title', 'city')
     inlines = [PropertyImageInline] 
 
-    
 @admin.register(PropertyImage)
 class PropertyImageAdmin(admin.ModelAdmin):
     list_display = ('property', 'image')
 
-
 @admin.register(Rental)
 class RentalAdmin(admin.ModelAdmin):
-    list_display = ("id", "property", "rented_on")  # ✅ fields that actually exist
+    list_display = ("id", "property", "rented_on")
 
-@admin.register(Transaction)
-class TransactionAdmin(admin.ModelAdmin):
-    list_display = ('user', 'property', 'transaction_type', 'amount', 'date')
-    list_filter = ('transaction_type',)
-
-@admin.register(Message)
-class MessageAdmin(admin.ModelAdmin):
-    list_display = ('sender', 'receiver', 'timestamp')
-    search_fields = ('sender__username', 'receiver__username')
-
-
-# @admin.register(Wishlist)
-# class WishlistAdmin(admin.ModelAdmin):
-#     list_display = ('id', 'user', 'property', 'added_on')
-#     list_filter = ('added_on',)
-#     search_fields = ('user__username', 'property__address')
 @admin.register(Wishlist)
 class WishlistAdmin(admin.ModelAdmin):
     list_display = ('username', 'property')
@@ -55,4 +35,11 @@ class CallbackAdmin(admin.ModelAdmin):
     list_display = ('buyer_name', 'email_id', 'phone_no', 'property', 'seller', 'created_at')
     search_fields = ('buyer_name', 'email_id', 'phone_no', 'property__title', 'seller__username')
     list_filter = ('seller', 'created_at')
-ilter = ('seller_username', 'created_at')
+
+
+@admin.register(Agreement)
+class AgreementAdmin(admin.ModelAdmin):
+    list_display = ('id', 'user', 'amount', 'created_at', 'pdf_file')
+    list_filter = ('created_at',)
+    search_fields = ('user__username',)
+    readonly_fields = ('created_at',)
